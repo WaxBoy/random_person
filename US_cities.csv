@@ -1,0 +1,4962 @@
+city,state_name,population
+New York,New York,18832416
+Los Angeles,California,11885717
+Chicago,Illinois,8489066
+Miami,Florida,6113982
+Houston,Texas,6046392
+Dallas,Texas,5843632
+Philadelphia,Pennsylvania,5696588
+Atlanta,Georgia,5211164
+Washington,District of Columbia,5146120
+Boston,Massachusetts,4355184
+Phoenix,Arizona,4065338
+Detroit,Michigan,3716929
+Seattle,Washington,3555253
+San Francisco,California,3364862
+San Diego,California,3057778
+Minneapolis,Minnesota,2906807
+Tampa,Florida,2906035
+Brooklyn,New York,2736074
+Denver,Colorado,2691349
+Queens,New York,2405464
+Riverside,California,2288508
+Las Vegas,Nevada,2256509
+Baltimore,Maryland,2189589
+St. Louis,Missouri,2127843
+Portland,Oregon,2084045
+San Antonio,Texas,2069843
+Sacramento,California,1962998
+Austin,Texas,1915031
+Orlando,Florida,1913597
+San Jose,California,1771563
+Indianapolis,Indiana,1740984
+Pittsburgh,Pennsylvania,1712828
+Cincinnati,Ohio,1704916
+Manhattan,New York,1694263
+Kansas City,Missouri,1686807
+Cleveland,Ohio,1679247
+Columbus,Ohio,1578153
+Bronx,New York,1472654
+Charlotte,North Carolina,1436613
+Virginia Beach,Virginia,1431821
+Jacksonville,Florida,1303156
+Milwaukee,Wisconsin,1290221
+Providence,Rhode Island,1270529
+Nashville,Tennessee,1178679
+Salt Lake City,Utah,1169033
+Raleigh,North Carolina,1150010
+Richmond,Virginia,1081248
+Memphis,Tennessee,1033394
+Oklahoma City,Oklahoma,1000207
+Hartford,Connecticut,969171
+Louisville,Kentucky,965005
+Buffalo,New York,949547
+Fort Worth,Texas,941311
+Bridgeport,Connecticut,921660
+New Orleans,Louisiana,918752
+Tucson,Arizona,879871
+El Paso,Texas,862494
+Omaha,Nebraska,826161
+McAllen,Texas,810034
+Birmingham,Alabama,778756
+Albuquerque,New Mexico,767499
+Tulsa,Oklahoma,740620
+Charleston,South Carolina,726389
+Fresno,California,724547
+Rochester,New York,694707
+Dayton,Ohio,667936
+Cape Coral,Florida,656464
+Provo,Utah,639820
+Colorado Springs,Colorado,638421
+Mission Viejo,California,634674
+Allentown,Pennsylvania,632175
+Baton Rouge,Louisiana,630063
+Ogden,Utah,623688
+Knoxville,Tennessee,618226
+Grand Rapids,Michigan,611480
+Columbia,South Carolina,605083
+Albany,New York,602242
+Bakersfield,California,578542
+New Haven,Connecticut,565056
+Des Moines,Iowa,560170
+Palm Bay,Florida,547659
+Akron,Ohio,538659
+Concord,California,525233
+Mesa,Arizona,507478
+Wichita,Kansas,501760
+Harrisburg,Pennsylvania,499494
+Staten Island,New York,495747
+Toledo,Ohio,492076
+Worcester,Massachusetts,487014
+Port St. Lucie,Florida,473733
+Little Rock,Arkansas,467846
+Madison,Wisconsin,460255
+Spokane,Washington,458988
+Long Beach,California,458491
+Denton,Texas,455152
+Reno,Nevada,454814
+Boise,Idaho,449428
+Bonita Springs,Florida,445500
+Kissimmee,Florida,442790
+Augusta,Georgia,439361
+Springfield,Massachusetts,438889
+Oakland,California,438072
+Winston-Salem,North Carolina,434231
+Stockton,California,416005
+Durham,North Carolina,411362
+Chattanooga,Tennessee,410795
+Greenville,South Carolina,408626
+Lancaster,Pennsylvania,408023
+Syracuse,New York,407625
+Fayetteville,Arkansas,405556
+Pensacola,Florida,401535
+Arlington,Texas,394769
+Aurora,Colorado,390201
+Scranton,Pennsylvania,375462
+Oxnard,California,373423
+Indio,California,371926
+Victorville,California,363596
+Trenton,New Jersey,362501
+Huntsville,Alabama,359389
+Modesto,California,355686
+Honolulu,Hawaii,346323
+Greensboro,North Carolina,345858
+Fort Wayne,Indiana,345279
+Anaheim,California,344553
+Corpus Christi,Texas,339432
+Fort Collins,Colorado,339256
+Antioch,California,333347
+Jackson,Mississippi,331332
+Fayetteville,North Carolina,326821
+Myrtle Beach,South Carolina,325829
+Henderson,Nevada,324523
+Mobile,Alabama,324067
+Lexington,Kentucky,321122
+Lansing,Michigan,318001
+Savannah,Georgia,316446
+Youngstown,Ohio,315751
+Ann Arbor,Michigan,314647
+Santa Ana,California,311639
+Irvine,California,308160
+St. Paul,Minnesota,307762
+Poughkeepsie,New York,307738
+Newark,New Jersey,307188
+Santa Rosa,California,299986
+Concord,North Carolina,297379
+Winter Haven,Florida,296830
+Asheville,North Carolina,295040
+Canton,Ohio,293657
+Lincoln,Nebraska,293055
+Flint,Michigan,291688
+Lakeland,Florida,290762
+Jersey City,New Jersey,289691
+Anchorage,Alaska,289069
+Springfield,Missouri,289041
+Plano,Texas,287339
+Lubbock,Texas,283024
+Davenport,Iowa,282356
+Reading,Pennsylvania,280030
+Shreveport,Louisiana,278269
+Chandler,Arizona,278123
+South Bend,Indiana,275725
+Wilmington,North Carolina,275128
+Chula Vista,California,275030
+Rockford,Illinois,274256
+Eugene,Oregon,272737
+Salem,Oregon,272331
+Gilbert,Arizona,271118
+North Las Vegas,Nevada,270773
+Santa Clarita,California,265529
+Peoria,Illinois,262461
+Tallahassee,Florida,261271
+Killeen,Texas,261099
+St. Petersburg,Florida,260646
+Kennewick,Washington,260091
+Columbus,Georgia,257578
+Laredo,Texas,255949
+Irving,Texas,255036
+Round Lake Beach,Illinois,252224
+Montgomery,Alabama,251545
+Chesapeake,Virginia,251153
+Glendale,Arizona,250193
+Nashua,New Hampshire,247828
+York,Pennsylvania,246769
+Garland,Texas,245298
+Rock Hill,South Carolina,244403
+Scottsdale,Arizona,242169
+Arlington,Virginia,235463
+Norfolk,Virginia,235037
+Appleton,Wisconsin,234701
+Enterprise,Nevada,232043
+Gulfport,Mississippi,231754
+Lafayette,Louisiana,231548
+Bremerton,Washington,228576
+Fremont,California,228518
+Green Bay,Wisconsin,227679
+Fargo,North Dakota,225066
+Deltona,Florida,224303
+Brownsville,Texas,223416
+Hialeah,Florida,221901
+San Bernardino,California,221774
+Tacoma,Washington,220482
+Gainesville,Florida,219946
+Spring Valley,Nevada,219913
+Clarksville,Tennessee,218159
+College Station,Texas,215768
+Olympia,Washington,215677
+Roanoke,Virginia,214019
+Portland,Maine,213660
+Fontana,California,211921
+Spartanburg,South Carolina,210388
+Moreno Valley,California,210378
+Frisco,Texas,210238
+Yonkers,New York,209529
+Thousand Oaks,California,208302
+Sioux Falls,South Dakota,207795
+Hagerstown,Maryland,206889
+Evansville,Indiana,206418
+Amarillo,Texas,205100
+Kalamazoo,Michigan,204408
+Lorain,Ohio,203802
+Galveston,Texas,202810
+McKinney,Texas,202314
+Huntington,West Virginia,201208
+Nampa,Idaho,201129
+Hickory,North Carolina,200500
+Waterbury,Connecticut,199965
+Sunrise Manor,Nevada,199099
+Grand Prairie,Texas,198564
+Ocala,Florida,197770
+Waco,Texas,197594
+Overland Park,Kansas,197199
+Frederick,Maryland,196743
+Huntington Beach,California,196010
+Santa Barbara,California,194950
+Peoria,Arizona,194338
+Cedar Rapids,Iowa,192755
+Vancouver,Washington,192696
+Glendale,California,192270
+Gastonia,North Carolina,189767
+Spring Hill,Florida,188743
+Murfreesboro,Tennessee,187601
+Tempe,Arizona,186419
+Paradise,Nevada,186178
+Newport News,Virginia,184774
+Erie,Pennsylvania,184332
+Fort Lauderdale,Florida,183032
+Gainesville,Georgia,182116
+Aurora,Illinois,179867
+Mauldin,South Carolina,179196
+Ontario,California,178347
+Elk Grove,California,177221
+Panama City,Florida,177125
+Cary,North Carolina,176686
+Hemet,California,176009
+Danbury,Connecticut,175074
+Rancho Cucamonga,California,174693
+Salinas,California,172995
+Oceanside,California,172542
+Vallejo,California,171414
+High Point,North Carolina,171342
+Garden Grove,California,170603
+Pembroke Pines,Florida,170557
+Lancaster,California,170013
+Marysville,Washington,168664
+Fredericksburg,Virginia,166746
+Visalia,California,166273
+Tuscaloosa,Alabama,166253
+Palmdale,California,165487
+Santa Cruz,California,165263
+Medford,Oregon,164628
+Norwich,Connecticut,163299
+Merced,California,163257
+Manchester,New Hampshire,162716
+Odessa,Texas,162648
+Muskegon,Michigan,162458
+Leesburg,Florida,161515
+Lafayette,Indiana,160373
+Hayward,California,159201
+Corona,California,158839
+Paterson,New Jersey,157660
+Alexandria,Virginia,156788
+Macon,Georgia,156543
+Lakewood,Colorado,156309
+Springfield,Illinois,156240
+Kansas City,Kansas,154776
+Burlington,North Carolina,154504
+Warner Robins,Georgia,154327
+Sunnyvale,California,153455
+Hollywood,Florida,152935
+Roseville,California,152438
+New Bedford,Massachusetts,152104
+South Lyon,Michigan,151231
+Bellevue,Washington,151199
+Fairfield,California,150794
+Binghamton,New York,150564
+Topeka,Kansas,150343
+Escondido,California,149913
+Joliet,Illinois,149785
+Surprise,Arizona,149519
+Naperville,Illinois,149424
+Pasadena,Texas,149345
+Mesquite,Texas,148848
+Champaign,Illinois,148477
+Pomona,California,148391
+Houma,Louisiana,147841
+Athens,Georgia,147368
+St. George,Utah,147347
+Beaumont,Texas,146554
+Elkhart,Indiana,146511
+Lake Charles,Louisiana,145110
+Santa Maria,California,144857
+Yuma,Arizona,144509
+Olathe,Kansas,143720
+Midland,Texas,143714
+Greeley,Colorado,143554
+Torrance,California,143499
+Thornton,Colorado,142878
+Las Cruces,New Mexico,142432
+Columbia,Missouri,141811
+Fullerton,California,141278
+Grand Junction,Colorado,141008
+Metairie,Louisiana,138995
+Orange,California,138723
+Warren,Michigan,138128
+West Valley City,Utah,137955
+Hampton,Virginia,137334
+Pasadena,California,136462
+Miramar,Florida,135986
+Elizabeth,New Jersey,135887
+Stamford,Connecticut,135806
+Racine,Wisconsin,135512
+Kent,Washington,135015
+Yakima,Washington,134003
+Coral Springs,Florida,133962
+Sterling Heights,Michigan,133473
+Billings,Montana,133173
+Bloomington,Illinois,133107
+Charleston,West Virginia,133045
+Carrollton,Texas,132741
+Tyler,Texas,131037
+Iowa City,Iowa,129897
+Johnson City,Tennessee,129818
+Santa Clara,California,129239
+Bellingham,Washington,128737
+Norman,Oklahoma,128714
+Coeur d'Alene,Idaho,128680
+Fort Smith,Arkansas,128384
+Lewisville,Texas,128313
+Dover,Delaware,128045
+Yuba City,California,127854
+Lehigh Acres,Florida,127391
+Abilene,Texas,127130
+Simi Valley,California,126503
+Pearland,Texas,125983
+Kenosha,Wisconsin,125807
+Meridian,Idaho,124865
+Round Rock,Texas,124288
+Waldorf,Maryland,124186
+Temple,Texas,123932
+Lynchburg,Virginia,123662
+Rochester,Minnesota,123252
+Logan,Utah,122915
+Arvada,Colorado,122835
+Clovis,California,122719
+Independence,Missouri,121944
+Redding,California,120849
+Greenville,North Carolina,120595
+Duluth,Minnesota,120443
+Berkeley,California,120223
+Boulder,Colorado,120121
+Pueblo,Colorado,120020
+West Palm Beach,Florida,119508
+Burlington,Vermont,118409
+Seaside,California,118398
+Richardson,Texas,118269
+Cambridge,Massachusetts,117794
+Monroe,Louisiana,117507
+North Charleston,South Carolina,117460
+Saginaw,Michigan,117412
+Clearwater,Florida,117075
+The Woodlands,Texas,116916
+Brandon,Florida,116365
+St. Cloud,Minnesota,116347
+West Jordan,Utah,116277
+Broken Arrow,Oklahoma,115919
+Harlingen,Texas,115767
+Kailua,Hawaii,115634
+Westminster,Colorado,115546
+Gilroy,California,115448
+Richmond,California,115396
+Mandeville,Louisiana,115292
+Utica,New York,114961
+League City,Texas,114885
+Port Arthur,Texas,114860
+Lowell,Massachusetts,114799
+East Los Angeles,California,114617
+Carlsbad,California,114500
+Elgin,Illinois,114106
+Waterloo,Iowa,113832
+Leominster,Massachusetts,113462
+Bend,Oregon,113454
+Sioux City,Iowa,112823
+Gresham,Oregon,112818
+Longview,Texas,112687
+Pompano Beach,Florida,112212
+Downey,California,111793
+Murrieta,California,111621
+Idaho Falls,Idaho,111295
+Miami Gardens,Florida,111264
+Everett,Washington,111083
+Holland,Michigan,110905
+Costa Mesa,California,110538
+Temecula,California,110404
+Jacksonville,North Carolina,109958
+San Buenaventura,California,109900
+Sugar Land,Texas,109735
+Chico,California,109411
+South Fulton,Georgia,109157
+Sparks,Nevada,109106
+Eau Claire,Wisconsin,108477
+Auburn,Alabama,108327
+Dearborn,Michigan,107846
+Riverview,Florida,107776
+Allen,Texas,107684
+West Covina,California,107436
+Centennial,Colorado,107386
+Bloomington,Indiana,107262
+Sandy Springs,Georgia,107198
+El Monte,California,107066
+Hillsboro,Oregon,107050
+Menifee,California,107020
+Rio Rancho,New Mexico,106533
+Davie,Florida,106412
+Jurupa Valley,California,106244
+Columbia,Maryland,105871
+Inglewood,California,105575
+Spokane Valley,Washington,105460
+Renton,Washington,105279
+San Tan Valley,Arizona,105231
+Burbank,California,105165
+Brockton,Massachusetts,105080
+El Cajon,California,104909
+Rialto,California,103866
+San Mateo,California,103555
+Goodyear,Arizona,102891
+Charlottesville,Virginia,102802
+Lafayette,Colorado,102615
+Lee's Summit,Missouri,102583
+Edinburg,Texas,102561
+Daly City,California,102560
+Wichita Falls,Texas,102558
+Bowling Green,Kentucky,102247
+Longmont,Colorado,102183
+Vacaville,California,102085
+Highlands Ranch,Colorado,101437
+Quincy,Massachusetts,101361
+Fishers,Indiana,100918
+Lynn,Massachusetts,100905
+Norwalk,California,100713
+Carmel,Indiana,100501
+Hesperia,California,100141
+St. Augustine,Florida,99936
+Buckeye,Arizona,99844
+San Angelo,Texas,99507
+Federal Way,Washington,99232
+Bismarck,North Dakota,99060
+Boca Raton,Florida,98833
+New Braunfels,Texas,98700
+Vista,California,98646
+Beaverton,Oregon,97502
+Portsmouth,Virginia,97299
+Orem,Utah,97048
+Conroe,Texas,96976
+Suffolk,Virginia,96638
+Sunrise,Florida,96633
+Lawrence,Kansas,96380
+Arden-Arcade,California,96319
+Prescott Valley,Arizona,96190
+Middletown,Ohio,95894
+Edmond,Oklahoma,95618
+Tracy,California,95358
+Manteca,California,95347
+Kingsport,Tennessee,95059
+Portsmouth,New Hampshire,94815
+Sandy,Utah,94723
+Palm Coast,Florida,94362
+Slidell,Louisiana,94220
+San Marcos,California,94078
+Livonia,Michigan,94058
+Santa Fe,New Mexico,94032
+Plantation,Florida,94002
+Atascocita,Texas,93926
+Fall River,Massachusetts,93764
+Compton,California,93525
+Carson,California,93523
+La Crosse,Wisconsin,93163
+Missoula,Montana,92942
+O'Fallon,Missouri,92697
+Mount Pleasant,South Carolina,92662
+Roswell,Georgia,92577
+Hoover,Alabama,92401
+Florence,South Carolina,92315
+Williamsburg,Virginia,91935
+South Gate,California,91836
+Chino,California,91775
+Fort Myers,Florida,91730
+Kirkland,Washington,91614
+Santa Monica,California,91535
+Vineland,New Jersey,91393
+Norwalk,Connecticut,91375
+Alafaya,Florida,90874
+Lawton,Oklahoma,90662
+Avondale,Arizona,90644
+Germantown,Maryland,90521
+Rapid City,South Dakota,90421
+Westminster,California,90147
+Clifton,New Jersey,89247
+Waukegan,Illinois,88919
+Bloomington,Minnesota,88838
+San Leandro,California,88531
+Newton,Massachusetts,88504
+Joplin,Missouri,88490
+Lawrence,Massachusetts,88297
+Springdale,Arkansas,87388
+Troy,Michigan,87307
+Citrus Heights,California,87036
+Deerfield Beach,Florida,86742
+Town 'n' Country,Florida,86544
+Winchester,Virginia,86501
+Mission,Texas,86234
+Bryan,Texas,86169
+Hawthorne,California,85933
+Whittier,California,85925
+Livermore,California,85870
+Lake Forest,California,85846
+San Ramon,California,85734
+Melbourne,Florida,85718
+Franklin,Tennessee,85575
+Auburn,Washington,85455
+Port Huron,Michigan,85051
+Decatur,Illinois,84629
+Baytown,Texas,84538
+Brooklyn Park,Minnesota,84349
+Springfield,Ohio,84309
+Newport Beach,California,84304
+Westland,Michigan,84155
+Newark,Ohio,83890
+Muncie,Indiana,83477
+Farmington Hills,Michigan,83316
+Cicero,Illinois,83223
+Buena Park,California,83052
+Warwick,Rhode Island,82871
+Hattiesburg,Mississippi,82730
+Cranston,Rhode Island,82632
+Albany,Georgia,82612
+Layton,Utah,82512
+Madera,California,82510
+Largo,Florida,82506
+Redwood City,California,82423
+Mountain View,California,82363
+Pine Hills,Florida,82264
+Folsom,California,82140
+Silver Spring,Maryland,82129
+Johns Creek,Georgia,82115
+The Villages,Florida,82108
+Owensboro,Kentucky,81734
+Napa,California,81643
+New Rochelle,New York,81591
+Alhambra,California,81483
+Cheyenne,Wyoming,81378
+Miami Beach,Florida,81319
+Wenatchee,Washington,81106
+Jackson,Michigan,81058
+Lehi,Utah,81039
+Anderson,Indiana,80820
+Homestead,Florida,80725
+Florence,Alabama,80720
+Rancho Cordova,California,80656
+Morgantown,West Virginia,80626
+Boynton Beach,Florida,80601
+Somerville,Massachusetts,80549
+North Port,Florida,80512
+Lakewood,California,80510
+Salisbury,Maryland,80352
+South Jordan,Utah,80331
+Parma,Ohio,80131
+Pharr,Texas,79809
+State College,Pennsylvania,79803
+Plymouth,Minnesota,79526
+Turlock,California,79394
+Davis,California,79355
+Perris,California,79349
+Jonesboro,Arkansas,79187
+Tustin,California,79035
+Terre Haute,Indiana,78940
+Upland,California,78940
+Georgetown,Texas,78803
+Texarkana,Texas,78541
+Kendall,Florida,78527
+Pasco,Washington,78446
+Milpitas,California,78216
+Carmichael,California,78070
+Chino Hills,California,78024
+Flower Mound,Texas,77886
+Flagstaff,Arizona,77868
+Alton,Illinois,77583
+Pleasanton,California,77500
+Cedar Park,Texas,77474
+Bellflower,California,77396
+Loveland,Colorado,77350
+Mansfield,Ohio,77137
+Hammond,Indiana,77098
+Bethlehem,Pennsylvania,77069
+Woodbury,Minnesota,76945
+Alameda,California,76876
+Wyoming,Michigan,76865
+Schaumburg,Illinois,76780
+Castle Rock,Colorado,76614
+Evanston,Illinois,76552
+Doral,Florida,76490
+St. Joseph,Missouri,76484
+Valdosta,Georgia,76393
+Wausau,Wisconsin,76386
+Pocatello,Idaho,76370
+Elizabethtown,Kentucky,76363
+Anniston,Alabama,76228
+Arlington Heights,Illinois,76220
+Rochester Hills,Michigan,76086
+Southfield,Michigan,76025
+Daytona Beach,Florida,75924
+Pittsburg,California,75868
+Oshkosh,Wisconsin,75850
+Redmond,Washington,75721
+Saratoga Springs,New York,75599
+Apple Valley,California,75478
+Mansfield,Texas,75398
+Pawtucket,Rhode Island,75280
+Missouri City,Texas,75234
+Broomfield,Colorado,75110
+Janesville,Wisconsin,74640
+San Marcos,Texas,74469
+Camarillo,California,74210
+Jackson,Tennessee,74049
+Dothan,Alabama,74002
+Sherman,Texas,73984
+Lauderhill,Florida,73961
+Harrisonburg,Virginia,73926
+Bolingbrook,Illinois,73813
+Ellicott City,Maryland,73737
+Alexandria,Louisiana,73457
+Battle Creek,Michigan,73448
+New Britain,Connecticut,73301
+Sheboygan,Wisconsin,73268
+Brunswick,Georgia,73159
+Altoona,Pennsylvania,73070
+Lodi,California,72996
+Redlands,California,72985
+Dale City,Virginia,72793
+Glen Burnie,Maryland,72772
+Mount Vernon,New York,72528
+Lakeville,Minnesota,72480
+Dover,New Hampshire,72476
+Lebanon,Pennsylvania,72475
+Rocklin,California,72340
+Framingham,Massachusetts,72013
+Wesley Chapel,Florida,71965
+Noblesville,Indiana,71940
+Tamarac,Florida,71887
+Centreville,Virginia,71885
+Poinciana,Florida,71665
+Fairbanks,Alaska,71555
+Lake Elsinore,California,71516
+Camden,New Jersey,71471
+Rogers,Arkansas,71411
+Blaine,Minnesota,71261
+Wilmington,Delaware,71124
+St. Charles,Missouri,71048
+Blacksburg,Virginia,71014
+Waukesha,Wisconsin,70779
+Casas Adobes,Arizona,70770
+Baldwin Park,California,70720
+Cleveland,Tennessee,70578
+Dublin,California,70542
+Ankeny,Iowa,70542
+Maple Grove,Minnesota,70539
+Bayonne,New Jersey,70468
+North Richland Hills,Texas,70338
+Eastvale,California,70179
+Glens Falls,New York,70005
+Longview,Washington,70004
+Tulare,California,69984
+Conway,Arkansas,69918
+West Des Moines,Iowa,69893
+Redondo Beach,California,69814
+Walnut Creek,California,69790
+Passaic,New Jersey,69651
+Porterville,California,69616
+Maricopa,Arizona,69554
+Spring Hill,Tennessee,69298
+Gaithersburg,Maryland,69225
+El Paso de Robles,California,69218
+East Orange,New Jersey,69183
+Sumter,South Carolina,68914
+Grand Forks,North Dakota,68853
+Bristol,Tennessee,68737
+Michigan City,Indiana,68617
+Gary,Indiana,68604
+Dubuque,Iowa,68567
+Schenectady,New York,68521
+Casper,Wyoming,68438
+Hanford,California,68276
+Shawnee,Kansas,68175
+South Hill,Washington,68161
+Eagan,Minnesota,68158
+Union City,California,68141
+Weston,Florida,67952
+Kankakee,Illinois,67925
+Leander,Texas,67880
+Hammond,Louisiana,67874
+Corvallis,Oregon,67769
+Apex,North Carolina,67765
+Yorba Linda,California,67407
+Bethesda,Maryland,67403
+Haverhill,Massachusetts,67387
+Palo Alto,California,67231
+Rockville,Maryland,67218
+Spring,Texas,67103
+Delray Beach,Florida,66940
+Watsonville,California,66842
+Mount Vernon,Washington,66704
+Palatine,Illinois,66548
+Victoria,Texas,66523
+Skokie,Illinois,66427
+Morristown,Tennessee,66407
+Sammamish,Washington,66375
+Union City,New Jersey,66375
+Queen Creek,Arizona,66369
+Alpharetta,Georgia,66355
+Lima,Ohio,66286
+Novi,Michigan,66224
+Great Falls,Montana,66175
+Ames,Iowa,66112
+Malden,Massachusetts,65509
+Dundalk,Maryland,65441
+Albany,Oregon,65410
+Castro Valley,California,65389
+Dalton,Georgia,65317
+Lynwood,California,65291
+Pflugerville,Texas,65162
+Sebring,Florida,65138
+Kenner,Louisiana,65113
+Port Charlotte,Florida,64971
+Waltham,Massachusetts,64723
+Commerce City,Colorado,64640
+Brentwood,California,64609
+North Little Rock,Arkansas,64504
+South San Francisco,California,64487
+Bellevue,Nebraska,64355
+Burnsville,Minnesota,64295
+Greenwood,Indiana,64237
+Rowlett,Texas,64139
+Laguna Niguel,California,64023
+Bozeman,Montana,63917
+Port Orange,Florida,63818
+Reston,Virginia,63542
+San Clemente,California,63510
+Caldwell,Idaho,63465
+Coon Rapids,Minnesota,63348
+Millcreek,Utah,63342
+Eden Prairie,Minnesota,63249
+Parkersburg,West Virginia,63236
+Hamilton,Ohio,63124
+Moore,Oklahoma,63045
+Lakewood,Washington,63034
+Bay City,Michigan,62979
+Bossier City,Louisiana,62832
+Council Bluffs,Iowa,62564
+Huntersville,North Carolina,62458
+Taylor,Michigan,62405
+Hendersonville,Tennessee,62390
+Sanford,Florida,62292
+La Habra,California,62233
+Horizon West,Florida,62152
+Dearborn Heights,Michigan,62099
+St. Cloud,Florida,61963
+Pontiac,Michigan,61914
+Richland,Washington,61912
+Marietta,Georgia,61773
+Florence-Graham,California,61723
+Springfield,Oregon,61642
+Encinitas,California,61585
+Wellington,Florida,61497
+Palm Harbor,Florida,61454
+Montebello,California,61376
+Woodland,California,61256
+Bristol,Connecticut,61129
+Jupiter,Florida,61097
+La Mesa,California,60835
+Pico Rivera,California,60821
+San Rafael,California,60604
+Meriden,Connecticut,60418
+Euless,Texas,60373
+Parker,Colorado,60115
+Revere,Massachusetts,59933
+Stonecrest,Georgia,59917
+Chapel Hill,North Carolina,59889
+White Plains,New York,59818
+Gardena,California,59765
+Palm Beach Gardens,Florida,59751
+Taunton,Massachusetts,59719
+Monterey Park,California,59639
+West Allis,Wisconsin,59588
+Santee,California,59485
+North Miami,Florida,59429
+Blue Springs,Missouri,59416
+Des Plaines,Illinois,59408
+Kokomo,Indiana,59375
+Petaluma,California,59321
+Shoreline,Washington,59280
+Medford,Massachusetts,59062
+Taylorsville,Utah,59010
+Wylie,Texas,58991
+Cupertino,California,58886
+The Hammocks,Florida,58548
+Margate,Florida,58418
+Carson City,Nevada,58364
+Hoboken,New Jersey,58340
+Madison,Alabama,58335
+St. Clair Shores,Michigan,58287
+St. Peters,Missouri,58200
+Midwest City,Oklahoma,58170
+Severn,Maryland,58041
+Lake Havasu City,Arizona,58037
+Lenexa,Kansas,57986
+Orland Park,Illinois,57961
+Royal Oak,Michigan,57880
+Bowie,Maryland,57771
+Decatur,Alabama,57760
+Bel Air South,Maryland,57702
+Towson,Maryland,57683
+Casa Grande,Arizona,57590
+Coconut Creek,Florida,57587
+Kettering,Ohio,57442
+Herriman,Utah,57336
+Brookhaven,Georgia,57224
+Oak Lawn,Illinois,57098
+Lacey,Washington,57088
+Bartlett,Tennessee,56998
+Highland,California,56690
+Kannapolis,North Carolina,56470
+Fountainebleau,Florida,56453
+Fountain Valley,California,56358
+Bentonville,Arkansas,56326
+Bradenton,Florida,56289
+Smyrna,Georgia,56285
+Sarasota,Florida,56218
+Apopka,Florida,56202
+National City,California,55960
+DeSoto,Texas,55896
+Berwyn,Illinois,55888
+New Brunswick,New Jersey,55744
+Apple Valley,Minnesota,55696
+Mount Prospect,Illinois,55648
+Arcadia,California,55550
+Southaven,Mississippi,55531
+Tigard,Oregon,55395
+Perth Amboy,New Jersey,55278
+Chicopee,Massachusetts,55213
+South Whittier,California,55201
+West Haven,Connecticut,55147
+Smyrna,Tennessee,55066
+Tinley Park,Illinois,55007
+Hacienda Heights,California,54956
+Beaumont,California,54817
+San Jacinto,California,54756
+Plainfield,New Jersey,54515
+West Sacramento,California,54496
+Marana,Arizona,54487
+Yucaipa,California,54348
+Peabody,Massachusetts,54180
+Rocky Mount,North Carolina,54175
+Texas City,Texas,54159
+Kentwood,Michigan,54114
+Manhattan,Kansas,53951
+Colton,California,53798
+Aspen Hill,Maryland,53752
+Diamond Bar,California,53750
+Huntington Park,California,53658
+Wheaton,Illinois,53453
+Pinellas Park,Florida,53423
+Aloha,Oregon,53362
+Oak Park,Illinois,53315
+Minnetonka,Minnesota,53256
+Twin Falls,Idaho,53219
+Edina,Minnesota,53125
+Westchester,Florida,53082
+Methuen Town,Massachusetts,53043
+Normal,Illinois,52908
+Elyria,Ohio,52833
+Grand Island,Nebraska,52761
+Novato,California,52689
+Paramount,California,52546
+Kyle,Texas,52439
+Placentia,California,52384
+Wheaton,Maryland,52172
+Kendale Lakes,Florida,52141
+Cathedral City,California,52047
+Florissant,Missouri,51915
+Catalina Foothills,Arizona,51756
+West New York,New Jersey,51683
+Lincoln,California,51629
+Dunwoody,Georgia,51563
+Levittown,New York,51557
+Palm Desert,California,51551
+Mooresville,North Carolina,51447
+Little Elm,Texas,51426
+Glendora,California,51350
+Burien,Washington,51331
+Aliso Viejo,California,51320
+Summerville,South Carolina,51262
+Collierville,Tennessee,51212
+Tamiami,Florida,51201
+Wake Forest,North Carolina,51199
+Hoffman Estates,Illinois,51186
+Westfield,Indiana,51109
+Columbus,Indiana,51104
+Troy,New York,51054
+Country Club,Florida,51000
+Burleson,Texas,50981
+East Honolulu,Hawaii,50961
+Levittown,Pennsylvania,50930
+Mishawaka,Indiana,50907
+Grapevine,Texas,50875
+Cuyahoga Falls,Ohio,50864
+Delano,California,50835
+Enid,Oklahoma,50821
+Milford city ,Connecticut,50749
+El Dorado Hills,California,50553
+Rosemead,California,50340
+McLean,Virginia,50232
+Lakewood,Ohio,50229
+Jeffersonville,Indiana,50176
+Draper,Utah,50159
+Covina,California,50143
+Murray,Utah,49904
+Downers Grove,Illinois,49867
+Rockwall,Texas,49605
+Chesterfield,Missouri,49591
+St. Louis Park,Minnesota,49541
+Florin,California,49536
+Cypress,California,49531
+Eagle Mountain,Utah,49514
+North Bethesda,Maryland,49498
+Azusa,California,49318
+Lawrence,Indiana,49284
+Coral Gables,Florida,49243
+Everett,Massachusetts,49236
+Bedford,Texas,49191
+Antelope,California,49080
+Dublin,Ohio,49031
+Portage,Michigan,49015
+Biloxi,Mississippi,49011
+Titusville,Florida,49004
+Euclid,Ohio,48991
+Ceres,California,48918
+University,Florida,48868
+Stillwater,Oklahoma,48818
+Leesburg,Virginia,48788
+Bothell,Washington,48610
+Tuckahoe,Virginia,48610
+Cedar Hill,Texas,48547
+Poway,California,48515
+Cerritos,California,48340
+Hilo,Hawaii,48223
+Niagara Falls,New York,48198
+Fort Pierce,Florida,48094
+San Luis Obispo,California,48039
+Minot,North Dakota,47922
+North Highlands,California,47900
+Ocoee,Florida,47885
+Roswell,New Mexico,47823
+Wilson,North Carolina,47740
+Wauwatosa,Wisconsin,47718
+Glenview,Illinois,47682
+Middletown,Connecticut,47646
+Oro Valley,Arizona,47595
+Brea,California,47337
+Rancho Santa Margarita,California,47257
+Roseville,Michigan,47240
+Mentor,Ohio,47215
+Winter Garden,Florida,47182
+Newark,California,47145
+East Providence,Rhode Island,46970
+Goose Creek,South Carolina,46964
+La Mirada,California,46945
+Huntsville,Texas,46917
+Rowland Heights,California,46787
+Beavercreek,Ohio,46787
+Los Banos,California,46776
+Prescott,Arizona,46744
+Gallatin,Tennessee,46667
+Olive Branch,Mississippi,46538
+Attleboro,Massachusetts,46499
+Salina,Kansas,46432
+Farmington,New Mexico,46339
+Whitney,Nevada,46268
+Potomac,Maryland,46230
+Urbandale,Iowa,46026
+Strongsville,Ohio,46022
+Pahrump,Nevada,45811
+Hackensack,New Jersey,45768
+Wentzville,Missouri,45734
+Plainfield,Illinois,45705
+Haltom City,Texas,45681
+Altamonte Springs,Florida,45657
+Keller,Texas,45598
+Odenton,Maryland,45585
+Ashburn,Virginia,45551
+Elmhurst,Illinois,45538
+East Lansing,Michigan,45394
+Brentwood,Tennessee,45272
+Sayreville,New Jersey,45237
+Sierra Vista,Arizona,45203
+Morgan Hill,California,45152
+Bountiful,Utah,45093
+Littleton,Colorado,45092
+Pearl City,Hawaii,45079
+Lake Ridge,Virginia,45007
+Shakopee,Minnesota,45002
+Palm Springs,California,44998
+Clermont,Florida,44984
+Riverton,Utah,44944
+The Colony,Texas,44916
+Mankato,Minnesota,44882
+West Lafayette,Indiana,44802
+Moorhead,Minnesota,44706
+Cleveland Heights,Ohio,44694
+North Lauderdale,Florida,44650
+Fairfield,Ohio,44597
+Sicklerville,New Jersey,44500
+Fond du Lac,Wisconsin,44491
+Cutler Bay,Florida,44483
+Rohnert Park,California,44461
+Oakley,California,44311
+Salem,Massachusetts,44241
+Concord,New Hampshire,44219
+Wilkes-Barre,Pennsylvania,44217
+North Fort Myers,Florida,44189
+El Centro,California,44186
+Freeport,New York,44102
+Saratoga Springs,Utah,44070
+Oakland Park,Florida,44015
+Columbia,Tennessee,43971
+Greenacres,Florida,43871
+Hicksville,New York,43868
+Lompoc,California,43819
+Lombard,Illinois,43722
+Spanish Fork,Utah,43632
+Linden,New Jersey,43614
+Waxahachie,Texas,43591
+Pittsfield,Massachusetts,43559
+Channelview,Texas,43536
+Ormond Beach,Florida,43514
+Newnan,Georgia,43510
+Woodbridge,Virginia,43443
+Holly Springs,North Carolina,43429
+Danville,California,43426
+Burke,Virginia,43336
+Huber Heights,Ohio,43266
+West Babylon,New York,43239
+Delaware,Ohio,43168
+Schertz,Texas,43128
+North Miami Beach,Florida,43104
+Woonsocket,Rhode Island,43074
+Hollister,California,43003
+Campbell,California,42848
+Buffalo Grove,Illinois,42824
+Edmonds,Washington,42783
+Catonsville,Maryland,42717
+Manassas,Virginia,42674
+Vineyard,California,42645
+Puyallup,Washington,42642
+San Bruno,California,42612
+Coachella,California,42594
+Jefferson City,Missouri,42565
+French Valley,California,42550
+Midland,Michigan,42461
+Beverly,Massachusetts,42408
+Mableton,Georgia,42403
+Danville,Virginia,42239
+Moline,Illinois,42235
+Bullhead City,Arizona,42193
+Peachtree Corners,Georgia,42184
+Linton Hall,Virginia,42077
+Coppell,Texas,42029
+Annandale,Virginia,41982
+Lebanon,Tennessee,41951
+Altadena,California,41921
+Land O' Lakes,Florida,41845
+Grove City,Ohio,41831
+Belleville,Illinois,41722
+Post Falls,Idaho,41716
+Marion,Iowa,41690
+Fitchburg,Massachusetts,41633
+Brookfield,Wisconsin,41592
+Coram,New York,41527
+Princeton,Florida,41476
+Weslaco,Texas,41437
+Shelton,Connecticut,41402
+Marlborough,Massachusetts,41398
+Milton,Georgia,41305
+Rancho Palos Verdes,California,41259
+Hallandale Beach,Florida,41224
+Woburn,Massachusetts,41205
+Brighton,Colorado,41196
+Indian Trail,North Carolina,41146
+Reynoldsburg,Ohio,41032
+Romeoville,Illinois,40996
+Maplewood,Minnesota,40981
+Lynnwood,Washington,40953
+Lancaster,Ohio,40902
+Covington,Kentucky,40902
+Mount Juliet,Tennessee,40828
+Friendswood,Texas,40827
+Germantown,Tennessee,40812
+Lancaster,Texas,40753
+Annapolis,Maryland,40744
+Meadow Woods,Florida,40741
+Westfield,Massachusetts,40673
+Essex,Maryland,40670
+Cedar Falls,Iowa,40662
+Kearny,New Jersey,40570
+Bartlett,Illinois,40531
+Woodlawn,Maryland,40476
+DeKalb,Illinois,40464
+Pine Bluff,Arkansas,40436
+Crystal Lake,Illinois,40436
+New Berlin,Wisconsin,40384
+Lake Oswego,Oregon,40367
+Findlay,Ohio,40280
+Valley Stream,New York,40278
+The Acreage,Florida,40188
+Cottage Grove,Minnesota,40124
+Cape Girardeau,Missouri,40047
+Plant City,Florida,40009
+Culver City,California,39993
+Oviedo,Florida,39990
+Hurst,Texas,39912
+Hobbs,New Mexico,39887
+Duncanville,Texas,39879
+Waipahu,Hawaii,39871
+Hutchinson,Kansas,39837
+DeLand,Florida,39832
+Fort Lee,New Jersey,39818
+Apache Junction,Arizona,39746
+Rexburg,Idaho,39589
+Lincoln Park,Michigan,39511
+Lake Stevens,Washington,39500
+Severna Park,Maryland,39499
+Issaquah,Washington,39472
+Rosenberg,Texas,39467
+Chelsea,Massachusetts,39460
+Lakewood Ranch,Florida,39434
+Carol Stream,Illinois,39427
+Aventura,Florida,39372
+West Fargo,North Dakota,39325
+Bettendorf,Iowa,39297
+Park Ridge,Illinois,39241
+Greer,South Carolina,39191
+Quincy,Illinois,39188
+Grants Pass,Oregon,39183
+Parkland,Washington,39174
+Royal Palm Beach,Florida,39089
+Warren,Ohio,39057
+Streamwood,Illinois,39055
+Roy,Utah,39021
+Keizer,Oregon,39013
+Owasso,Oklahoma,39013
+Navarre,Florida,38988
+Peachtree City,Georgia,38977
+Menomonee Falls,Wisconsin,38963
+La Vergne,Tennessee,38944
+Prattville,Alabama,38850
+Valrico,Florida,38820
+San Gabriel,California,38764
+Clinton,Maryland,38756
+Vestavia Hills,Alabama,38704
+Bell Gardens,California,38661
+Security-Widefield,Colorado,38659
+Stanton,California,38639
+Westerville,Ohio,38543
+Wheeling,Illinois,38495
+Atlantic City,New Jersey,38486
+Phenix City,Alabama,38477
+Calexico,California,38476
+Winter Springs,Florida,38448
+Urbana,Illinois,38447
+Mechanicsville,Virginia,38437
+La Quinta,California,38299
+East Point,Georgia,38233
+Georgetown,Kentucky,38206
+Clovis,New Mexico,38153
+Riviera Beach,Florida,38032
+Hot Springs,Arkansas,38023
+Sun City,Arizona,38018
+Adelanto,California,38010
+Northglenn,Colorado,37953
+Portage,Indiana,37951
+Holyoke,Massachusetts,37949
+Lewiston,Maine,37886
+Tupelo,Mississippi,37825
+Montclair,California,37809
+Hilton Head Island,South Carolina,37805
+Winchester,Nevada,37774
+Rome,Georgia,37754
+Central Islip,New York,37751
+Fuquay-Varina,North Carolina,37749
+Evans,Georgia,37718
+New Albany,Indiana,37589
+Bartlesville,Oklahoma,37559
+Monrovia,California,37553
+Pleasant Grove,Utah,37544
+Carpentersville,Illinois,37544
+Pacifica,California,37527
+South Miami Heights,Florida,37525
+Oregon City,Oregon,37482
+La Puente,California,37404
+Greenfield,Wisconsin,37361
+Foothill Farms,California,37332
+Mission Bend,Texas,37280
+Tooele,Utah,37265
+Estero,Florida,37258
+Midlothian,Texas,37256
+Cedar City,Utah,37202
+Leavenworth,Kansas,37176
+Copperas Cove,Texas,37149
+Kearns,Utah,37058
+Tucker,Georgia,37022
+Wildomar,California,36953
+Martinez,California,36926
+Hanover Park,Illinois,36850
+Muskogee,Oklahoma,36819
+Oakton,Virginia,36776
+Rock Island,Illinois,36758
+Richfield,Minnesota,36725
+La Presa,California,36669
+South Valley,New Mexico,36605
+Kiryas Joel,New York,36572
+Hilliard,Ohio,36560
+Beloit,Wisconsin,36554
+Claremont,California,36553
+Oak Creek,Wisconsin,36473
+Sun Prairie,Wisconsin,36455
+Elmont,New York,36436
+Commack,New York,36353
+Merrillville,Indiana,36343
+Upper Arlington,Ohio,36319
+Woodstock,Georgia,36297
+Douglasville,Georgia,36284
+Farmers Branch,Texas,36254
+Socorro,Texas,36237
+La Porte,Texas,36077
+Dunedin,Florida,36060
+North Ridgeville,Ohio,36043
+Olney,Maryland,36000
+San Luis,Arizona,35998
+Richmond West,Florida,35988
+Randallstown,Maryland,35975
+Moorpark,California,35957
+Benton,Arkansas,35954
+Kaneohe,Hawaii,35945
+Lauderdale Lakes,Florida,35924
+Windsor,Colorado,35918
+Roseville,Minnesota,35905
+El Mirage,Arizona,35823
+East Meadow,New York,35806
+Parkland,Florida,35799
+Plainfield,Indiana,35783
+Norristown,Pennsylvania,35782
+Inver Grove Heights,Minnesota,35772
+Marion,Ohio,35771
+Franklin,Wisconsin,35751
+Temple City,California,35749
+Midvale,Utah,35736
+Salisbury,North Carolina,35730
+Egypt Lake-Leto,Florida,35709
+San Juan,Texas,35674
+Carrollwood,Florida,35645
+Owings Mills,Maryland,35626
+Fruit Cove,Florida,35609
+Monroe,North Carolina,35596
+Richmond,Indiana,35551
+Cookeville,Tennessee,35544
+Richmond,Kentucky,35498
+Kendall West,Florida,35492
+Torrington,Connecticut,35481
+Stockbridge,Georgia,35475
+Springville,Utah,35474
+Fair Oaks,Virginia,35472
+Addison,Illinois,35470
+Oswego,Illinois,35463
+Gahanna,Ohio,35438
+American Fork,Utah,35312
+Brunswick,Ohio,35284
+Hinesville,Georgia,35282
+Watertown Town,Massachusetts,35270
+Calumet City,Illinois,35253
+Orangevale,California,35219
+Wildwood,Missouri,35168
+Oakville,Missouri,35166
+Chillum,Maryland,35163
+Redmond,Oregon,35161
+Fair Lawn,New Jersey,35153
+Mason,Ohio,35148
+West Hollywood,California,35090
+Graham,Washington,35090
+Golden Glades,Florida,35042
+Sahuarita,Arizona,35012
+Prairieville,Louisiana,35010
+San Juan Capistrano,California,34998
+Pueblo West,Colorado,34992
+Timberwood Park,Texas,34980
+Oildale,California,34971
+Butte,Montana,34929
+University Place,Washington,34850
+Long Beach,New York,34741
+Merritt Island,Florida,34718
+University City,Missouri,34655
+Northbrook,Illinois,34642
+Del Rio,Texas,34638
+Canton,Georgia,34587
+Manhattan Beach,California,34584
+Prosper,Texas,34567
+Manitowoc,Wisconsin,34553
+Fairborn,Ohio,34506
+McMinnville,Oregon,34493
+Lewiston,Idaho,34471
+Meridian,Mississippi,34466
+College Park,Maryland,34397
+Valparaiso,Indiana,34377
+Goshen,Indiana,34374
+Pleasant Hill,California,34335
+Spanaway,Washington,34322
+Stow,Ohio,34317
+Westmont,California,34291
+Pikesville,Maryland,34253
+South Riding,Virginia,34200
+Cooper City,Florida,34166
+Montgomery Village,Maryland,34161
+Dakota Ridge,Colorado,34159
+Lufkin,Texas,34158
+New City,New York,34133
+San Dimas,California,34099
+Crown Point,Indiana,34042
+Westlake,Ohio,34036
+Kearney,Nebraska,34024
+Syracuse,Utah,34009
+Eastpointe,Michigan,34003
+Weatherford,Texas,33924
+Woodridge,Illinois,33889
+Kingman,Arizona,33850
+Leawood,Kansas,33844
+Cibolo,Texas,33829
+Deer Park,Texas,33823
+Englewood,Colorado,33774
+Walla Walla,Washington,33766
+Statesboro,Georgia,33705
+Uniondale,New York,33637
+Alabaster,Alabama,33633
+Kennesaw,Georgia,33627
+Gadsden,Alabama,33617
+Baldwin,New York,33595
+Harker Heights,Texas,33595
+Goldsboro,North Carolina,33448
+Ken Caryl,Colorado,33407
+Petersburg,Virginia,33365
+Huntington Station,New York,33283
+Gillette,Wyoming,33278
+Chester,Pennsylvania,33209
+West Little River,Florida,33147
+Helena,Montana,33126
+Bethel Park,Pennsylvania,33070
+Martinez,Georgia,33019
+East Lake,Florida,33019
+Spring Valley,New York,32995
+Cottonwood Heights,Utah,32984
+Cleburne,Texas,32966
+Foster City,California,32964
+Canyon Lake,Texas,32924
+Sherwood,Arkansas,32915
+Clearfield,Utah,32895
+Dana Point,California,32883
+Rochester,New Hampshire,32866
+Glendale Heights,Illinois,32864
+Kaysville,Utah,32861
+Bell,California,32830
+Andover,Minnesota,32825
+Brooklyn Center,Minnesota,32811
+Desert Hot Springs,California,32786
+Menlo Park,California,32775
+Los Gatos,California,32773
+St. Charles,Illinois,32733
+Pasadena,Maryland,32717
+Savage,Minnesota,32706
+Lathrop,California,32696
+Goleta,California,32693
+Des Moines,Washington,32545
+Garner,North Carolina,32543
+Garfield,New Jersey,32502
+Fallbrook,California,32467
+Florence,Kentucky,32334
+Aiken,South Carolina,32334
+Buenaventura Lakes,Florida,32310
+Spring Valley,California,32215
+Maryville,Tennessee,32196
+Hutto,Texas,32188
+Long Branch,New Jersey,32184
+Massillon,Ohio,32177
+Wheat Ridge,Colorado,32158
+O'Fallon,Illinois,32139
+Elk Grove Village,Illinois,32132
+Nacogdoches,Texas,32104
+Oak Ridge,Tennessee,32088
+North Olmsted,Ohio,32031
+Fair Oaks,California,32030
+Atwater,California,32013
+Cornelius,North Carolina,32009
+West Odessa,Texas,31985
+Juneau,Alaska,31969
+Duluth,Georgia,31958
+Beverly Hills,California,31955
+Opelika,Alabama,31944
+Milford Mill,Maryland,31939
+Pullman,Washington,31939
+Erie,Colorado,31927
+Oceanside,New York,31907
+Marrero,Louisiana,31866
+Laramie,Wyoming,31848
+Carlsbad,New Mexico,31813
+Pekin,Illinois,31812
+Sun City Center,Florida,31801
+Rome,New York,31795
+Ithaca,New York,31792
+Seguin,Texas,31789
+San Pablo,California,31771
+Dania Beach,Florida,31739
+Lake Magdalene,Florida,31733
+West Bend,Wisconsin,31722
+Bethany,Oregon,31700
+Bangor,Maine,31663
+Naugatuck,Connecticut,31634
+Mundelein,Illinois,31632
+Nicholasville,Kentucky,31625
+Middle River,Maryland,31616
+Bel Air North,Maryland,31599
+Fitchburg,Wisconsin,31566
+New Bern,North Carolina,31563
+Lakeside,Florida,31548
+Shawnee,Oklahoma,31511
+Centereach,New York,31501
+Eagle,Idaho,31490
+LaGrange,Georgia,31479
+Zionsville,Indiana,31442
+Bluffton,South Carolina,31323
+Orcutt,California,31284
+Bay Shore,New York,31275
+Sterling,Virginia,31251
+Holladay,Utah,31236
+New Smyrna Beach,Florida,31212
+Santa Paula,California,31202
+Port Chester,New York,31162
+Haines City,Florida,31156
+SeaTac,Washington,31143
+Lawndale,California,31113
+Alamogordo,New Mexico,31063
+Southlake,Texas,31044
+North Royalton,Ohio,31013
+Hopkinsville,Kentucky,31011
+Northport,Alabama,30991
+Bella Vista,Arkansas,30935
+Laguna Hills,California,30921
+Springfield,Virginia,30894
+Ballwin,Missouri,30835
+Sanford,North Carolina,30833
+La Verne,California,30804
+North Chicago,Illinois,30772
+Westfield,New Jersey,30760
+Oakleaf Plantation,Florida,30737
+Los Altos,California,30736
+Miami Lakes,Florida,30731
+Washington,Utah,30686
+Banning,California,30680
+West Falls Church,Virginia,30660
+Lawrenceville,Georgia,30626
+Eldersburg,Maryland,30626
+Franklin Square,New York,30559
+Burlingame,California,30526
+Gurnee,Illinois,30486
+Morrisville,North Carolina,30471
+Ferry Pass,Florida,30467
+Princeton,New Jersey,30451
+Liberty,Missouri,30446
+Redan,Georgia,30426
+Parkville,Maryland,30423
+Chamblee,Georgia,30369
+North Tonawanda,New York,30338
+Saratoga,California,30335
+Brownsburg,Indiana,30310
+Newark,Delaware,30309
+Granger,Indiana,30279
+Niles,Illinois,30262
+Highland Park,Illinois,30229
+Middletown,New York,30227
+Austintown,Ohio,30215
+Summerlin South,Nevada,30075
+Ruskin,Florida,30074
+McDonough,Georgia,30056
+Bowling Green,Ohio,30051
+Drexel Hill,Pennsylvania,30015
+Matthews,North Carolina,29959
+Fridley,Minnesota,29944
+Paragould,Arkansas,29940
+Greenville,Texas,29936
+Winter Park,Florida,29929
+Algonquin,Illinois,29904
+Hazleton,Pennsylvania,29886
+Crofton,Maryland,29878
+Gloucester,Massachusetts,29862
+San Carlos,California,29797
+Monterey,California,29772
+Rahway,New Jersey,29748
+Atascadero,California,29735
+Orchards,Washington,29716
+Galesburg,Illinois,29653
+Hobart,Indiana,29646
+Schererville,Indiana,29627
+Central,Louisiana,29603
+Laurel,Maryland,29594
+Raytown,Missouri,29593
+Anderson,South Carolina,29563
+Southgate,Michigan,29551
+Burton,Michigan,29529
+Melrose,Massachusetts,29488
+Magna,Utah,29488
+Casselberry,Florida,29473
+San Lorenzo,California,29453
+Eastern Goleta Valley,California,29411
+Bixby,Oklahoma,29402
+Oak Park,Michigan,29370
+Garfield Heights,Ohio,29369
+Vero Beach South,Florida,29365
+Fleming Island,Florida,29351
+Texarkana,Arkansas,29343
+Englewood,New Jersey,29342
+Fountain,Colorado,29327
+Kirkwood,Missouri,29302
+Jacksonville,Arkansas,29285
+Harrison,New York,29279
+Clarksburg,Maryland,29246
+Suisun City,California,29205
+Statesville,North Carolina,29161
+East Palo Alto,California,29143
+Mehlville,Missouri,29089
+Easton,Pennsylvania,29079
+Sachse,Texas,29075
+East Lake-Orient Park,Florida,29064
+Russellville,Arkansas,29057
+Independence,Kentucky,29024
+Shaker Heights,Ohio,29004
+Enterprise,Alabama,28990
+Jeffersontown,Kentucky,28988
+Perry Hall,Maryland,28908
+Lake in the Hills,Illinois,28853
+Greenville,Mississippi,28833
+Burbank,Illinois,28822
+Golden Gate,Florida,28767
+Converse,Texas,28764
+Twentynine Palms,California,28738
+Daphne,Alabama,28673
+Danville,Illinois,28663
+Northampton,Massachusetts,28640
+Carney,Maryland,28624
+East Niles,California,28586
+Temescal Valley,California,28560
+Forest Hills,Michigan,28494
+Laplace,Louisiana,28480
+Frankfort,Kentucky,28452
+Lansing,Illinois,28415
+Madison Heights,Michigan,28411
+Jamestown,New York,28401
+Monroeville,Pennsylvania,28383
+Apollo Beach,Florida,28347
+Aberdeen,South Dakota,28297
+Fort Mill,South Carolina,28281
+Rockledge,Florida,28279
+Glen Ellyn,Illinois,28270
+Bergenfield,New Jersey,28269
+Fortuna Foothills,Arizona,28227
+Forney,Texas,28222
+Eagle Pass,Texas,28186
+Short Pump,Virginia,28177
+Citrus Park,Florida,28163
+Chaska,Minnesota,28146
+Ridgecrest,California,28138
+Allen Park,Michigan,28128
+Maple Valley,Washington,28121
+Oakdale,Minnesota,28109
+Glen Cove,New York,28101
+Ramsey,Minnesota,28070
+Crestview,Florida,28046
+Clayton,North Carolina,28043
+Tysons,Virginia,28022
+Henderson,Kentucky,27994
+Maryland Heights,Missouri,27981
+Williston,North Dakota,27964
+New Iberia,Louisiana,27926
+Lake Jackson,Texas,27902
+Huntley,Illinois,27859
+Walnut,California,27857
+Prior Lake,Minnesota,27832
+Hamtramck,Michigan,27830
+Shirley,New York,27807
+Monsey,New York,27787
+Garden City,Kansas,27781
+Madison,Mississippi,27775
+McHenry,Illinois,27774
+Reisterstown,Maryland,27764
+South Laurel,Maryland,27736
+Tualatin,Oregon,27710
+Alvin,Texas,27700
+Homewood,Alabama,27697
+Mount Pleasant,Wisconsin,27694
+Dodge City,Kansas,27652
+West Melbourne,Florida,27643
+Drexel Heights,Arizona,27636
+Williamsport,Pennsylvania,27629
+Lochearn,Maryland,27591
+Silver Springs Shores,Florida,27556
+Ilchester,Maryland,27552
+Wilmette,Illinois,27550
+Belmont,California,27505
+Mililani Town,Hawaii,27495
+Marshalltown,Iowa,27491
+Lemon Grove,California,27489
+Athens,Alabama,27474
+Pearl,Mississippi,27458
+New Lenox,Illinois,27456
+Kernersville,North Carolina,27439
+Millville,New Jersey,27432
+Clinton,Mississippi,27418
+Neenah,Wisconsin,27409
+Marion,Indiana,27384
+Green,Ohio,27381
+Asheboro,North Carolina,27353
+Deer Park,New York,27334
+Fremont,Nebraska,27321
+Union City,Georgia,27300
+Thomasville,North Carolina,27261
+Pooler,Georgia,27235
+Wright,Florida,27233
+New London,Connecticut,27199
+Kent,Ohio,27190
+Balch Springs,Texas,27181
+Celina,Texas,27141
+Mason City,Iowa,27135
+Lindenhurst,New York,27106
+Gladstone,Missouri,27069
+Kahului,Hawaii,27068
+West Linn,Oregon,27065
+Carrollton,Georgia,27058
+Lemoore,California,27023
+Wooster,Ohio,27012
+Sun City West,Arizona,27003
+Fulshear,Texas,26986
+Waukee,Iowa,26974
+Mint Hill,North Carolina,26954
+Chicago Heights,Illinois,26938
+Brawley,California,26934
+Temple Terrace,Florida,26922
+Leisure City,Florida,26917
+Garden City,Michigan,26910
+Paducah,Kentucky,26894
+Oak Forest,Illinois,26888
+Plum,Pennsylvania,26873
+Palm Springs,Florida,26871
+Benicia,California,26861
+Woodburn,Oregon,26845
+Kalispell,Montana,26830
+South Portland,Maine,26780
+Camas,Washington,26779
+Vernon Hills,Illinois,26772
+Ewa Gentry,Hawaii,26738
+Cabot,Arkansas,26733
+Lutz,Florida,26731
+Batavia,Illinois,26730
+Shoreview,Minnesota,26724
+Keystone,Florida,26723
+Palm River-Clair Mel,Florida,26719
+Troy,Ohio,26716
+Wheeling,West Virginia,26670
+Granite City,Illinois,26670
+Horn Lake,Mississippi,26622
+West Islip,New York,26559
+Superior,Wisconsin,26550
+Edwardsville,Illinois,26543
+Marysville,Ohio,26540
+Jenks,Oklahoma,26519
+Tumwater,Washington,26519
+Sanger,California,26515
+Rosemount,Minnesota,26509
+Paramus,New Jersey,26500
+Auburn,New York,26475
+Venice,Florida,26467
+Owatonna,Minnesota,26462
+Forest Grove,Oregon,26406
+Carolina Forest,South Carolina,26373
+Elk River,Minnesota,26367
+Elmira,New York,26349
+Woodstock,Illinois,26316
+Leland,North Carolina,26307
+Eureka,California,26302
+South Pasadena,California,26297
+South Salt Lake,Utah,26277
+Holbrook,New York,26256
+Plainview,New York,26251
+Hercules,California,26245
+Lockport,Illinois,26228
+Wasco,California,26222
+Wilsonville,Oregon,26183
+Elkridge,Maryland,26183
+Fairland,Maryland,26183
+Trussville,Alabama,26182
+Windsor,California,26179
+Austin,Minnesota,26167
+East Chicago,Indiana,26158
+Ives Estates,Florida,26154
+Oxford,Mississippi,26086
+Conway,South Carolina,26082
+Ridgewood,New Jersey,26076
+Medina,Ohio,26040
+North Tustin,California,26038
+Cave Spring,Virginia,26014
+Chanhassen,Minnesota,26001
+Franklin,Indiana,25999
+Winona,Minnesota,25998
+Norfolk,Nebraska,25962
+Florence,Arizona,25961
+Kuna,Idaho,25960
+Lodi,New Jersey,25946
+Fish Hawk,Florida,25945
+Colleyville,Texas,25906
+Imperial Beach,California,25897
+Moscow,Idaho,25868
+Ballenger Creek,Maryland,25866
+Terrytown,Louisiana,25844
+Fort Washington,Maryland,25843
+Key West,Florida,25824
+Grandview,Missouri,25821
+Derby,Kansas,25801
+Fort Hood,Texas,25786
+El Cerrito,California,25781
+Rockville Centre,New York,25770
+Staunton,Virginia,25765
+Sebastian,Florida,25759
+Allendale,Michigan,25741
+Palm City,Florida,25699
+Columbine,Colorado,25681
+Medford,New York,25681
+Galt,California,25665
+Bessemer,Alabama,25655
+Pace,Florida,25630
+Immokalee,Florida,25624
+Newberg,Oregon,25622
+Starkville,Mississippi,25611
+Inkster,Michigan,25602
+Moses Lake,Washington,25594
+South Bradenton,Florida,25585
+Nocatee,Florida,25581
+Cliffside Park,New Jersey,25580
+Happy Valley,Oregon,25572
+Xenia,Ohio,25555
+Tarpon Springs,Florida,25522
+Okemos,Michigan,25503
+Stevens Point,Wisconsin,25497
+Peekskill,New York,25484
+Salem,Virginia,25477
+Mill Creek East,Washington,25461
+West Whittier-Los Nietos,California,25459
+Bailey's Crossroads,Virginia,25458
+Avon Lake,Ohio,25456
+Reedley,California,25446
+West Chicago,Illinois,25434
+Northdale,Florida,25420
+De Pere,Wisconsin,25368
+Ottumwa,Iowa,25352
+Brandon,Mississippi,25352
+Denison,Texas,25347
+Corsicana,Texas,25344
+Caledonia,Wisconsin,25292
+Sugar Hill,Georgia,25285
+Mercer Island,Washington,25282
+Lafayette,California,25277
+Holt,Michigan,25275
+Mequon,Wisconsin,25259
+Dickinson,North Dakota,25216
+Hazelwood,Missouri,25214
+Norco,California,25211
+North Laurel,Maryland,25201
+Walker,Michigan,25201
+Dinuba,California,25201
+Barstow,California,25198
+Carteret,New Jersey,25187
+Edgewood,Maryland,25170
+Muskego,Wisconsin,25156
+Simpsonville,South Carolina,25125
+Mountain House,California,25108
+University Park,Texas,25104
+Avon,Ohio,25082
+Perrysburg,Ohio,25065
+Kingsville,Texas,25061
+Bellview,Florida,25051
+Dix Hills,New York,25042
+Newport,Rhode Island,25029
+King of Prussia,Pennsylvania,25025
+Loma Linda,California,25021
+Hastings,Nebraska,25005
+Norton Shores,Michigan,25000
+Barberton,Ohio,24977
+Romulus,Michigan,24951
+Farmington,Utah,24934
+North Augusta,South Carolina,24928
+Auburn Hills,Michigan,24911
+Riverbank,California,24881
+Seal Beach,California,24868
+Westchase,Florida,24818
+Centerville,Ohio,24815
+Yukon,Oklahoma,24802
+Pecan Grove,Texas,24798
+Fort Dodge,Iowa,24788
+Big Spring,Texas,24769
+Ardmore,Oklahoma,24757
+Sandusky,Ohio,24748
+Zanesville,Ohio,24726
+Morton Grove,Illinois,24687
+Paris,Texas,24678
+San Benito,Texas,24677
+Suitland,Maryland,24667
+Cloverleaf,Texas,24630
+Socastee,South Carolina,24629
+Belton,Missouri,24618
+Port St. John,Florida,24617
+Bainbridge Island,Washington,24607
+Maywood,California,24593
+Wyandotte,Michigan,24593
+Selma,California,24586
+Watertown,New York,24574
+Greenbelt,Maryland,24572
+Landover,Maryland,24558
+Ridgeland,Mississippi,24548
+Kerrville,Texas,24532
+Herndon,Virginia,24529
+Homer Glen,Illinois,24516
+Melrose Park,Illinois,24513
+Belvidere,Illinois,24510
+Pelham,Alabama,24510
+World Golf Village,Florida,24485
+Fairfax,Virginia,24478
+Soledad,California,24476
+Decatur,Georgia,24470
+Saginaw,Texas,24467
+Zion,Illinois,24466
+Faribault,Minnesota,24458
+Riverside,Ohio,24432
+Benbrook,Texas,24430
+Clinton,Iowa,24425
+Oak Harbor,Washington,24396
+Oak Ridge,Florida,24395
+Ponca City,Oklahoma,24377
+Bloomington,California,24324
+Farragut,Tennessee,24309
+Greenfield,Indiana,24308
+Patterson,California,24306
+Wadsworth,Ohio,24302
+Auburn,Maine,24294
+Mandan,North Dakota,24293
+Palmetto Bay,Florida,24247
+South Plainfield,New Jersey,24231
+Frederickson,Washington,24219
+Westmont,Illinois,24201
+Johnston,Iowa,24196
+Columbus,Nebraska,24188
+Liberty Triangle,Florida,24178
+West Memphis,Arkansas,24147
+Lexington,South Carolina,24132
+Nixa,Missouri,24131
+Collinsville,Illinois,24126
+Shelbyville,Tennessee,24125
+Wekiwa Springs,Florida,24109
+Emporia,Kansas,24098
+Fresno,Texas,24087
+Middletown,Delaware,24071
+Bay Point,California,24065
+Papillion,Nebraska,24063
+Coral Terrace,Florida,24051
+White Bear Lake,Minnesota,24026
+Gardner,Kansas,24020
+Brambleton,Virginia,23999
+North Potomac,Maryland,23994
+South Elgin,Illinois,23984
+Elmwood Park,Illinois,23982
+Rolling Meadows,Illinois,23981
+Bloomingdale,Florida,23979
+Solon,Ohio,23970
+Kingston,New York,23942
+Easley,South Carolina,23942
+Willoughby,Ohio,23934
+Katy,Texas,23900
+Arnold,Maryland,23866
+Somerset,New Jersey,23851
+Raymore,Missouri,23849
+Pickerington,Ohio,23828
+Burlington,Iowa,23800
+Bayonet Point,Florida,23787
+Roseburg,Oregon,23773
+Webster Groves,Missouri,23771
+Belton,Texas,23769
+Fountain Hills,Arizona,23768
+Highland,Indiana,23749
+Chantilly,Virginia,23744
+Munster,Indiana,23733
+San Fernando,California,23716
+Brookings,South Dakota,23710
+Taylors,South Carolina,23686
+Farmington,Minnesota,23675
+North Lynnwood,Washington,23653
+Griffin,Georgia,23650
+Marshall,Texas,23646
+Freeport,Illinois,23636
+Fernley,Nevada,23631
+Cartersville,Georgia,23617
+Columbus,Mississippi,23616
+Ladera Ranch,California,23609
+Jacksonville Beach,Florida,23601
+Kenmore,Washington,23594
+Eustis,Florida,23567
+Muscatine,Iowa,23567
+Van Buren,Arkansas,23545
+East San Gabriel,California,23521
+Chester,Virginia,23519
+Clinton,Utah,23492
+Eastmont,Washington,23486
+Champlin,Minnesota,23450
+Rosemont,California,23448
+Cherry Hill,Virginia,23443
+Brent,Florida,23441
+Blue Island,Illinois,23416
+Lisle,Illinois,23413
+Pottstown,Pennsylvania,23392
+Glassboro,New Jersey,23375
+Fairhope,Alabama,23360
+Maple Heights,Ohio,23350
+Watauga,Texas,23336
+Copiague,New York,23332
+Edgewater,Florida,23314
+Waverly,Michigan,23301
+Union Hill-Novelty Hill,Washington,23272
+Cockeysville,Maryland,23265
+North Salt Lake,Utah,23239
+Rock Springs,Wyoming,23229
+Linda,California,23215
+Athens,Ohio,23211
+Loves Park,Illinois,23185
+Maywood,Illinois,23173
+Cottage Lake,Washington,23170
+Oakdale,California,23155
+Jasmine Estates,Florida,23151
+Searcy,Arkansas,23115
+Hazel Dell,Washington,23086
+Horizon City,Texas,23069
+Trotwood,Ohio,23041
+Ensley,Florida,23036
+Kapolei,Hawaii,23033
+North Platte,Nebraska,23030
+Hudson,Ohio,23007
+Radcliff,Kentucky,22967
+Hopewell,Virginia,22944
+Prairie Village,Kansas,22937
+Keene,New Hampshire,22923
+West Springfield,Virginia,22905
+New Brighton,Minnesota,22900
+Watertown,Wisconsin,22873
+Duncan,Oklahoma,22872
+Calabasas,California,22869
+Corinth,Texas,22868
+Garden City,New York,22866
+Watertown,South Dakota,22859
+Coralville,Iowa,22846
+Ramona,California,22829
+Christiansburg,Virginia,22820
+Ashland,California,22784
+Laguna Beach,California,22777
+Bonney Lake,Washington,22776
+Machesney Park,Illinois,22744
+Martha Lake,Washington,22740
+Roselle,Illinois,22731
+Sun Valley,Nevada,22697
+Crystal,Minnesota,22685
+Avon,Indiana,22683
+North Plainfield,New Jersey,22667
+Hialeah Gardens,Florida,22634
+Corcoran,California,22626
+Anthem,Arizona,22622
+Bear,Delaware,22604
+DeBary,Florida,22602
+Millbrae,California,22589
+Albertville,Alabama,22584
+Waynesboro,Virginia,22574
+Kihei,Hawaii,22564
+West Rancho Dominguez,California,22560
+Greenwood,South Carolina,22527
+Summit,New Jersey,22512
+East Peoria,Illinois,22485
+Central Falls,Rhode Island,22481
+Biddeford,Maine,22463
+Villa Park,Illinois,22456
+Roselle,New Jersey,22455
+McNair,Virginia,22451
+Chalmette,Louisiana,22447
+Junction City,Kansas,22431
+Bloomingdale,Illinois,22388
+Acworth,Georgia,22370
+The Crossings,Florida,22359
+Yorkville,Illinois,22350
+Foley,Alabama,22330
+Cudahy,California,22325
+Marina,California,22324
+Hayesville,Oregon,22309
+Hillsborough,New Jersey,22302
+Marion Oaks,Florida,22296
+Montclair,Virginia,22295
+Sapulpa,Oklahoma,22268
+Evans,Colorado,22265
+Rancho San Diego,California,22264
+Perry,Georgia,22243
+Middleton,Wisconsin,22235
+Ruston,Louisiana,22224
+Payson,Utah,22205
+West Puente Valley,California,22198
+Camp Springs,Maryland,22174
+Mountain Brook,Alabama,22160
+Bayou Cane,Louisiana,22143
+La Porte,Indiana,22125
+Sunny Isles Beach,Florida,22125
+Clarksville,Indiana,22121
+Allison Park,Pennsylvania,22108
+Sanford,Maine,22095
+Oxford,Ohio,22069
+Oxford,Alabama,22063
+Langley Park,Maryland,22057
+Chambersburg,Pennsylvania,22051
+Hastings,Minnesota,22050
+East Ridge,Tennessee,22034
+Columbia Heights,Minnesota,22016
+Winter Gardens,California,22003
+Mililani Mauka,Hawaii,21967
+Lorton,Virginia,21961
+Chillicothe,Ohio,21958
+Ozark,Missouri,21953
+Golden Valley,Minnesota,21927
+Duarte,California,21921
+West Carson,California,21909
+Klamath Falls,Oregon,21879
+Parsippany,New Jersey,21869
+Sedalia,Missouri,21869
+Shelby,North Carolina,21868
+Darien,Illinois,21855
+Lino Lakes,Minnesota,21847
+Woodlawn,Virginia,21828
+Massapequa,New York,21822
+Merrick,New York,21816
+Carbondale,Illinois,21813
+Pascagoula,Mississippi,21812
+Suwanee,Georgia,21811
+Rio Rico,Arizona,21798
+Silver Firs,Washington,21796
+Lakeside,California,21788
+Four Square Mile,Colorado,21788
+Holiday,Florida,21768
+Yucca Valley,California,21744
+New Castle,Pennsylvania,21727
+Harvey,Louisiana,21710
+Selden,New York,21707
+American Canyon,California,21698
+Port Hueneme,California,21691
+Hurricane,Utah,21677
+Willowbrook,California,21642
+St. John,Indiana,21639
+Valinda,California,21626
+Birmingham,Michigan,21612
+Dickinson,Texas,21612
+South Euclid,Ohio,21606
+Green Valley,Arizona,21581
+Alliance,Ohio,21574
+Clemmons,North Carolina,21574
+Waxhaw,North Carolina,21565
+Del City,Oklahoma,21561
+Ennis,Texas,21546
+Seymour,Indiana,21536
+Lindenwold,New Jersey,21534
+Florida Ridge,Florida,21517
+Pleasant Prairie,Wisconsin,21515
+Rocky River,Ohio,21490
+Rose Hill,Virginia,21484
+Tukwila,Washington,21479
+North Ogden,Utah,21473
+Helena,Alabama,21452
+Five Corners,Washington,21444
+Secaucus,New Jersey,21437
+Mount Pleasant,Michigan,21420
+Mountlake Terrace,Washington,21419
+Ashland,Kentucky,21405
+New Hope,Minnesota,21402
+Granite Bay,California,21378
+East Patchogue,New York,21364
+Otsego,Minnesota,21358
+Stephenville,Texas,21345
+Ashland,Oregon,21343
+Carlisle,Pennsylvania,21335
+Gallup,New Mexico,21333
+South Lake Tahoe,California,21319
+Stevenson Ranch,California,21317
+Candler-McAfee,Georgia,21316
+Mesquite,Nevada,21314
+Mukilteo,Washington,21312
+Geneva,Illinois,21299
+Battle Ground,Washington,21293
+Mustang,Oklahoma,21290
+Elmwood Park,New Jersey,21287
+Milwaukie,Oregon,21256
+Hunters Creek,Florida,21255
+Lebanon,Ohio,21216
+Montgomery,Illinois,21205
+Snellville,Georgia,21203
+Carrboro,North Carolina,21170
+Baldwin,Pennsylvania,21159
+Willmar,Minnesota,21136
+Bryant,Arkansas,21125
+Old Jamestown,Missouri,21121
+Hanahan,South Carolina,21119
+Mineola,New York,21082
+Hays,Kansas,21078
+West St. Paul,Minnesota,21076
+Gardner,Massachusetts,21075
+Silverdale,Washington,21046
+Lealman,Florida,21026
+South Holland,Illinois,21016
+Bothell West,Washington,21014
+Sulphur,Louisiana,21004
+Murphy,Texas,21001
+Dolton,Illinois,20979
+Anna,Texas,20975
+Princeton,Texas,20966
+Covington,Washington,20957
+Fort Walton Beach,Florida,20956
+St. Andrews,South Carolina,20953
+Brushy Creek,Texas,20953
+Vicksburg,Mississippi,20944
+Imperial,California,20943
+Germantown,Wisconsin,20940
+Park Forest,Illinois,20898
+Arnold,Missouri,20884
+Arbutus,Maryland,20869
+Hyattsville,Maryland,20861
+Mill Creek,Washington,20846
+Rosedale,Maryland,20845
+Murrysville,Pennsylvania,20839
+East Moline,Illinois,20837
+Rosamond,California,20835
+Louisville,Colorado,20788
+North Liberty,Iowa,20782
+North Bellmore,New York,20776
+Hauppauge,New York,20772
+West Hempstead,New York,20762
+Fate,Texas,20757
+Midway,Florida,20745
+Grayslake,Illinois,20707
+Wade Hampton,South Carolina,20703
+Montrose,Colorado,20703
+Lockport,New York,20699
+Marquette,Michigan,20691
+West Pensacola,Florida,20679
+Northfield,Minnesota,20678
+Forest Lake,Minnesota,20678
+Tullahoma,Tennessee,20672
+Saco,Maine,20636
+South St. Paul,Minnesota,20633
+Elko,Nevada,20624
+Groveland,Florida,20621
+Shafter,California,20618
+Parma Heights,Ohio,20616
+Pittsburg,Kansas,20606
+Bethany,Oklahoma,20606
+Pleasantville,New Jersey,20604
+Arlington,Washington,20599
+Altoona,Iowa,20592
+Merrifield,Virginia,20549
+South Milwaukee,Wisconsin,20547
+Piqua,Ohio,20533
+North Bay Shore,New York,20501
+Libertyville,Illinois,20493
+Adrian,Michigan,20493
+South Burlington,Vermont,20488
+Westbrook,Maine,20484
+Golden,Colorado,20467
+Sidney,Ohio,20457
+Painesville,Ohio,20453
+Buckhall,Virginia,20447
+Culpeper,Virginia,20437
+Frankfort,Illinois,20417
+Lomita,California,20409
+Meadowbrook,Virginia,20383
+Makakilo,Hawaii,20372
+Portland,Texas,20369
+North Amityville,New York,20364
+Monroe,Michigan,20330
+East Hemet,California,20292
+Lennox,California,20289
+Howard,Wisconsin,20261
+Westminster,Maryland,20257
+Morristown,New Jersey,20256
+Lynbrook,New York,20251
+Sherwood,Oregon,20227
+Centerton,Arkansas,20212
+Palisades Park,New Jersey,20192
+Rolla,Missouri,20144
+East Massapequa,New York,20142
+La Cañada Flintridge,California,20094
+Nanuet,New York,20089
+Port Angeles,Washington,20087
+Mayfield Heights,Ohio,20082
+Affton,Missouri,20035
+Alamo,Texas,20008
+Forest Park,Ohio,19994
+West Haven,Utah,19977
+Whitehall,Ohio,19974
+Sand Springs,Oklahoma,19973
+La Crescenta-Montrose,California,19940
+Ypsilanti,Michigan,19937
+Claremore,Oklahoma,19921
+Lincolnia,Virginia,19913
+Mokena,Illinois,19906
+Plainview,Texas,19893
+Punta Gorda,Florida,19886
+Agoura Hills,California,19881
+Plattsburgh,New York,19878
+Shelbyville,Indiana,19866
+Miamisburg,Ohio,19859
+Oroville,California,19855
+Universal City,Texas,19853
+Altamont,Oregon,19844
+Harvey,Illinois,19831
+Oregon,Ohio,19821
+Bartow,Florida,19801
+Brigham City,Utah,19796
+Lackawanna,New York,19779
+Palm Valley,Florida,19775
+Albany,California,19768
+Broadview Heights,Ohio,19768
+Greenfield,California,19759
+Crest Hill,Illinois,19754
+Nogales,Arizona,19753
+Clifton,Colorado,19746
+Tavares,Florida,19738
+Lake Zurich,Illinois,19727
+Monroe,Washington,19696
+Lexington,North Carolina,19691
+Erlanger,Kentucky,19677
+East Northport,New York,19672
+Casa de Oro-Mount Helix,California,19651
+Zachary,Louisiana,19637
+Roosevelt,New York,19636
+Highland,Utah,19625
+Sartell,Minnesota,19620
+Forest Park,Georgia,19619
+Harrison,New Jersey,19599
+Angleton,Texas,19597
+Salmon Creek,Washington,19594
+Mead Valley,California,19588
+Springboro,Ohio,19577
+Kinston,North Carolina,19576
+Bradfordville,Florida,19548
+Sweetwater,Florida,19544
+Boone,North Carolina,19534
+Knightdale,North Carolina,19532
+Boerne,Texas,19509
+Evergreen Park,Illinois,19498
+Cedar Mill,Oregon,19482
+Arvin,California,19478
+Hawthorne,New Jersey,19472
+Orinda,California,19472
+Homewood,Illinois,19471
+Cutlerville,Michigan,19465
+Lynn Haven,Florida,19451
+Madisonville,Kentucky,19442
+Warrensburg,Missouri,19437
+Naples,Florida,19421
+South El Monte,California,19413
+Hermiston,Oregon,19406
+Englewood,Florida,19385
+Sherrelwood,Colorado,19368
+Fayetteville,Georgia,19364
+Twinsburg,Ohio,19346
+North Myrtle Beach,South Carolina,19343
+West Mifflin,Pennsylvania,19338
+Seminole,Florida,19336
+Cocoa,Florida,19330
+Rosedale,California,19325
+Stillwater,Minnesota,19323
+Santa Fe Springs,California,19310
+Trinity,Florida,19296
+Prunedale,California,19286
+Maumelle,Arkansas,19286
+Maitland,Florida,19268
+St. Michael,Minnesota,19267
+Valle Vista,California,19263
+Durango,Colorado,19257
+Tinton Falls,New Jersey,19252
+Holtsville,New York,19250
+Hermosa Beach,California,19248
+Brookfield,Illinois,19235
+West Chester,Pennsylvania,19235
+Republic,Missouri,19233
+Lumberton,North Carolina,19220
+Durant,Oklahoma,19209
+Alton,Texas,19205
+Harrisburg,North Carolina,19203
+Lake Forest,Illinois,19190
+Melville,New York,19187
+Deerfield,Illinois,19185
+Central Point,Oregon,19183
+Orange,Texas,19178
+Point Pleasant,New Jersey,19158
+Dixon,California,19158
+Ferndale,Michigan,19156
+Iselin,New Jersey,19151
+Cinco Ranch,Texas,19139
+Winchester,Kentucky,19133
+Lakeway,Texas,19130
+Prichard,Alabama,19121
+Liberal,Kansas,19107
+Kingsland,Georgia,19101
+Five Forks,South Carolina,19093
+Beltsville,Maryland,19086
+Olivehurst,California,19071
+Phoenixville,Pennsylvania,19062
+East Riverdale,Maryland,19043
+Sylvania,Ohio,19038
+Sheridan,Wyoming,19035
+Badger,Alaska,19033
+Gautier,Mississippi,19026
+Haslett,Michigan,19025
+Norwood,Ohio,19023
+Terrell,Texas,19019
+Ashland,Ohio,19008
+Crowley,Texas,19007
+Augusta,Maine,18999
+Springfield,Tennessee,18985
+Lebanon,Oregon,18978
+Redland,Maryland,18976
+Seagoville,Texas,18968
+Fox Crossing,Wisconsin,18960
+Ansonia,Connecticut,18951
+Cumberland,Maryland,18938
+Knik-Fairview,Alaska,18921
+Ellensburg,Washington,18913
+Onalaska,Wisconsin,18909
+Mebane,North Carolina,18899
+Cullman,Alabama,18894
+Palestine,Texas,18888
+Chowchilla,California,18876
+Lansdale,Pennsylvania,18865
+Winder,Georgia,18847
+White Oak,Ohio,18845
+Pinole,California,18835
+La Marque,Texas,18833
+Gibsonton,Florida,18831
+Cimarron Hills,Colorado,18808
+Brownwood,Texas,18805
+St. Marys,Georgia,18805
+Martinsburg,West Virginia,18805
+Weirton,West Virginia,18785
+Clive,Iowa,18776
+Wisconsin Rapids,Wisconsin,18756
+Rutherford,New Jersey,18748
+Elizabeth City,North Carolina,18740
+Thomasville,Georgia,18720
+Marshfield,Wisconsin,18718
+Ottawa,Illinois,18714
+Midlothian,Virginia,18702
+Hopkins,Minnesota,18696
+Country Walk,Florida,18693
+Ocean Acres,New Jersey,18689
+Steiner Ranch,Texas,18683
+Matteson,Illinois,18681
+Altus,Oklahoma,18670
+Maryland City,Maryland,18669
+Alsip,Illinois,18650
+Creve Coeur,Missouri,18643
+Round Lake,Illinois,18588
+Arcata,California,18578
+Bensenville,Illinois,18576
+Ocean Springs,Mississippi,18561
+Coronado,California,18558
+Preakness,New Jersey,18538
+Franklin Farm,Virginia,18509
+Ammon,Idaho,18496
+Seabrook,Maryland,18495
+Panama City Beach,Florida,18493
+Oxon Hill,Maryland,18491
+Glenvar Heights,Florida,18488
+Castaic,California,18479
+Nederland,Texas,18475
+Zephyrhills,Florida,18471
+North Decatur,Georgia,18460
+Centralia,Washington,18457
+Fort Carson,Colorado,18447
+Newburyport,Massachusetts,18444
+Newton,Kansas,18443
+Fairwood,Washington,18437
+Dover,New Jersey,18420
+Sudley,Virginia,18420
+Arroyo Grande,California,18412
+Tallmadge,Ohio,18394
+Oconomowoc,Wisconsin,18385
+Albert Lea,Minnesota,18379
+North Aurora,Illinois,18375
+Bellwood,Illinois,18373
+Ronkonkoma,New York,18368
+New River,Arizona,18365
+Brook Park,Ohio,18359
+Ferguson,Missouri,18350
+Berea,Ohio,18330
+Bayshore Gardens,Florida,18324
+Fairmont,West Virginia,18303
+Niles,Ohio,18301
+Colonia,New Jersey,18294
+Lake Ronkonkoma,New York,18289
+Lenoir,North Carolina,18282
+East St. Louis,Illinois,18278
+Syosset,New York,18274
+Lake Shore,Maryland,18263
+Shenandoah,Louisiana,18259
+San Carlos Park,Florida,18252
+Johnstown,Pennsylvania,18245
+Sycamore,Illinois,18243
+Trenton,Michigan,18242
+Franklin Park,Illinois,18233
+Mount Washington,Kentucky,18228
+Shorewood,Illinois,18218
+Colonial Heights,Virginia,18210
+North Babylon,New York,18208
+Woodmere,New York,18198
+Manchester,Missouri,18189
+Spanish Lake,Missouri,18183
+Laurel,Virginia,18180
+North Druid Hills,Georgia,18172
+Bluffdale,Utah,18168
+Amsterdam,New York,18162
+Steubenville,Ohio,18144
+Franconia,Virginia,18141
+Palos Hills,Illinois,18139
+Pinecrest,Florida,18138
+Menasha,Wisconsin,18130
+Colonial Park,Pennsylvania,18125
+White Settlement,Texas,18119
+Bourbonnais,Illinois,18109
+Wallingford Center,Connecticut,18107
+Sevierville,Tennessee,18105
+Canby,Oregon,18103
+McAlester,Oklahoma,18098
+Siloam Springs,Arkansas,18096
+Burlington,Kentucky,18090
+Brenham,Texas,18086
+Johnstown,Colorado,18075
+Dumont,New Jersey,18072
+Phelan,California,18059
+Stuart,Florida,18058
+Pataskala,Ohio,18049
+Cohoes,New York,18043
+North Massapequa,New York,18037
+Gainesville,Virginia,18036
+Concord,Missouri,18028
+Scarsdale,New York,18005
+Farmington,Missouri,17999
+Pinehurst,North Carolina,17992
+Cudahy,Wisconsin,17964
+Wantagh,New York,17964
+Stanford,California,17958
+Anoka,Minnesota,17941
+Los Lunas,New Mexico,17932
+Mount Holly,North Carolina,17928
+Ashtabula,Ohio,17919
+Portsmouth,Ohio,17919
+El Reno,Oklahoma,17919
+Conyers,Georgia,17916
+Parole,Maryland,17910
+Murray,Kentucky,17888
+Hybla Valley,Virginia,17877
+Cary,Illinois,17875
+Anacortes,Washington,17837
+Blythe,California,17824
+Hope Mills,North Carolina,17823
+Bay City,Texas,17816
+Tiffin,Ohio,17814
+Villa Rica,Georgia,17798
+Alice,Texas,17797
+Willimantic,Connecticut,17774
+Logansport,Indiana,17766
+Clemson,South Carolina,17759
+North Valley Stream,New York,17756
+North Canton,Ohio,17746
+Godfrey,Illinois,17743
+Troy,Alabama,17733
+West Columbia,South Carolina,17723
+Calverton,Maryland,17721
+Holly Springs,Georgia,17693
+Gainesville,Texas,17688
+Glassmanor,Maryland,17687
+Natchitoches,Louisiana,17682
+Tillmans Corner,Alabama,17678
+Norcross,Georgia,17669
+Lemont,Illinois,17643
+Port Washington,New York,17613
+Calhoun,Georgia,17611
+Buford,Georgia,17611
+Goodlettsville,Tennessee,17598
+Hernando,Mississippi,17580
+Bryn Mawr-Skyway,Washington,17577
+Lebanon,Indiana,17575
+New Philadelphia,Ohio,17563
+South Ogden,Utah,17563
+Morganton,North Carolina,17541
+Lake St. Louis,Missouri,17538
+Eastlake,Ohio,17538
+Graham,North Carolina,17537
+Camano,Washington,17535
+Takoma Park,Maryland,17522
+McKeesport,Pennsylvania,17520
+Wahiawa,Hawaii,17515
+Streetsboro,Ohio,17514
+Spanish Springs,Nevada,17512
+Melissa,Texas,17497
+Kirksville,Missouri,17493
+St. Matthews,Kentucky,17491
+Jacksonville,Illinois,17490
+Idylwood,Virginia,17469
+Gretna,Louisiana,17468
+Cortland,New York,17465
+South San Jose Hills,California,17451
+Burke Centre,Virginia,17447
+Selma,Alabama,17442
+Heber,Utah,17438
+Auburndale,Florida,17438
+Kingstowne,Virginia,17436
+Shelbyville,Kentucky,17436
+Pinewood,Florida,17427
+Powder Springs,Georgia,17414
+Wayne,Michigan,17413
+Richmond Hill,Georgia,17408
+Oak Grove,Oregon,17408
+South Venice,Florida,17399
+Aurora,Ohio,17386
+El Dorado,Arkansas,17382
+Rancho Mirage,California,17375
+Royse City,Texas,17357
+New Castle,Indiana,17356
+Firestone,Colorado,17353
+Coalinga,California,17352
+Laguna Woods,California,17342
+Bethpage,New York,17334
+Jenison,Michigan,17334
+Murraysville,North Carolina,17307
+Bon Air,Virginia,17302
+Cameron Park,California,17283
+Clayton,Missouri,17282
+Stafford,Texas,17279
+Nipomo,California,17266
+Fort Thomas,Kentucky,17242
+Lake Butler,Florida,17242
+Kaukauna,Wisconsin,17237
+Danville,Kentucky,17235
+Dallas,Oregon,17214
+Charleston,Illinois,17212
+Adelphi,Maryland,17210
+Easton,Maryland,17202
+Calera,Alabama,17188
+Glenn Heights,Texas,17175
+Cahokia Heights,Illinois,17173
+Viera West,Florida,17169
+Upper Grand Lagoon,Florida,17162
+Hinsdale,Illinois,17155
+McKinleyville,California,17152
+Avenel,New Jersey,17143
+Tifton,Georgia,17140
+Hampton Bays,New York,17138
+Laurel,Mississippi,17129
+Addison,Texas,17128
+West Richland,Washington,17126
+Wixom,Michigan,17126
+Bellaire,Texas,17116
+Woodcrest,California,17111
+Ojus,Florida,17101
+Cañon City,Colorado,17098
+Sunland Park,New Mexico,17085
+Ferndale,Maryland,17076
+Pendleton,Oregon,17070
+New Port Richey,Florida,17057
+Norwalk,Ohio,17054
+Fairview Park,Ohio,17049
+Safety Harbor,Florida,17040
+Aberdeen,Washington,17040
+Oswego,New York,17028
+Huntington,Indiana,17026
+Bristol,Virginia,17024
+Groves,Texas,17021
+Hollins,Virginia,17005
+Flowing Wells,Arizona,16989
+Massapequa Park,New York,16985
+Laconia,New Hampshire,16982
+Beckley,West Virginia,16977
+Rio Linda,California,16951
+Washougal,Washington,16945
+Truckee,California,16942
+Ashwaubenon,Wisconsin,16931
+Millbrook,Alabama,16923
+Manassas Park,Virginia,16923
+Manor,Texas,16917
+New Milford,New Jersey,16882
+Long Beach,Mississippi,16876
+Milledgeville,Georgia,16873
+Live Oak,California,16866
+Damascus,Maryland,16864
+El Segundo,California,16863
+Aberdeen,Maryland,16831
+Defiance,Ohio,16830
+Hannibal,Missouri,16825
+Belle Glade,Florida,16818
+Mount Dora,Florida,16812
+Mount Vernon,Ohio,16802
+Marion,Illinois,16796
+Moraga,California,16790
+Vero Beach,Florida,16785
+Donna,Texas,16774
+Taylor,Texas,16767
+Estelle,Louisiana,16761
+Schofield Barracks,Hawaii,16755
+Wildwood,Florida,16739
+Pampa,Texas,16735
+Fullerton,Pennsylvania,16729
+Cloverly,Maryland,16726
+Lake Mary,Florida,16724
+Bridgeview,Illinois,16721
+Waterville,Maine,16704
+Centerville,Utah,16692
+Bull Run,Virginia,16688
+Vincennes,Indiana,16676
+Eloy,Arizona,16671
+Muscle Shoals,Alabama,16670
+Fillmore,California,16665
+Youngsville,Louisiana,16664
+Red Wing,Minnesota,16660
+Berea,South Carolina,16642
+Chaparral,New Mexico,16642
+Myrtle Grove,Florida,16637
+Glen Allen,Virginia,16630
+Beaver Dam,Wisconsin,16629
+Fairburn,Georgia,16609
+Farmingville,New York,16605
+Clearlake,California,16604
+La Vista,Nebraska,16594
+Warsaw,Indiana,16592
+Palmetto Estates,Florida,16587
+Ham Lake,Minnesota,16575
+Menomonie,Wisconsin,16548
+Bostonia,California,16545
+Hueytown,Alabama,16541
+Ada,Oklahoma,16536
+Glenmont,Maryland,16529
+Albemarle,North Carolina,16527
+Westchester,Illinois,16524
+Fort Hunt,Virginia,16519
+Grovetown,Georgia,16516
+Tahlequah,Oklahoma,16513
+Hot Springs Village,Arkansas,16509
+Radford,Virginia,16505
+Morton,Illinois,16503
+Stallings,North Carolina,16495
+Payson,Arizona,16494
+Kerman,California,16492
+Humble,Texas,16489
+Hanover,Pennsylvania,16483
+Red Hill,South Carolina,16480
+Havelock,North Carolina,16471
+Madison,New Jersey,16464
+White Oak,Maryland,16458
+Mercedes,Texas,16449
+Lemay,Missouri,16431
+Three Lakes,Florida,16426
+Jasper,Indiana,16421
+Country Club Hills,Illinois,16419
+Ukiah,California,16419
+Crawfordsville,Indiana,16408
+Dyer,Indiana,16400
+Port Orchard,Washington,16398
+Brownsville,Florida,16391
+Buffalo,Minnesota,16388
+Mastic Beach,New York,16382
+Vienna,Virginia,16369
+North Arlington,New Jersey,16368
+Lake Wales,Florida,16365
+River Falls,Wisconsin,16349
+Chickasha,Oklahoma,16349
+Stone Ridge,Virginia,16340
+Lady Lake,Florida,16337
+Mattoon,Illinois,16334
+Sunnyside,Washington,16329
+Saraland,Alabama,16304
+Pearl River,New York,16282
+Ocean Pointe,Hawaii,16276
+Mountain Home,Idaho,16265
+Ladson,South Carolina,16261
+Fairview Heights,Illinois,16255
+Bellevue,Wisconsin,16255
+Kings Park,New York,16249
+Dickson,Tennessee,16246
+Hewitt,Texas,16244
+Poplar Bluff,Missouri,16243
+Welby,Colorado,16232
+Sikeston,Missouri,16231
+Griffith,Indiana,16228
+Sulphur Springs,Texas,16185
+Grosse Pointe Woods,Michigan,16177
+Four Corners,Oregon,16168
+Lithia Springs,Georgia,16138
+Grandville,Michigan,16135
+Hermitage,Pennsylvania,16132
+Center Point,Alabama,16125
+Fort Drum,New York,16124
+Douglas,Arizona,16118
+Ripon,California,16117
+Azalea Park,Florida,16110
+Gardendale,Alabama,16110
+Hibbing,Minnesota,16100
+Opa-locka,Florida,16097
+Glasgow,Delaware,16095
+Hugo,Minnesota,16076
+Dyersburg,Tennessee,16075
+East Highland Park,Virginia,16071
+Mount Pleasant,Texas,16061
+Gatesville,Texas,16058
+Southern Pines,North Carolina,16052
+Artesia,California,16044
+Niceville,Florida,16043
+St. Simons,Georgia,16026
+Floral Park,New York,16025
+Lynden,Washington,16025
+Dublin,Georgia,16023
+Hayden,Idaho,16021
+Wolf Trap,Virginia,16020
+South Houston,Texas,16017
+South River,New Jersey,16007
+Highland Village,Texas,16004
+Troutdale,Oregon,16000
+La Grange,Illinois,15999
+Marco Island,Florida,15998
+Bay Village,Ohio,15992
+Seven Oaks,South Carolina,15990
+The Dalles,Oregon,15973
+Grain Valley,Missouri,15967
+Longwood,Florida,15952
+Washington,Illinois,15946
+Warrington,Florida,15935
+Indianola,Iowa,15918
+Seymour,Tennessee,15914
+Americus,Georgia,15910
+Red Oak,Texas,15909
+Chubbuck,Idaho,15900
+Rendon,Texas,15894
+Frederick,Colorado,15893
+Seaford,New York,15884
+Parkway,California,15880
+Live Oak,Texas,15875
+Dayton,Nevada,15873
+Palmer Ranch,Florida,15873
+Coos Bay,Oregon,15867
+Elkton,Maryland,15867
+Fremont,Ohio,15851
+Clarksburg,West Virginia,15829
+Fruitville,Florida,15828
+Middleburg Heights,Ohio,15817
+Grimes,Iowa,15810
+Brooklyn Park,Maryland,15799
+Thibodaux,Louisiana,15792
+Westbury,New York,15789
+Gulf Shores,Alabama,15785
+Weston,Wisconsin,15784
+Jamestown,North Dakota,15774
+Overland,Missouri,15762
+Hartford,Wisconsin,15761
+Wailuku,Hawaii,15754
+Rutland,Vermont,15747
+Chelsea,Alabama,15731
+Vail,Arizona,15722
+Fort Mohave,Arizona,15716
+Whitewater,Wisconsin,15705
+Newton,Iowa,15696
+Prospect Heights,Illinois,15681
+Springdale,New Jersey,15672
+Hillcrest Heights,Maryland,15670
+Opelousas,Louisiana,15662
+Bellmore,New York,15652
+Palmview,Texas,15650
+Scottsboro,Alabama,15641
+Mitchell,South Dakota,15637
+Summerfield,Maryland,15635
+Mays Chapel,Maryland,15616
+Sayville,New York,15593
+Hartselle,Alabama,15586
+Mount Clemens,Michigan,15567
+West Lealman,Florida,15560
+Berea,Kentucky,15557
+Shively,Kentucky,15556
+Frankfort,Indiana,15536
+Jackson,Missouri,15532
+Tanque Verde,Arizona,15531
+Greeneville,Tennessee,15531
+Yulee,Florida,15521
+Lake Stickney,Washington,15514
+Carthage,Missouri,15513
+Andover,Kansas,15508
+Yankton,South Dakota,15501
+Batavia,New York,15494
+Traverse City,Michigan,15491
+Bemidji,Minnesota,15490
+Buda,Texas,15487
+Greenwood Village,Colorado,15485
+Alpine,California,15470
+Homosassa Springs,Florida,15465
+Ferndale,Washington,15447
+Walnut Park,California,15446
+Aldine,Texas,15434
+Eggertsville,New York,15416
+Weigelstown,Pennsylvania,15401
+Canyon,Texas,15398
+Dentsville,South Carolina,15396
+Santaquin,Utah,15391
+Ewa Beach,Hawaii,15388
+Princeton Meadows,New Jersey,15382
+La Palma,California,15375
+Minneola,Florida,15371
+Coto de Caza,California,15363
+Eden,North Carolina,15353
+Uvalde,Texas,15344
+New Haven,Indiana,15339
+Monroe,Georgia,15336
+Bradley,Illinois,15331
+Fort Leonard Wood,Missouri,15317
+Coolidge,Arizona,15300
+Franklin Park,Pennsylvania,15273
+Brookside,Delaware,15262
+Rio Grande City,Texas,15258
+Hendersonville,North Carolina,15253
+Tenafly,New Jersey,15252
+Phillipsburg,New Jersey,15251
+Discovery Bay,California,15243
+Asbury Park,New Jersey,15239
+Northview,Michigan,15225
+Harper Woods,Michigan,15205
+Lake Wylie,South Carolina,15177
+Norridge,Illinois,15177
+Dixon,Illinois,15166
+Lebanon,Missouri,15157
+Front Royal,Virginia,15152
+Vincent,California,15151
+Glasgow,Kentucky,15141
+Belmont,North Carolina,15140
+Johnson City,New York,15130
+Mineral Wells,Texas,15130
+Vandalia,Ohio,15100
+Kenmore,New York,15097
+Highland Springs,Virginia,15091
+Rossville,Maryland,15088
+Berkley,Michigan,15084
+Beech Grove,Indiana,15082
+Laurinburg,North Carolina,15079
+West Park,Florida,15076
+Depew,New York,15065
+Gantt,South Carolina,15057
+Los Osos,California,15048
+Port Royal,South Carolina,15047
+Tonawanda,New York,15044
+Talladega,Alabama,15041
+Mastic,New York,15031
+Monroe,Ohio,15024
+Roanoke Rapids,North Carolina,15024
+White Center,Washington,15017
+Camp Pendleton South,California,15011
+Gloversville,New York,15010
+Macomb,Illinois,15006
+Hudson,Wisconsin,15004
+Pacific Grove,California,15003
+Susanville,California,14992
+Arlington,Tennessee,14989
+Greenlawn,New York,14986
+Metuchen,New Jersey,14982
+Highland Park,New Jersey,14981
+Spring Creek,Nevada,14967
+South Farmingdale,New York,14953
+Washington,Missouri,14948
+Hazel Park,Michigan,14945
+Lemon Hill,California,14942
+Lilburn,Georgia,14939
+Lake Arbor,Maryland,14932
+Waunakee,Wisconsin,14927
+Henderson,North Carolina,14922
+Fairview,New Jersey,14920
+West University Place,Texas,14907
+Glenn Dale,Maryland,14896
+Boulder City,Nevada,14888
+Fort Payne,Alabama,14886
+Loganville,Georgia,14878
+Hereford,Texas,14874
+Oldsmar,Florida,14872
+Forest City,Florida,14871
+Riverdale,Georgia,14866
+Havre de Grace,Maryland,14857
+Williamstown,New Jersey,14855
+Great Falls,Virginia,14854
+Davidson,North Carolina,14852
+Cherry Hill Mall,New Jersey,14827
+California City,California,14821
+Bensville,Maryland,14792
+Greensburg,Pennsylvania,14777
+Morris,Illinois,14775
+Lebanon,New Hampshire,14759
+Worthington,Ohio,14754
+Lockhart,Florida,14753
+Antioch,Illinois,14751
+Whitefish Bay,Wisconsin,14750
+Hammonton,New Jersey,14746
+Chatham,Illinois,14740
+Deming,New Mexico,14735
+Ramsey,New Jersey,14722
+Hickory Hills,Illinois,14718
+Lockhart,Texas,14708
+Cedar Lake,Indiana,14686
+Alexander City,Alabama,14686
+Broadlands,Virginia,14673
+Sterling,Illinois,14670
+Lakeland North,Washington,14664
+Thonotosassa,Florida,14660
+Owosso,Michigan,14658
+Black Forest,Colorado,14658
+Gladeview,Florida,14657
+Greendale,Wisconsin,14656
+Chippewa Falls,Wisconsin,14643
+Beacon,New York,14629
+Hutchinson,Minnesota,14629
+Naranja,Florida,14610
+Monticello,Minnesota,14607
+Fraser,Michigan,14604
+Swansea,Illinois,14603
+Great Bend,Kansas,14596
+Falls Church,Virginia,14593
+Red Bluff,California,14592
+Alexandria,Minnesota,14579
+Cherryland,California,14575
+Clarkston,Georgia,14560
+Key Biscayne,Florida,14560
+Reidsville,North Carolina,14547
+Nolensville,Tennessee,14545
+Parlier,California,14545
+Moultrie,Georgia,14545
+Edgewater,New Jersey,14544
+Moorestown-Lenola,New Jersey,14523
+Salem Lakes,Wisconsin,14521
+Middlesex,New Jersey,14518
+Verona,Wisconsin,14499
+Mount Vernon,Illinois,14492
+Bothell East,Washington,14487
+Jasper,Alabama,14480
+Brainerd,Minnesota,14474
+Hopatcong,New Jersey,14470
+Oneonta,New York,14467
+Wilmington Island,Georgia,14457
+Salida,California,14457
+Corinth,Mississippi,14450
+Livingston,California,14450
+Alamo,California,14441
+Dallas,Georgia,14440
+Kemp Mill,Maryland,14437
+Clarksdale,Mississippi,14423
+Belvedere Park,Georgia,14422
+New Cassel,New York,14414
+Scottsbluff,Nebraska,14406
+Washington Court House,Ohio,14406
+Short Hills,New Jersey,14398
+Somerton,Arizona,14383
+Lindenhurst,Illinois,14365
+Elizabethton,Tennessee,14364
+Moncks Corner,South Carolina,14362
+Dumas,Texas,14362
+North New Hyde Park,New York,14354
+Bainbridge,Georgia,14353
+Shepherdsville,Kentucky,14351
+Ozark,Alabama,14348
+Huron,South Dakota,14347
+Jacksonville,Alabama,14345
+Covington,Georgia,14334
+Hershey,Pennsylvania,14334
+Latham,New York,14327
+Chesterton,Indiana,14326
+Robbinsdale,Minnesota,14318
+Bradley Gardens,New Jersey,14315
+Hobe Sound,Florida,14313
+Iona,Florida,14290
+New Kingman-Butler,Arizona,14281
+East Milton,Florida,14280
+Pineville,Louisiana,14268
+Hidalgo,Texas,14250
+Athens,Tennessee,14250
+Jefferson,Georgia,14249
+West Freehold,New Jersey,14233
+Warrenville,Illinois,14232
+Powell,Ohio,14229
+East Rancho Dominguez,California,14219
+Sierra Vista Southeast,Arizona,14213
+North Mankato,Minnesota,14212
+Natchez,Mississippi,14207
+Piney Green,North Carolina,14205
+Jefferson Valley-Yorktown,New York,14195
+Jacksonville,Texas,14186
+Willowick,Ohio,14182
+Waimalu,Hawaii,14176
+Indiana,Pennsylvania,14170
+Wilkinsburg,Pennsylvania,14165
+Ardmore,Pennsylvania,14165
+Federal Heights,Colorado,14160
+Wells Branch,Texas,14156
+St. Helens,Oregon,14152
+Southchase,Florida,14149
+Chicago Ridge,Illinois,14147
+Circleville,Ohio,14144
+Braselton,Georgia,14139
+Fergus Falls,Minnesota,14138
+McFarland,California,14138
+Lone Tree,Colorado,14136
+Grass Valley,California,14126
+Dunmore,Pennsylvania,14123
+Jericho,New York,14117
+East Wenatchee,Washington,14114
+Shiloh,Illinois,14109
+Sun Lakes,Arizona,14079
+Lakewood Park,Florida,14077
+Colesville,Maryland,14075
+Lakeland,Tennessee,14068
+New Ulm,Minnesota,14066
+Mill Valley,California,14064
+Artondale,Washington,14051
+Bellefontaine,Ohio,14051
+Newport,Kentucky,14039
+Smithfield,Utah,14033
+Midlothian,Illinois,14024
+Allouez,Wisconsin,14023
+Anderson Creek,North Carolina,14021
+Destin,Florida,14018
+Wauconda,Illinois,14010
+Pierre,South Dakota,14008
+Forest Park,Illinois,14000
+Sharonville,Ohio,13989
+Beach Park,Illinois,13988
+Fort Lewis,Washington,13983
+Greenwood,Mississippi,13983
+College Park,Georgia,13969
+Roselle Park,New Jersey,13965
+Teays Valley,West Virginia,13961
+McPherson,Kansas,13956
+McCalla,Alabama,13939
+Brandermill,Virginia,13938
+Rocky Point,New York,13931
+Wood Dale,Illinois,13926
+Forest Hill,Texas,13923
+Willow Grove,Pennsylvania,13919
+Urbana,Maryland,13897
+Bellair-Meadowbrook Terrace,Florida,13887
+Glenpool,Oklahoma,13885
+Marshall,Minnesota,13880
+Elfers,Florida,13877
+White House,Tennessee,13875
+Luling,Louisiana,13873
+South Sioux City,Nebraska,13871
+Westmont,New Jersey,13870
+Kettering,Maryland,13866
+Elk Plain,Washington,13863
+Gonzalez,Florida,13861
+Lyndhurst,Ohio,13854
+Channahon,Illinois,13854
+Sauk Rapids,Minnesota,13851
+Beachwood,Ohio,13850
+Coldwater,Michigan,13847
+Valencia West,Arizona,13834
+North Auburn,California,13833
+New Franklin,Ohio,13830
+Bridgetown,Ohio,13830
+Bedford,Indiana,13824
+Newington,Virginia,13824
+Hawaiian Gardens,California,13816
+Waycross,Georgia,13813
+Halawa,Hawaii,13809
+Lumberton,Texas,13803
+Olean,New York,13798
+Worthington,Minnesota,13792
+Broussard,Louisiana,13791
+On Top of the World Designated Place,Florida,13772
+Orange City,Florida,13768
+McMinnville,Tennessee,13765
+Maumee,Ohio,13765
+Auburn,California,13758
+Snoqualmie,Washington,13750
+Flower Hill,Maryland,13743
+Azle,Texas,13734
+Ephrata,Pennsylvania,13729
+Cayce,South Carolina,13718
+Isla Vista,California,13717
+Plover,Wisconsin,13713
+Cornelius,Oregon,13700
+Marshall,Missouri,13699
+Cheval,Florida,13694
+Mercerville,New Jersey,13693
+Royal Kunia,Hawaii,13687
+East Islip,New York,13687
+Shorewood,Wisconsin,13682
+St. James,New York,13680
+Bardstown,Kentucky,13673
+East Cleveland,Ohio,13666
+Beaufort,South Carolina,13660
+Brecksville,Ohio,13656
+Oak Park,California,13656
+Lewisville,North Carolina,13655
+Sunset,Florida,13652
+Marion,Arkansas,13641
+Carnot-Moon,Pennsylvania,13639
+Grantsville,Utah,13637
+Moberly,Missouri,13634
+Port Neches,Texas,13627
+Speedway,Indiana,13622
+Seabrook,Texas,13617
+Norwalk,Iowa,13610
+Hockessin,Delaware,13608
+Miami Springs,Florida,13606
+South Charleston,West Virginia,13594
+Warrensville Heights,Ohio,13585
+Martinsville,Virginia,13584
+Fruita,Colorado,13578
+Villas,Florida,13578
+New Providence,New Jersey,13577
+Echelon,New Jersey,13577
+Montgomeryville,Pennsylvania,13572
+Groveton,Virginia,13563
+New Carrollton,Maryland,13544
+Powell,Tennessee,13544
+Vinings,Georgia,13538
+Eatontown,New Jersey,13537
+Glen Carbon,Illinois,13521
+Beeville,Texas,13518
+King City,California,13512
+Vineyard,Utah,13510
+University Heights,Ohio,13508
+Storrs,Connecticut,13502
+Hazel Crest,Illinois,13493
+Lamont,California,13481
+Lake Los Angeles,California,13479
+Los Alamos,New Mexico,13471
+Weddington,North Carolina,13468
+Troy,Missouri,13467
+Asbury Lake,Florida,13465
+Auburn,Indiana,13464
+Irondale,Alabama,13462
+Harrison,Ohio,13460
+Endicott,New York,13456
+Trophy Club,Texas,13454
+Palmetto,Florida,13449
+Kilgore,Texas,13444
+Avenal,California,13441
+Woodinville,Washington,13440
+Lexington Park,Maryland,13419
+Andrews,Texas,13416
+Canton,Illinois,13408
+Lincoln,Illinois,13406
+Rogers,Minnesota,13405
+Brock Hall,Maryland,13400
+Joppatowne,Maryland,13397
+Jupiter Farms,Florida,13394
+Salisbury,New York,13388
+Englewood,Ohio,13388
+Moody,Alabama,13378
+Blue Ash,Ohio,13374
+Pottsville,Pennsylvania,13374
+Sault Ste. Marie,Michigan,13373
+Chino Valley,Arizona,13372
+Washington,Pennsylvania,13361
+Lake Forest Park,Washington,13356
+Pell City,Alabama,13353
+Western Springs,Illinois,13353
+Atlantic Beach,Florida,13353
+Henderson,Texas,13348
+Conway,Florida,13346
+Harrison,Wisconsin,13345
+Nesconset,New York,13344
+Steamboat Springs,Colorado,13341
+Bonita,California,13336
+Kingston,Pennsylvania,13333
+Franklin Park,New Jersey,13327
+North Fair Oaks,California,13327
+Portland,Tennessee,13325
+Bexley,Ohio,13324
+Coatesville,Pennsylvania,13323
+South Daytona,Florida,13322
+Butler,Pennsylvania,13306
+Trenton,Ohio,13304
+Callaway,Florida,13297
+Marietta,Ohio,13282
+Kings Park West,Virginia,13281
+Loveland,Ohio,13280
+Hawaiian Paradise Park,Hawaii,13273
+Sterling,Colorado,13273
+Clayton,Ohio,13269
+Tega Cay,South Carolina,13267
+Huntington,Virginia,13250
+Connersville,Indiana,13241
+Fernandina Beach,Florida,13239
+Star,Idaho,13231
+La Grange Park,Illinois,13227
+Accokeek,Maryland,13226
+Waconia,Minnesota,13223
+California,Maryland,13223
+Newton,North Carolina,13223
+Harrison,Arkansas,13217
+El Sobrante,California,13206
+Orangeburg,South Carolina,13189
+Green Valley,Maryland,13187
+Olympia Heights,Florida,13179
+Lincolnwood,Illinois,13179
+River Ridge,Louisiana,13170
+Ridgefield Park,New Jersey,13167
+Celebration,Florida,13150
+Cypress Lake,Florida,13145
+Webb City,Missouri,13139
+Dardenne Prairie,Missouri,13137
+Superior,Colorado,13136
+Florham Park,New Jersey,13134
+Glendale,Wisconsin,13134
+Mount Vernon,Virginia,13120
+Las Vegas,New Mexico,13120
+Soddy-Daisy,Tennessee,13117
+Lake Station,Indiana,13109
+Mountain Park,Georgia,13102
+Carpinteria,California,13100
+Dover,Ohio,13094
+Cambridge,Maryland,13094
+North Palm Beach,Florida,13089
+Viera East,Florida,13082
+Grand Terrace,California,13069
+Stoughton,Wisconsin,13063
+La Grande,Oregon,13059
+Claremont,New Hampshire,13054
+Fords,New Jersey,13052
+Palos Verdes Estates,California,13047
+Linganore,Maryland,13044
+Mango,Florida,13037
+D'Iberville,Mississippi,13033
+Tomball,Texas,13032
+Smyrna,Delaware,13031
+Blytheville,Arkansas,13026
+Mountain Home,Arkansas,13021
+Sharon,Pennsylvania,13019
+Athens,Texas,13013
+West Carrollton,Ohio,13008
+Suamico,Wisconsin,13003
+Wimauma,Florida,13003
+Holly Hill,Florida,13002
+Mounds View,Minnesota,12992
+Festus,Missouri,12965
+Miami,Oklahoma,12960
+Bedford,Ohio,12960
+Somerville,New Jersey,12958
+Ionia,Michigan,12950
+Newcastle,Washington,12945
+Rochester,Michigan,12939
+Avocado Heights,California,12934
+Sugarland Run,Virginia,12920
+Greenville,Wisconsin,12911
+Waianae,Hawaii,12907
+Bloomsburg,Pennsylvania,12906
+Jennings,Missouri,12900
+Holiday City-Berkeley,New Jersey,12896
+El Dorado,Kansas,12882
+Manvel,Texas,12873
+Lakeland South,Washington,12869
+St. Ann,Missouri,12865
+Red Bank,New Jersey,12864
+Neosho,Missouri,12857
+Larkspur,California,12856
+Pasadena Hills,Florida,12848
+Byram,Mississippi,12847
+Lakeside,Virginia,12845
+Solana Beach,California,12841
+West Monroe,Louisiana,12837
+Timberlake,Virginia,12833
+Cheney,Washington,12830
+Santa Fe,Texas,12828
+Stony Brook,New York,12827
+Forrest City,Arkansas,12826
+Amherst,Ohio,12796
+Florida City,Florida,12791
+Vadnais Heights,Minnesota,12789
+Woodhaven,Michigan,12761
+Branson,Missouri,12760
+Emeryville,California,12756
+Greenville,Ohio,12748
+Gonzales,Louisiana,12748
+Sandy,Oregon,12738
+Manorville,New York,12737
+Highland City,Florida,12732
+Meadville,Pennsylvania,12723
+San Anselmo,California,12711
+Oatfield,Oregon,12709
+Marysville,California,12703
+Oakland,New Jersey,12700
+Kelso,Washington,12697
+Jerome,Idaho,12689
+Grover Beach,California,12687
+Tucson Estates,Arizona,12687
+Edgewood,Washington,12683
+Fostoria,Ohio,12671
+Sarasota Springs,Florida,12669
+Robinson,Texas,12668
+Eufaula,Alabama,12664
+Enumclaw,Washington,12663
+Verde Village,Arizona,12662
+North Adams,Massachusetts,12660
+Manchester,Tennessee,12651
+Claiborne,Louisiana,12647
+Diamond Springs,California,12642
+Wickliffe,Ohio,12639
+Wilmington,Ohio,12637
+Sedro-Woolley,Washington,12633
+Ottawa,Kansas,12632
+Minooka,Illinois,12632
+Blackfoot,Idaho,12628
+Paradise Valley,Arizona,12621
+Saddlebrooke,Arizona,12616
+Brown Deer,Wisconsin,12615
+St. Marys,Pennsylvania,12612
+Gaffney,South Carolina,12612
+Fulton,Missouri,12611
+Boiling Springs,South Carolina,12609
+Riviera Beach,Maryland,12608
+Lewisburg,Tennessee,12607
+Melvindale,Michigan,12605
+Goldenrod,Florida,12603
+Lansdowne,Virginia,12603
+Dunkirk,New York,12597
+Guymon,Oklahoma,12596
+Kingsburg,California,12589
+Lantana,Texas,12583
+Cloquet,Minnesota,12582
+Richton Park,Illinois,12576
+Ridgefield,Washington,12576
+Geneva,New York,12573
+Castle Pines,Colorado,12573
+Lindsay,California,12572
+Port Washington,Wisconsin,12569
+Levelland,Texas,12565
+Parker,South Carolina,12564
+Union,Missouri,12560
+Poquoson,Virginia,12556
+Artesia,New Mexico,12555
+Mendota,California,12554
+Spearfish,South Dakota,12551
+Cottonwood,Arizona,12547
+Northlake,Illinois,12547
+North Merrick,New York,12544
+Rantoul,Illinois,12515
+North St. Paul,Minnesota,12511
+Winnetka,Illinois,12508
+Ridge,New York,12506
+Baraboo,Wisconsin,12506
+Lake Elmo,Minnesota,12504
+Lake Norman of Catawba,North Carolina,12496
+Big Bear City,California,12493
+Fort Atkinson,Wisconsin,12490
+Cascades,Virginia,12489
+Gold Canyon,Arizona,12488
+Grenada,Mississippi,12484
+Annapolis Neck,Maryland,12484
+Garden City,Idaho,12483
+Amelia,Ohio,12482
+Forest,Virginia,12476
+Doctor Phillips,Florida,12458
+Box Elder,South Dakota,12457
+Jensen Beach,Florida,12456
+Boone,Iowa,12445
+Liberty Lake,Washington,12435
+Newington Forest,Virginia,12434
+Overlea,Maryland,12430
+Fortuna,California,12413
+Lake City,Florida,12404
+Myrtle Grove,North Carolina,12404
+Borger,Texas,12398
+Sylacauga,Alabama,12388
+Conneaut,Ohio,12378
+Escanaba,Michigan,12374
+Justice,Illinois,12372
+Eureka,Missouri,12371
+Valley Falls,Rhode Island,12370
+Patchogue,New York,12368
+Tehachapi,California,12366
+Lake Tapps,Washington,12360
+Derby,Connecticut,12359
+Manchester,Virginia,12347
+West Plains,Missouri,12341
+Mapleton,Utah,12340
+Baker,Louisiana,12322
+Cedarburg,Wisconsin,12317
+Jefferson Hills,Pennsylvania,12313
+Newman,California,12299
+Crestwood,Missouri,12298
+Fairfax Station,Virginia,12298
+Webster,Texas,12283
+Nanakuli,Hawaii,12282
+Camp Verde,Arizona,12282
+Kewanee,Illinois,12280
+Upper Montclair,New Jersey,12279
+San Marino,California,12279
+Madison,Indiana,12277
+Streator,Illinois,12274
+Grafton,Wisconsin,12274
+Herrin,Illinois,12271
+Riverview,Michigan,12269
+Crossville,Tennessee,12265
+Effingham,Illinois,12258
+East Renton Highlands,Washington,12241
+Newcastle,Oklahoma,12238
+Maili,Hawaii,12236
+Beatrice,Nebraska,12233
+Leeds,Alabama,12221
+El Campo,Texas,12220
+Choctaw,Oklahoma,12208
+Rosaryville,Maryland,12206
+Monfort Heights,Ohio,12203
+McComb,Mississippi,12202
+Gig Harbor,Washington,12202
+Milford,Delaware,12193
+Washington,Indiana,12192
+Gardnerville Ranchos,Nevada,12185
+Tamalpais-Homestead Valley,California,12153
+Macedonia,Ohio,12142
+Scotts Valley,California,12138
+Gardere,Louisiana,12130
+Richmond,Texas,12117
+Big Lake,Minnesota,12115
+Somerset,Kentucky,12108
+Dent,Ohio,12097
+Yeadon,Pennsylvania,12091
+St. Peter,Minnesota,12085
+Wyndham,Virginia,12084
+Glen Rock,New Jersey,12082
+Minnehaha,Washington,12080
+Finneytown,Ohio,12079
+Commerce,California,12072
+New Kensington,Pennsylvania,12072
+Key Largo,Florida,12069
+Hasbrouck Heights,New Jersey,12067
+Moss Point,Mississippi,12066
+Somersworth,New Hampshire,12060
+New Baltimore,Michigan,12060
+Prairie Ridge,Washington,12054
+Oak Grove,South Carolina,12031
+Ocean Pines,Maryland,12028
+Wakefield,Virginia,12024
+River Edge,New Jersey,12024
+Bound Brook,New Jersey,12023
+Portales,New Mexico,12023
+Honeygo,Maryland,12022
+Hornsby Bend,Texas,12021
+Westphalia,Maryland,12020
+Goulds,Florida,12019
+Martinsville,New Jersey,12016
+Weatherford,Oklahoma,12014
+Shady Hills,Florida,12012
+Centralia,Illinois,12009
+Fort Bliss,Texas,12009
+Port Wentworth,Georgia,11997
+East Bethel,Minnesota,11995
+Pike Creek Valley,Delaware,11992
+Archdale,North Carolina,11992
+Gladstone,Oregon,11986
+Woodward,Oklahoma,11976
+Inwood,New York,11964
+Poulsbo,Washington,11962
+Red Bank,Tennessee,11960
+Lanham,Maryland,11956
+Fenton,Michigan,11950
+Little Chute,Wisconsin,11930
+South Miami,Florida,11926
+Stuarts Draft,Virginia,11920
+Martinsville,Indiana,11913
+Show Low,Arizona,11913
+Middleburg,Florida,11911
+Arkansas City,Kansas,11909
+Rossmoor,California,11895
+Mount Sinai,New York,11876
+Laurel,Florida,11868
+Dranesville,Virginia,11860
+Robertsville,New Jersey,11859
+Elizabethtown,Pennsylvania,11857
+Mountain Top,Pennsylvania,11856
+Lantana,Florida,11845
+Picayune,Mississippi,11839
+Niles,Michigan,11838
+Lawrenceburg,Kentucky,11838
+Wallington,New Jersey,11825
+Westview,Florida,11823
+Endwell,New York,11821
+Palos Heights,Illinois,11817
+Middle Valley,Tennessee,11808
+Richfield,Wisconsin,11806
+Salem,Ohio,11805
+Hartsville,Tennessee,11805
+Evanston,Wyoming,11803
+Vermillion,South Dakota,11800
+Irmo,South Carolina,11799
+Smithfield,North Carolina,11798
+Sussex,Wisconsin,11795
+Destrehan,Louisiana,11786
+Los Alamitos,California,11784
+Woodmere,Louisiana,11775
+Largo,Maryland,11753
+Tarrytown,New York,11752
+View Park-Windsor Hills,California,11744
+Miller Place,New York,11743
+The Pinery,Colorado,11740
+James Island,South Carolina,11738
+Gulfport,Florida,11735
+Lawrenceburg,Tennessee,11732
+Winfield,Kansas,11731
+College,Alaska,11730
+Ontario,Oregon,11728
+Emmaus,Pennsylvania,11727
+Burley,Idaho,11721
+Douglas,Georgia,11720
+North Wantagh,New York,11716
+Medulla,Florida,11712
+Berthoud,Colorado,11684
+Green River,Wyoming,11679
+Bellmawr,New Jersey,11678
+Friendly,Maryland,11673
+Franklin,Ohio,11670
+Lakeland Highlands,Florida,11669
+Granbury,Texas,11665
+Davenport,Florida,11660
+Lower Burrell,Pennsylvania,11659
+Brookhaven,Mississippi,11656
+Mendota Heights,Minnesota,11644
+Hamilton Square,New Jersey,11643
+South Yarmouth,Massachusetts,11642
+Guttenberg,New Jersey,11638
+Alcoa,Tennessee,11635
+University of California-Santa Barbara,California,11634
+Seven Hills,Ohio,11628
+Miami Shores,Florida,11627
+Plano,Illinois,11626
+Bucyrus,Ohio,11619
+Alum Rock,California,11619
+Yorktown,Indiana,11617
+Spring Lake,North Carolina,11613
+Georgetown,Georgia,11606
+Town and Country,Missouri,11605
+Minden,Louisiana,11604
+Ringwood,New Jersey,11600
+New Baltimore,Virginia,11595
+Lindon,Utah,11594
+Lakeland Village,California,11587
+Wendell,North Carolina,11585
+Greensburg,Indiana,11585
+Norton,Ohio,11576
+Covington,Louisiana,11568
+Signal Hill,California,11563
+West Point,Utah,11559
+Crowley,Louisiana,11554
+Roma,Texas,11543
+Wellington,Colorado,11538
+Campbellsville,Kentucky,11523
+Fort Morgan,Colorado,11521
+Lincolnton,North Carolina,11503
+La Riviera,California,11503
+Oskaloosa,Iowa,11492
+Four Corners,Texas,11490
+Woods Cross,Utah,11490
+River Forest,Illinois,11489
+Mexico,Missouri,11487
+New Port Richey East,Florida,11485
+Pontiac,Illinois,11483
+Fort Campbell North,Kentucky,11483
+Leon Valley,Texas,11479
+North Valley,New Mexico,11474
+Farmington,Michigan,11472
+Kings Mountain,North Carolina,11472
+Citrus Springs,Florida,11469
+Gloucester City,New Jersey,11465
+Oak Hills,Oregon,11464
+Schiller Park,Illinois,11454
+Half Moon Bay,California,11454
+Moss Bluff,Louisiana,11451
+Lovington,New Mexico,11444
+Mack,Ohio,11444
+Ridgefield,New Jersey,11439
+Woodbury,New York,11437
+Markham,Illinois,11434
+Home Gardens,California,11430
+Winton,California,11429
+Tucson Mountains,Arizona,11428
+Belgrade,Montana,11425
+Lahaina,Hawaii,11423
+Platteville,Wisconsin,11421
+Port Lavaca,Texas,11410
+Elk City,Oklahoma,11406
+Wilton Manors,Florida,11403
+Muscoy,California,11402
+East Glenville,New York,11399
+Dobbs Ferry,New York,11397
+Suffern,New York,11395
+Grosse Pointe Park,Michigan,11394
+East Grand Rapids,Michigan,11394
+Spencer,Iowa,11393
+La Homa,Texas,11389
+Batesville,Arkansas,11385
+Oregon,Wisconsin,11384
+Bridgeton,Missouri,11372
+Okmulgee,Oklahoma,11370
+Waihee-Waiehu,Hawaii,11369
+Rancho Mission Viejo,California,11355
+Cocoa Beach,Florida,11341
+Fulton,New York,11339
+Roessleville,New York,11327
+Mitchellville,Maryland,11325
+Elon,North Carolina,11325
+Powdersville,South Carolina,11321
+Clawson,Michigan,11314
+Snyder,Texas,11310
+Fountain Inn,South Carolina,11307
+Selma,Texas,11302
+Ravenna,Ohio,11286
+Anderson,California,11282
+Whitestown,Indiana,11276
+Storm Lake,Iowa,11275
+Healdsburg,California,11274
+Triangle,Virginia,11265
+Newport East,Rhode Island,11262
+Ocean City,New Jersey,11260
+Fredericksburg,Texas,11254
+Satellite Beach,Florida,11250
+Waupun,Wisconsin,11244
+Lansing,Kansas,11229
+North Logan,Utah,11228
+Two Rivers,Wisconsin,11224
+Cold Springs,Nevada,11223
+Westwood,New Jersey,11221
+Bayou Blue,Louisiana,11218
+Forestville,Ohio,11213
+Morgan City,Louisiana,11208
+Brooklyn,Ohio,11203
+Lowes Island,Virginia,11199
+Waipio,Hawaii,11196
+Petal,Mississippi,11195
+Prineville,Oregon,11187
+Grand Rapids,Minnesota,11186
+Collegedale,Tennessee,11185
+North Branch,Minnesota,11182
+Monmouth,Oregon,11176
+Timberlane,Louisiana,11169
+Stansbury Park,Utah,11163
+Wanaque,New Jersey,11162
+Gloucester Point,Virginia,11159
+Urbana,Ohio,11153
+North Lindenhurst,New York,11153
+Rincon,Georgia,11152
+Taylorville,Illinois,11149
+Progress,Pennsylvania,11143
+Elwood,New York,11140
+Travilah,Maryland,11128
+Hillsborough,California,11122
+Burr Ridge,Illinois,11119
+Haysville,Kansas,11117
+Millington,Tennessee,11117
+Del Aire,California,11115
+Union Park,Florida,11111
+Canyon Lake,California,11107
+Pleasant View,Utah,11104
+Birch Bay,Washington,11103
+Wyomissing,Pennsylvania,11100
+Abbeville,Louisiana,11086
+Middle Island,New York,11086
+Sturgis,Michigan,11077
+Spout Springs,North Carolina,11073
+Great Neck,New York,11068
+Lansdowne,Pennsylvania,11064
+Fairview Shores,Florida,11064
+Columbia,Illinois,11063
+Marinette,Wisconsin,11060
+Coshocton,Ohio,11056
+Waterloo,Illinois,11055
+Lake Grove,New York,11050
+Danville,Indiana,11049
+Barrington,Illinois,11049
+Belle Chasse,Louisiana,11046
+Waynesboro,Pennsylvania,11044
+Grandview,Washington,11042
+Union City,Tennessee,11040
+Merriam,Kansas,11036
+Monument,Colorado,11035
+Summerfield,North Carolina,11031
+Iowa Colony,Texas,11028
+Holmen,Wisconsin,11027
+Greentree,New Jersey,11024
+Shiloh,Pennsylvania,11022
+Guthrie,Oklahoma,11021
+Burlington,Wisconsin,11021
+Sierra Madre,California,11020
+Heartland,Texas,11019
+Celina,Ohio,11017
+Piedmont,California,11012
+Burkburnett,Texas,11012
+Cherry Creek,Colorado,11011
+Franklin Lakes,New Jersey,11011
+Pompton Lakes,New Jersey,11010
+Sun Village,California,11009
+Beachwood,New Jersey,11002
+North Bellport,New York,10999
+Brandon,South Dakota,10996
+Bolivar,Missouri,10996
+Elgin,Texas,10996
+Brandywine,Maryland,10989
+Huntertown,Indiana,10984
+Springdale,Ohio,10983
+Halfway,Maryland,10974
+Magnolia,Arkansas,10973
+Victoria,Minnesota,10972
+Quartz Hill,California,10968
+Lovejoy,Georgia,10967
+Grand Haven,Michigan,10966
+Clayton,California,10962
+Terryville,New York,10962
+Port Salerno,Florida,10957
+Lyndon,Kentucky,10956
+Red Bank,South Carolina,10950
+Little Ferry,New Jersey,10942
+Malvern,Arkansas,10938
+Totowa,New Jersey,10919
+White City,Oregon,10913
+Lowell,Indiana,10911
+Fife,Washington,10902
+Lincoln Park,New Jersey,10901
+Summit,Illinois,10896
+Troy,Illinois,10889
+Damascus,Oregon,10888
+Kapaa,Hawaii,10886
+Tremonton,Utah,10886
+Carencro,Louisiana,10882
+Roscoe,Illinois,10881
+Timonium,Maryland,10880
+Bedford Heights,Ohio,10876
+Hudson,Florida,10873
+Fox Lake,Illinois,10872
+Sugarmill Woods,Florida,10871
+Manville,New Jersey,10870
+Martin,Tennessee,10864
+Canton,Mississippi,10863
+Oak Ridge,New Jersey,10860
+Maltby,Washington,10859
+Cleveland,Mississippi,10855
+Pleasanton,Texas,10854
+DeForest,Wisconsin,10853
+Boaz,Alabama,10847
+McKee City,New Jersey,10843
+Forestville,Maryland,10839
+Berkley,Colorado,10838
+Peru,Indiana,10835
+Lake Monticello,Virginia,10820
+Garden City,South Carolina,10820
+Montgomery,Ohio,10816
+De Witt,New York,10815
+Citrus,California,10813
+Riverton,Wyoming,10803
+West Vero Corridor,Florida,10802
+Pleasant Hill,Iowa,10796
+Atchison,Kansas,10795
+Bithlo,Florida,10790
+Myers Corner,New York,10786
+Shiloh,Ohio,10785
+Russellville,Alabama,10783
+Mount Kisco,New York,10782
+Pineville,North Carolina,10780
+Westwood Lakes,Florida,10768
+Pompton Plains,New Jersey,10766
+Airway Heights,Washington,10766
+Kendall Park,New Jersey,10765
+Vidalia,Georgia,10762
+Pine Hill,New Jersey,10762
+Jackson,Wyoming,10746
+Lake Arrowhead,California,10746
+Northbrook,Ohio,10741
+Doraville,Georgia,10738
+Newberry,South Carolina,10733
+The Hills,New Jersey,10732
+Worth,Illinois,10731
+Placerville,California,10730
+Scenic Oaks,Texas,10727
+Saks,Alabama,10727
+Sonoma,California,10726
+Campton Hills,Illinois,10724
+Essex Junction,Vermont,10720
+Pebble Creek,Florida,10719
+Morro Bay,California,10717
+Van Wert,Ohio,10710
+Gages Lake,Illinois,10706
+Tarboro,North Carolina,10705
+Fuller Heights,Florida,10697
+Kearney,Missouri,10696
+Felida,Washington,10695
+Lexington,Nebraska,10693
+Soquel,California,10691
+Broomall,Pennsylvania,10684
+Lenoir City,Tennessee,10681
+Calimesa,California,10680
+Lake Barcroft,Virginia,10678
+Yorkshire,Virginia,10678
+Richmond Heights,Ohio,10677
+Pine Ridge,Florida,10676
+Sumner,Washington,10674
+Corning,New York,10666
+Darby,Pennsylvania,10664
+West Haverstraw,New York,10663
+Clute,Texas,10650
+Freeport,Texas,10639
+Alachua,Florida,10638
+St. Albans,West Virginia,10637
+Mount Vista,Washington,10635
+Potomac Park,California,10634
+Munhall,Pennsylvania,10633
+Mount Airy,North Carolina,10631
+Fair Oaks Ranch,Texas,10630
+Cottage Grove,Oregon,10630
+Fairview,Oregon,10627
+Memphis,Florida,10626
+Chalco,Nebraska,10625
+Pella,Iowa,10624
+Winterville,North Carolina,10624
+Santa Clara,Oregon,10623
+Crestwood,Illinois,10622
+Shelton,Washington,10619
+Yelm,Washington,10618
+Waggaman,Louisiana,10617
+Bel Air,Maryland,10616
+Nanticoke,Pennsylvania,10610
+Le Mars,Iowa,10597
+Bonham,Texas,10594
+Sleepy Hollow,New York,10592
+Lake Morton-Berrydale,Washington,10591
+Ironton,Ohio,10585
+North Lakes,Alaska,10583
+Pingree Grove,Illinois,10576
+Vienna,West Virginia,10575
+Fairview,Texas,10570
+Monroe,Wisconsin,10568
+Bellefontaine Neighbors,Missouri,10562
+Palatka,Florida,10558
+Maryville,Missouri,10556
+Smithville,Missouri,10552
+Bellmead,Texas,10550
+Little Canada,Minnesota,10546
+Heath,Ohio,10545
+Linthicum,Maryland,10545
+Scotchtown,New York,10544
+Bluffton,Indiana,10539
+Bogalusa,Louisiana,10539
+Galena Park,Texas,10527
+Delhi,California,10525
+New Albany,Ohio,10524
+Fairmount,Colorado,10521
+Raceland,Louisiana,10517
+Malibu,California,10516
+Riverdale,Illinois,10515
+Beverly Hills,Michigan,10507
+Plymouth,Indiana,10506
+Excelsior Springs,Missouri,10502
+Forest Acres,South Carolina,10491
+Reading,Ohio,10490
+Milton,Florida,10485
+Cheat Lake,West Virginia,10485
+Sweetwater,Texas,10484
+Bastrop,Texas,10484
+River Grove,Illinois,10482
+White Marsh,Maryland,10480
+Fort Meade,Maryland,10477
+Marlton,New Jersey,10473
+Española,New Mexico,10472
+La Plata,Maryland,10470
+Rifle,Colorado,10466
+Chestnut Ridge,New York,10464
+Lighthouse Point,Florida,10463
+Somers Point,New Jersey,10461
+Little River,South Carolina,10457
+Vermilion,Ohio,10451
+Rockport,Texas,10449
+Garrison,Maryland,10449
+Waverly,Iowa,10446
+Silverton,Oregon,10445
+Golden Hills,California,10445
+Scaggsville,Maryland,10441
+Lowell,Arkansas,10438
+Warr Acres,Oklahoma,10437
+Crestline,California,10431
+Alexandria,Kentucky,10430
+Pine Castle,Florida,10429
+Camden,Arkansas,10427
+Gunbarrel,Colorado,10424
+Vashon,Washington,10424
+Hobart,Wisconsin,10418
+Flat Rock,Michigan,10418
+Garden Acres,California,10417
+Edwards,Colorado,10415
+Waynesville,North Carolina,10408
+Lake Hiawatha,New Jersey,10406
+Valley,Alabama,10406
+Cadillac,Michigan,10404
+Blackhawk,California,10404
+London,Ohio,10403
+Madison Heights,Virginia,10398
+Scottdale,Georgia,10398
+Newport,Oregon,10393
+Fair Oaks,Georgia,10392
+Lyons,Illinois,10391
+East Setauket,New York,10385
+Flowood,Mississippi,10384
+Lake Hopatcong,New Jersey,10383
+Versailles,Kentucky,10382
+Wabash,Indiana,10378
+Progress Village,Florida,10378
+Spanish Fort,Alabama,10377
+East Bakersfield,California,10377
+Garden City,Georgia,10375
+Portage,Wisconsin,10374
+Northampton,Pennsylvania,10366
+Galion,Ohio,10358
+Fairmont,Minnesota,10348
+Tipp City,Ohio,10344
+Farmersville,California,10336
+New Richmond,Wisconsin,10334
+Shasta Lake,California,10334
+Fort Oglethorpe,Georgia,10332
+Loudoun Valley Estates,Virginia,10323
+Arkadelphia,Arkansas,10316
+Manhattan,Illinois,10315
+Wood River,Illinois,10315
+Paris,Tennessee,10313
+Francisville,Kentucky,10313
+Rotonda,Florida,10312
+Comstock Park,Michigan,10306
+Valley Center,California,10303
+Berwick,Pennsylvania,10291
+Port Townsend,Washington,10290
+Clay,Alabama,10288
+Flowery Branch,Georgia,10286
+Watervliet,New York,10285
+East Franklin,New Jersey,10281
+Exeter,California,10280
+Woodlyn,Pennsylvania,10276
+Loudonville,New York,10274
+Alpine,Utah,10272
+Yazoo City,Mississippi,10270
+Highland,Illinois,10268
+Meridianville,Alabama,10268
+Carroll,Iowa,10261
+Elkhorn,Wisconsin,10259
+Vernal,Utah,10254
+Franklin,Kentucky,10254
+Raymondville,Texas,10243
+Waimea,Hawaii,10242
+Oneida,New York,10240
+Atoka,Tennessee,10237
+Kennett,Missouri,10236
+North Bend,Oregon,10231
+Marlton,Maryland,10223
+Robstown,Texas,10222
+Fort Madison,Iowa,10221
+Blackwells Mills,New Jersey,10220
+Heath,Texas,10218
+Columbia,Pennsylvania,10217
+Safford,Arizona,10217
+Independent Hill,Virginia,10217
+Sellersburg,Indiana,10215
+Rainbow City,Alabama,10213
+Cedartown,Georgia,10211
+New Hyde Park,New York,10208
+Hillcrest,California,10203
+Fort Salonga,New York,10203
+Difficult Run,Virginia,10202
+Rolesville,North Carolina,10200
+Hermantown,Minnesota,10192
+La Grange,Kentucky,10188
+Alpena,Michigan,10178
+Baker City,Oregon,10177
+Snohomish,Washington,10177
+Cross Lanes,West Virginia,10172
+Glenwood Springs,Colorado,10171
+Alderwood Manor,Washington,10168
+Molalla,Oregon,10168
+Bargersville,Indiana,10163
+Astoria,Oregon,10162
+Coweta,Oklahoma,10157
+East Rutherford,New Jersey,10154
+Warrenton,Virginia,10151
+Roslyn,Pennsylvania,10150
+South Huntington,New York,10150
+Hackettstown,New Jersey,10143
+San Diego Country Estates,California,10142
+Clinton,Tennessee,10141
+Trumbull Center,Connecticut,10137
+Rathdrum,Idaho,10133
+San Elizario,Texas,10123
+Cody,Wyoming,10121
+Paris,Kentucky,10107
+Cordele,Georgia,10107
+Budd Lake,New Jersey,10106
+Pike Road,Alabama,10103
+Middleton,Idaho,10101
+Corte Madera,California,10101
+Spring Valley Lake,California,10098
+Bardmoor,Florida,10095
+Wood-Ridge,New Jersey,10094
+Kendallville,Indiana,10094
+Waldwick,New Jersey,10090
+Independence,Oregon,10088
+Murrells Inlet,South Carolina,10087
+Hillsdale,New Jersey,10086
+Airmont,New York,10082
+Howell,Michigan,10074
+Cairo,Georgia,10067
+East Rockaway,New York,10064
+Burtonsville,Maryland,10063
+East Whittier,California,10061
+Reedsburg,Wisconsin,10060
+Cambridge,Ohio,10046
+Woodburn,Virginia,10046
+Brookdale,New Jersey,10044
+Maywood,New Jersey,10042
+White Horse,New Jersey,10040
+Fairview,California,10033
+Hyrum,Utah,10022
+Country Club,California,10017
+North Gates,New York,10014
+Cypress Gardens,Florida,10013
+Willow Street,Pennsylvania,10010
+Rio Vista,California,10002
+Harrisonville,Missouri,10002
+Detroit Lakes,Minnesota,10002
+Fairmount,New York,9998
+Struthers,Ohio,9995
+Woodbury,New Jersey,9992
+Cambridge,Minnesota,9992
+Jefferson,Louisiana,9984
+Winfield,Illinois,9982
+Willoughby Hills,Ohio,9979
+Sweet Home,Oregon,9977
+Fort Stewart,Georgia,9976
+Cape Canaveral,Florida,9976
+Columbia City,Indiana,9975
+Bay St. Louis,Mississippi,9971
+Kinnelon,New Jersey,9971
+West Point,Mississippi,9967
+West Glens Falls,New York,9967
+Grosse Pointe Farms,Michigan,9957
+George Mason,Virginia,9954
+Fallston,Maryland,9954
+DuPont,Washington,9952
+Roanoke,Texas,9947
+Vernon,Texas,9947
+Cedar Hills,Utah,9945
+West Perrine,Florida,9944
+Marysville,Michigan,9942
+Green Cove Springs,Florida,9937
+Kensington,Connecticut,9936
+Bacliff,Texas,9935
+Locust Grove,Georgia,9931
+Mission,Kansas,9928
+Brentwood,Pennsylvania,9927
+Sparta,Wisconsin,9921
+St. Augustine Shores,Florida,9921
+Bee Ridge,Florida,9921
+Ellisville,Missouri,9908
+Mayfield,Kentucky,9905
+Muskegon Heights,Michigan,9902
+Woodfield,South Carolina,9901
+Makaha,Hawaii,9898
+Villas,New Jersey,9897
+Travis Ranch,Texas,9894
+Salem,Utah,9893
+Lincoln City,Oregon,9890
+Rye Brook,New York,9884
+Avon Park,Florida,9879
+Harvard,Illinois,9875
+East Liverpool,Ohio,9869
+Wapakoneta,Ohio,9867
+Succasunna,New Jersey,9866
+Peru,Illinois,9863
+Jesup,Georgia,9863
+Greencastle,Indiana,9863
+Ingleside,Texas,9861
+Alamosa,Colorado,9847
+Fairfield,Alabama,9846
+Picnic Point,Washington,9833
+Marathon,Florida,9831
+College Place,Washington,9828
+Uniontown,Pennsylvania,9819
+Capitola,California,9813
+DeRidder,Louisiana,9812
+Thomaston,Georgia,9798
+Eagle Point,Oregon,9783
+Frankfort Square,Illinois,9777
+Sedona,Arizona,9770
+Decatur,Indiana,9769
+Madera Acres,California,9758
+Mahomet,Illinois,9755
+Washington,North Carolina,9754
+Fultondale,Alabama,9753
+Fairview,Tennessee,9751
+Keokuk,Iowa,9748
+Mount Airy,Maryland,9746
+Morrisville,Pennsylvania,9740
+Vidor,Texas,9738
+Tanaina,Alaska,9738
+Arden Hills,Minnesota,9737
+Monett,Missouri,9734
+Keansburg,New Jersey,9729
+Sauk Village,Illinois,9724
+Sandy Hook,Connecticut,9718
+Hartland,Wisconsin,9716
+Beverly Hills,Florida,9716
+South Amboy,New Jersey,9714
+New Square,New York,9712
+Lambertville,Michigan,9708
+Croydon,Pennsylvania,9704
+Sturgeon Bay,Wisconsin,9702
+McCordsville,Indiana,9700
+Morehead City,North Carolina,9696
+Canonsburg,Pennsylvania,9682
+Jennings,Louisiana,9679
+Flossmoor,Illinois,9666
+Picture Rocks,Arizona,9665
+Canal Winchester,Ohio,9659
+Hillsborough,North Carolina,9656
+Brewer,Maine,9654
+Sunbury,Pennsylvania,9643
+Burlington,Washington,9637
+Matawan,New Jersey,9636
+Brownsville,Tennessee,9634
+Walker Mill,Maryland,9626
+Middletown,Kentucky,9622
+Bala Cynwyd,Pennsylvania,9622
+Mooresville,Indiana,9608
+Orange Cove,California,9607
+Gateway,Florida,9603
+Fredonia,New York,9601
+Winchester,Tennessee,9600
+Ogdensburg,New York,9600
+Lititz,Pennsylvania,9599
+Orange Lake,New York,9588
+Greenville,New York,9586
+Country Club Estates,Georgia,9575
+Silver City,New Mexico,9574
+Greenwood,Arkansas,9570
+Middletown,Pennsylvania,9567
+North College Hill,Ohio,9564
+Browns Mills,New Jersey,9561
+Louisville,Ohio,9560
+Bladensburg,Maryland,9552
+Bridge City,Texas,9549
+Fishersville,Virginia,9546
+Oakland,Tennessee,9544
+Litchfield Beach,South Carolina,9544
+Claymont,Delaware,9543
+Mechanicsburg,Pennsylvania,9535
+Helena Valley Southeast,Montana,9533
+Grinnell,Iowa,9527
+Itasca,Illinois,9525
+Belmont,Virginia,9525
+Ivins,Utah,9524
+Girard,Ohio,9521
+Countryside,Virginia,9521
+Pryor Creek,Oklahoma,9520
+Oil City,Pennsylvania,9517
+St. Anthony,Minnesota,9516
+Amityville,New York,9513
+Anaconda,Montana,9512
+Bluefield,West Virginia,9511
+Tomah,Wisconsin,9505
+Pleasant Grove,Alabama,9502
+Clarksville,Arkansas,9500
+Springs,New York,9489
+Richmond Heights,Florida,9489
+Mentone,California,9487
+Chevy Chase,Maryland,9484
+Florence,Oregon,9483
+Woodway,Texas,9483
+Parsons,Kansas,9482
+Eidson Road,Texas,9481
+Terrace Heights,Washington,9480
+Oakwood,Ohio,9480
+Rochelle,Illinois,9477
+Lugoff,South Carolina,9475
+Berlin,New Hampshire,9473
+LaSalle,Illinois,9471
+The Village,Oklahoma,9470
+Bull Mountain,Oregon,9465
+Rockcreek,Oregon,9463
+Oakbrook,Kentucky,9459
+Jacinto City,Texas,9458
+Monmouth Junction,New Jersey,9457
+Halls,Tennessee,9455
+Madeira,Ohio,9454
+Beckett Ridge,Ohio,9451
+Steger,Illinois,9449
+Hailey,Idaho,9439
+Fairfield,Iowa,9438
+Ashland,New Jersey,9437
+Wasilla,Alaska,9435
+Alma,Michigan,9421
+Charter Oak,California,9414
+St. Stephens,North Carolina,9409
+Bastrop,Louisiana,9408
+Southside,Alabama,9407
+Angola,Indiana,9383
+Helotes,Texas,9372
+Coral Hills,Maryland,9372
+Fallon,Nevada,9371
+Roxborough Park,Colorado,9365
+Denham Springs,Louisiana,9362
+Indianola,Mississippi,9360
+Lago Vista,Texas,9341
+Diamondhead,Mississippi,9338
+Sheffield,Alabama,9334
+Havre,Montana,9333
+St. Francis,Wisconsin,9318
+Chesapeake Ranch Estates,Maryland,9307
+Laurens,South Carolina,9307
+Bohemia,New York,9306
+Severance,Colorado,9302
+Sanger,Texas,9302
+Leonia,New Jersey,9300
+Quakertown,Pennsylvania,9298
+Riverdale,Utah,9294
+Hardeeville,South Carolina,9293
+Bridgeport,West Virginia,9292
+Haiku-Pauwela,Hawaii,9290
+Gibsonville,North Carolina,9289
+East Stroudsburg,Pennsylvania,9278
+Blanchard,Oklahoma,9276
+Warren,Pennsylvania,9273
+Woodbury,New York,9270
+Charlotte,Michigan,9269
+Delta,Colorado,9266
+Eunice,Louisiana,9261
+Smithville,New Jersey,9260
+Middlesborough,Kentucky,9258
+Augusta,Kansas,9252
+Pine Lake Park,New Jersey,9251
+Rensselaer,New York,9247
+Sandpoint,Idaho,9244
+Bethalto,Illinois,9244
+Shawano,Wisconsin,9236
+Brooksville,Florida,9235
+Conshohocken,Pennsylvania,9235
+Palm Beach,Florida,9234
+Plymouth,Michigan,9234
+Sugar Grove,Illinois,9233
+Oakville,Connecticut,9233
+McFarland,Wisconsin,9230
+Merrill,Wisconsin,9224
+Ventnor City,New Jersey,9220
+Hooper,Utah,9220
+Park Ridge,New Jersey,9218
+Helena-West Helena,Arkansas,9218
+Riverside,Connecticut,9216
+Commerce,Texas,9211
+Crozet,Virginia,9211
+Waseca,Minnesota,9209
+Marlboro Village,Maryland,9200
+Washington Terrace,Utah,9196
+Hickam Housing,Hawaii,9195
+Glenshaw,Pennsylvania,9194
+Cusseta,Georgia,9181
+Richmond Heights,Missouri,9179
+Waterford,California,9177
+Mound,Minnesota,9176
+Perkasie,Pennsylvania,9176
+Bryans Road,Maryland,9174
+Toccoa,Georgia,9173
+Seven Corners,Virginia,9171
+Mahopac,New York,9171
+Ecorse,Michigan,9170
+Stonegate,Colorado,9164
+University of Virginia,Virginia,9159
+Aiea,Hawaii,9155
+Incline Village,Nevada,9152
+Elsmere,Kentucky,9151
+Merrydale,Louisiana,9149
+Forestdale,Alabama,9149
+Fairfield Glade,Tennessee,9149
+Glens Falls North,New York,9148
+Jessup,Maryland,9147
+Aliquippa,Pennsylvania,9146
+Hawthorn Woods,Illinois,9145
+Des Peres,Missouri,9145
+Stony Brook University,New York,9138
+Willowbrook,Illinois,9138
+Hampstead,North Carolina,9129
+Chillicothe,Missouri,9129
+Boulder Hill,Illinois,9127
+Harrodsburg,Kentucky,9126
+Dayton,Texas,9121
+Gretna,Nebraska,9117
+Lake Mohawk,New Jersey,9116
+Sunset Hills,Missouri,9113
+Bogota,New Jersey,9110
+Grants,New Mexico,9106
+Cresskill,New Jersey,9101
+Absecon,New Jersey,9099
+Little Falls,Minnesota,9094
+Rockingham,North Carolina,9094
+Mount Pleasant,Iowa,9093
+Tuscumbia,Alabama,9084
+Riverside,Illinois,9079
+Tuskegee,Alabama,9070
+Bernalillo,New Mexico,9068
+East Grand Forks,Minnesota,9067
+West Athens,California,9064
+Orange Park,Florida,9062
+Kings Grant,North Carolina,9061
+Booneville,Mississippi,9060
+Lapeer,Michigan,9053
+Micco,Florida,9053
+Sanatoga,Pennsylvania,9048
+Lynwood,Illinois,9047
+Clinton,Missouri,9047
+Citrus Hills,Florida,9044
+Newark,New York,9040
+Corona de Tucson,Arizona,9039
+Tiburon,California,9035
+Harleysville,Pennsylvania,9034
+Oak Grove,Minnesota,9031
+Rice Lake,Wisconsin,9030
+Benton Harbor,Michigan,9023
+Craig,Colorado,9022
+Cape St. Claire,Maryland,9016
+Summit View,Washington,9014
+Audubon,Pennsylvania,9014
+Lake Park,Florida,9005
+Meadow Lakes,Alaska,8994
+Indian Harbour Beach,Florida,8991
+Kulpsville,Pennsylvania,8990
+Hillcrest,New York,8989
+Fairless Hills,Pennsylvania,8985
+North Kensington,Maryland,8980
+Saline,Michigan,8976
+Purcellville,Virginia,8974
+Aberdeen,North Carolina,8969
+Lincoln Village,Ohio,8968
+Westwood,Michigan,8968
+Fitzgerald,Georgia,8962
+Orting,Washington,8957
+Kennedale,Texas,8954
+Flanders,New Jersey,8949
+Ladue,Missouri,8948
+Sheffield Lake,Ohio,8946
+Manteno,Illinois,8942
+Harahan,Louisiana,8939
+Meadowbrook,Alabama,8939
+Rio del Mar,California,8938
+Valley Center,Kansas,8937
+Pulaski,Virginia,8937
+Haledon,New Jersey,8936
+Cloverdale,California,8933
+Plainedge,New York,8930
+Wesley Chapel,North Carolina,8923
+Plymouth,Wisconsin,8913
+Seneca,South Carolina,8910
+Northwest Harborcreek,Pennsylvania,8908
+Evergreen,Montana,8908
+Skidaway Island,Georgia,8907
+North Merritt Island,Florida,8903
+Poteau,Oklahoma,8903
+Cortez,Colorado,8898
+Caldwell,New Jersey,8898
+Greenville,Michigan,8897
+Oxford,North Carolina,8897
+Oak Island,North Carolina,8888
+Summit,Washington,8885
+Beaver Falls,Pennsylvania,8885
+Bainbridge,Ohio,8882
+Village St. George,Louisiana,8880
+Lansdowne,Maryland,8879
+Warrenton,Missouri,8870
+East York,Pennsylvania,8868
+Blacklick Estates,Ohio,8867
+Clayton,New Jersey,8867
+Olney,Illinois,8864
+Clanton,Alabama,8862
+Whippany,New Jersey,8862
+Collingdale,Pennsylvania,8862
+Signal Mountain,Tennessee,8861
+Larkfield-Wikiup,California,8861
+Bee Cave,Texas,8861
+Pleasant Hill,Missouri,8853
+Harwood Heights,Illinois,8851
+Marina del Rey,California,8844
+Thief River Falls,Minnesota,8841
+Andalusia,Alabama,8841
+Pearsall,Texas,8841
+Bloomingdale,Tennessee,8840
+Panthersville,Georgia,8840
+Pitman,New Jersey,8834
+Rockwood,Virginia,8834
+St. Pete Beach,Florida,8832
+Winslow,Arizona,8831
+Bayport,New York,8831
+Montecito,California,8823
+Carbondale,Pennsylvania,8820
+Woodmoor,Colorado,8819
+Park Forest Village,Pennsylvania,8810
+Fort Valley,Georgia,8808
+Savoy,Illinois,8807
+Aransas Pass,Texas,8807
+Baxter,Minnesota,8804
+Boonton,New Jersey,8803
+Brownfield,Texas,8803
+Valley Cottage,New York,8803
+Bath,Maine,8801
+Madison Park,New Jersey,8798
+Highland Park,Michigan,8798
+Paloma Creek South,Texas,8797
+Hernando,Florida,8795
+Monmouth,Illinois,8794
+Whitehouse,Texas,8794
+Hoquiam,Washington,8792
+Fort Irwin,California,8791
+Hope,Arkansas,8787
+Dock Junction,Georgia,8786
+Dunn Loring,Virginia,8782
+Topanga,California,8781
+Edgemere,Maryland,8778
+Maysville,Kentucky,8778
+Highland Park,Texas,8774
+Guntersville,Alabama,8771
+Redlands,Colorado,8771
+Graham,Texas,8758
+Franklin,New Hampshire,8757
+North Haledon,New Jersey,8757
+Coffeyville,Kansas,8752
+Altoona,Wisconsin,8750
+Milton,Washington,8747
+Toppenish,Washington,8746
+Mascoutah,Illinois,8743
+Temple Hills,Maryland,8740
+Lancaster,South Carolina,8738
+Presque Isle,Maine,8736
+Hillview,Kentucky,8735
+Rodeo,California,8735
+Smithfield,Virginia,8729
+Village Green-Green Ridge,Pennsylvania,8725
+Irondale,Georgia,8722
+Cameron,Missouri,8721
+Jeannette,Pennsylvania,8719
+Glencoe,Illinois,8715
+Fort Knox,Kentucky,8715
+Wyoming,Ohio,8712
+Millersville,Pennsylvania,8711
+Port Jervis,New York,8709
+Lake Villa,Illinois,8707
+Shelby,Ohio,8706
+White Meadow Lake,New Jersey,8706
+Anthony,New Mexico,8701
+Othello,Washington,8699
+Audubon,New Jersey,8699
+York,South Carolina,8697
+Milliken,Colorado,8695
+Leisure World,Maryland,8693
+Stevensville,Maryland,8693
+Derby,Colorado,8692
+Spring Hill,Kansas,8691
+Rock Falls,Illinois,8683
+Arizona City,Arizona,8681
+Orosi,California,8679
+Fort Mitchell,Kentucky,8676
+Midland,Washington,8676
+Providence,Utah,8675
+Perry Heights,Ohio,8672
+Wharton,Texas,8671
+Park Hills,Missouri,8667
+Bryan,Ohio,8664
+South Lockport,New York,8660
+Tecumseh,Michigan,8655
+Cheviot,Ohio,8655
+Evergreen,Colorado,8643
+Laughlin,Nevada,8643
+Clarendon Hills,Illinois,8642
+Olmsted Falls,Ohio,8640
+Cumberland Hill,Rhode Island,8638
+Livingston,Montana,8635
+East Foothills,California,8630
+Chanute,Kansas,8629
+Perryton,Texas,8625
+Montvale,New Jersey,8625
+Montrose,Virginia,8624
+Glenwood,Illinois,8620
+Highland Heights,Ohio,8619
+Fair Lakes,Virginia,8617
+Covington,Tennessee,8612
+Templeton,California,8608
+Harrisburg,Illinois,8608
+Monona,Wisconsin,8604
+Long Hill,Connecticut,8597
+Fort Riley,Kansas,8595
+Fern Park,Florida,8593
+Conning Towers Nautilus Park,Connecticut,8590
+Miramar Beach,Florida,8587
+Greenville,Rhode Island,8586
+Beebe,Arkansas,8580
+Sonterra,Texas,8576
+West Long Branch,New Jersey,8576
+Sutherlin,Oregon,8574
+Arab,Alabama,8573
+Gering,Nebraska,8567
+Hollymead,Virginia,8566
+Murphy,Missouri,8566
+Baltimore Highlands,Maryland,8564
+Napoleon,Ohio,8561
+Innsbrook,Virginia,8559
+La Cresta,California,8558
+Corrales,New Mexico,8557
+Wedgefield,Florida,8556
+Skiatook,Oklahoma,8553
+Sallisaw,Oklahoma,8553
+Ellsworth,Maine,8550
+Summit Park,Utah,8545
+Closter,New Jersey,8544
+Socorro,New Mexico,8540
+Olivette,Missouri,8539
+Old Forge,Pennsylvania,8533
+Delavan,Wisconsin,8531
+Perryville,Missouri,8530
+Lamesa,Texas,8527
+Gonzales,California,8526
+Ahuimanu,Hawaii,8520
+Sangaree,South Carolina,8517
+Cedar Hills,Oregon,8515
+Dunn,North Carolina,8512
+Georgetown,South Carolina,8511
+Murillo,Texas,8511
+Minnetrista,Minnesota,8509
+Hondo,Texas,8508
+Beecher,Michigan,8507
+Lewistown,Pennsylvania,8505
+Swissvale,Pennsylvania,8499
+Seffner,Florida,8498
+Malverne,New York,8496
+Temperance,Michigan,8495
+Fort Lupton,Colorado,8494
+Ephrata,Washington,8493
+Hampton,Georgia,8491
+Liberty,Texas,8491
+Conover,North Carolina,8491
+Pukalani,Hawaii,8490
+Bellwood,Virginia,8489
+Kenwood,Ohio,8484
+Fruitland Park,Florida,8482
+Gypsum,Colorado,8481
+Village of Waukesha,Wisconsin,8479
+Oak Grove,Missouri,8477
+Richland Hills,Texas,8473
+Jefferson City,Tennessee,8472
+August,California,8471
+Independence,Kansas,8469
+Farmington,Arkansas,8469
+Collinsville,Oklahoma,8468
+Bemiss,Georgia,8464
+Black Mountain,North Carolina,8462
+River Road,Oregon,8462
+Clinton,Oklahoma,8461
+Barre,Vermont,8461
+Farmingdale,New York,8450
+Hastings-on-Hudson,New York,8449
+Center Line,Michigan,8448
+Harrison,Tennessee,8446
+Lake Geneva,Wisconsin,8443
+Villanova,Pennsylvania,8431
+Corbin,Kentucky,8430
+Edgewood,Kentucky,8429
+Brook Highland,Alabama,8428
+Northfield,New Jersey,8427
+Plumas Lake,California,8424
+Grandview Heights,Ohio,8422
+Whitefish,Montana,8422
+Guadalupe,California,8422
+Kronenwetter,Wisconsin,8420
+Pleasant Hills,Pennsylvania,8418
+Mont Belvieu,Texas,8416
+Miles City,Montana,8412
+Mukwonago,Wisconsin,8411
+Dumbarton,Virginia,8407
+Sitka,Alaska,8393
+Wading River,New York,8393
+Winnemucca,Nevada,8391
+Gilberts,Illinois,8389
+Atmore,Alabama,8389
+Lock Haven,Pennsylvania,8386
+Westwego,Louisiana,8382
+Crete,Illinois,8382
+Dayton,Minnesota,8381
+Oak Hills Place,Louisiana,8380
+Hillsboro,Texas,8375
+Menominee,Michigan,8370
+Westgate,Florida,8369
+Los Altos Hills,California,8367
+Park City,Utah,8365
+Ogden,North Carolina,8363
+Virginia,Minnesota,8362
+Orrville,Ohio,8361
+Hood River,Oregon,8360
+Payette,Idaho,8358
+Upper Saddle River,New Jersey,8354
+Parkville,Pennsylvania,8354
+Eaton,Ohio,8353
+Austell,Georgia,8351
+Stanwood,Washington,8351
+Hampshire,Illinois,8351
+Scott,Louisiana,8348
+Princeton,Indiana,8347
+Waite Park,Minnesota,8341
+Houghton,Michigan,8341
+Fort Stockton,Texas,8340
+Kenilworth,New Jersey,8339
+Shiprock,New Mexico,8339
+Cushing,Oklahoma,8336
+Newton,New Jersey,8336
+Clinton,North Carolina,8336
+Sioux Center,Iowa,8335
+Abingdon,Virginia,8332
+Centerville,Georgia,8323
+Flushing,Michigan,8323
+Mayo,Maryland,8322
+Elwood,Indiana,8320
+Monticello,Arkansas,8320
+St. Marys,Ohio,8319
+Fort Lee,Virginia,8318
+Good Hope,California,8315
+Twin Rivers,New Jersey,8315
+Runnemede,New Jersey,8310
+Mount Joy,Pennsylvania,8310
+North Madison,Ohio,8309
+Trinidad,Colorado,8309
+Senatobia,Mississippi,8306
+Pulaski,Tennessee,8305
+Firebaugh,California,8301
+Selah,Washington,8301
+Folsom,Pennsylvania,8298
+Mila Doce,Texas,8298
+Edgewater,Maryland,8297
+Lely Resort,Florida,8296
+Brookhaven,Pennsylvania,8288
+Savage,Maryland,8284
+Maryville,Illinois,8280
+St. Francis,Minnesota,8279
+Joshua,Texas,8279
+Twin Lakes,Colorado,8279
+Duvall,Washington,8279
+Druid Hills,Georgia,8278
+Long Grove,Illinois,8266
+Tuba City,Arizona,8265
+West Haven-Sylvan,Oregon,8265
+Alondra Park,California,8262
+Carl Junction,Missouri,8257
+Seaford,Delaware,8255
+Orland,California,8252
+Rhinelander,Wisconsin,8248
+Prien,Louisiana,8248
+Denison,Iowa,8247
+Oak Hills,California,8246
+Somers,Wisconsin,8245
+Orange Beach,Alabama,8244
+Dayton,New Jersey,8241
+Mason,Michigan,8239
+Rockton,Illinois,8238
+Castle Shannon,Pennsylvania,8237
+Mount Rainier,Maryland,8235
+Helena Valley West Central,Montana,8224
+Wytheville,Virginia,8224
+Stayton,Oregon,8223
+Auburn,Georgia,8222
+Prairie View,Texas,8220
+Wynne,Arkansas,8220
+Hatboro,Pennsylvania,8219
+Rawlins,Wyoming,8217
+Price,Utah,8216
+Bay Minette,Alabama,8215
+Barberton,Washington,8213
+Franklin,Virginia,8212
+Croton-on-Hudson,New York,8205
+Orono,Minnesota,8205
+Bellevue,Ohio,8201
+Sans Souci,South Carolina,8199
+Winooski,Vermont,8198
+McGregor,Florida,8198
+Oradell,New Jersey,8197
+Wilson,Pennsylvania,8196
+New Prague,Minnesota,8195
+Milan,Tennessee,8194
+Gulf Hills,Mississippi,8193
+Interlaken,California,8191
+Sheboygan Falls,Wisconsin,8190
+Bellevue,Pennsylvania,8186
+North Star,Delaware,8178
+Garden City Park,New York,8176
+Los Fresnos,Texas,8174
+Richfield,Utah,8173
+Hornell,New York,8173
+Navasota,Texas,8170
+Odessa,Florida,8170
+Corning,California,8168
+Lake of the Woods,Virginia,8165
+Downingtown,Pennsylvania,8163
+Breinigsville,Pennsylvania,8159
+University of California-Davis,California,8158
+Rolling Hills Estates,California,8158
+Springfield,Florida,8157
+Center Moriches,New York,8155
+Paris,Illinois,8154
+Maplewood,Missouri,8154
+Southwood Acres,Connecticut,8154
+Johnstown,New York,8153
+Ketchikan,Alaska,8151
+Brentwood,Missouri,8151
+Berkeley,Missouri,8149
+Camp Hill,Pennsylvania,8149
+Cuero,Texas,8147
+Roxboro,North Carolina,8144
+Lochbuie,Colorado,8142
+Pomona,New Jersey,8141
+Cleveland,Texas,8137
+Travelers Rest,South Carolina,8137
+Kalifornsky,Alaska,8136
+Hillside,Illinois,8133
+Sequim,Washington,8130
+Dormont,Pennsylvania,8120
+Applewood,Colorado,8120
+Charlestown,Indiana,8118
+Providence Village,Texas,8116
+York,Nebraska,8114
+Spotswood,New Jersey,8112
+Mahtomedi,Minnesota,8108
+Fairwood,Maryland,8108
+Fort Belvoir,Virginia,8107
+Leola,Pennsylvania,8107
+Plain City,Utah,8101
+Kirby,Texas,8100
+Scappoose,Oregon,8099
+Midway City,California,8094
+Lake Carmel,New York,8090
+Alliance,Nebraska,8089
+South San Gabriel,California,8084
+Whitmore Lake,Michigan,8083
+Bermuda Dunes,California,8074
+Butler,New Jersey,8072
+Sunnyvale,Texas,8069
+Albertville,Minnesota,8066
+Brazil,Indiana,8064
+Middleborough Center,Massachusetts,8064
+Wyoming,Minnesota,8063
+Bondurant,Iowa,8061
+Stuttgart,Arkansas,8060
+Antigo,Wisconsin,8058
+Oak Hill,West Virginia,8057
+South Kensington,Maryland,8057
+Fort Polk South,Louisiana,8056
+Oberlin,Ohio,8054
+Union,South Carolina,8047
+Landen,Ohio,8041
+Lucas,Texas,8040
+Vinton,Virginia,8038
+Montpelier,Vermont,8038
+South Weber,Utah,8037
+Atco,New Jersey,8037
+Groesbeck,Ohio,8036
+Fort Dix,New Jersey,8034
+Wilmington Manor,Delaware,8030
+Port Jefferson,New York,8029
+Oak Brook,Illinois,8028
+Camden,South Carolina,8025
+Pismo Beach,California,8024
+Island Lake,Illinois,8023
+Parkville,Missouri,8022
+Fletcher,North Carolina,8022
+Newport,Arkansas,8019
+Carnegie,Pennsylvania,8015
+Hillsdale,Michigan,8013
+Kaufman,Texas,8010
+Timnath,Colorado,8007
+North Bay Village,Florida,8004
+Latrobe,Pennsylvania,8002
+Golden Valley,Arizona,7999
+Nevada,Missouri,7998
+Fruitvale,Colorado,7998
+Wahpeton,North Dakota,7996
+Butner,North Carolina,7996
+Grand Blanc,Michigan,7995
+Brunswick,Maryland,7994
+Greenbriar,Virginia,7989
+Piedmont,Oklahoma,7978
+North Weeki Wachee,Florida,7967
+Zebulon,North Carolina,7961
+Woodfin,North Carolina,7957
+Crestwood Village,New Jersey,7951
+Waikele,Hawaii,7950
+Emmett,Idaho,7948
+Oak Grove,Kentucky,7945
+Watsessing,New Jersey,7944
+Lexington,Tennessee,7943
+Glenside,Pennsylvania,7941
+Silvis,Illinois,7939
+Lincolnshire,Illinois,7937
+Three Rivers,Michigan,7936
+Moundsville,West Virginia,7934
+Wagoner,Oklahoma,7934
+South Beloit,Illinois,7930
+Gettysburg,Pennsylvania,7929
+Perry,Iowa,7928
+Congers,New York,7923
+Quincy,Washington,7922
+Green,Oregon,7916
+Mount Ivy,New York,7913
+Woodland Park,Colorado,7909
+Cottage Grove,Wisconsin,7906
+Dexter,Missouri,7906
+Siler City,North Carolina,7905
+Carrollton,Virginia,7903
+Broadview,Illinois,7898
+South Boston,Virginia,7896
+Santa Clara,Utah,7891
+West Livingston,Texas,7888
+Dalhart,Texas,7885
+Ashland,Wisconsin,7884
+Jackson,Wisconsin,7882
+Basking Ridge,New Jersey,7882
+Farr West,Utah,7881
+Bernardsville,New Jersey,7871
+Cumming,Georgia,7869
+Blair,Nebraska,7868
+West Dundee,Illinois,7867
+White Knoll,South Carolina,7865
+Grove City,Pennsylvania,7861
+Glastonbury Center,Connecticut,7860
+Waller,Washington,7857
+Enoch,Utah,7856
+Thompson's Station,Tennessee,7855
+Pinson,Alabama,7851
+Big Rapids,Michigan,7847
+Lihue,Hawaii,7847
+Ponchatoula,Louisiana,7839
+Round Lake Park,Illinois,7833
+Yreka,California,7832
+Princeton,Illinois,7829
+Westlake Village,California,7829
+Glen Ridge,New Jersey,7827
+Robinwood,Maryland,7822
+Quincy,Florida,7818
+Jersey Village,Texas,7817
+Campbell,Ohio,7812
+St. Joseph,Michigan,7805
+Ripon,Wisconsin,7803
+Tyrone,Georgia,7803
+Broadview Park,Florida,7802
+Humboldt,Tennessee,7799
+Grand Ledge,Michigan,7797
+St. Martin,Mississippi,7797
+Brevard,North Carolina,7795
+Old Jefferson,Louisiana,7790
+Harrisburg,South Dakota,7790
+Four Corners,Maryland,7785
+Tuttle,Oklahoma,7785
+Magalia,California,7784
+Half Moon,North Carolina,7780
+Palmyra,Pennsylvania,7769
+Webster City,Iowa,7769
+Wildewood,Maryland,7765
+Dry Run,Ohio,7765
+Etowah,North Carolina,7765
+Lake Dallas,Texas,7761
+Eden Isle,Louisiana,7753
+South Cleveland,Tennessee,7748
+North Bend,Washington,7745
+Bradford,Pennsylvania,7738
+Bonner Springs,Kansas,7735
+Baldwinsville,New York,7732
+Jennings Lodge,Oregon,7732
+Ancient Oaks,Pennsylvania,7731
+Manhasset,New York,7730
+Sky Lake,Florida,7728
+Kill Devil Hills,North Carolina,7727
+Park City,Kansas,7726
+Jefferson,Wisconsin,7722
+Acton,California,7721
+Mount Horeb,Wisconsin,7719
+Ripley,Tennessee,7718
+Earlimart,California,7716
+Fanwood,New Jersey,7714
+St. Johns,Michigan,7712
+Hudsonville,Michigan,7711
+Dunellen,New Jersey,7711
+Brigantine,New Jersey,7702
+Ruidoso,New Mexico,7701
+Fairlawn,Ohio,7689
+Homestead Meadows South,Texas,7687
+Bloomingdale,New Jersey,7686
+Commerce,Georgia,7684
+Boonville,Missouri,7682
+Floresville,Texas,7679
+Shorewood,Minnesota,7679
+Inverness,Florida,7672
+Ashland,Virginia,7667
+Seward,Nebraska,7665
+Ludington,Michigan,7664
+Thousand Palms,California,7662
+New Albany,Mississippi,7661
+Gold River,California,7661
+Oak Ridge,North Carolina,7660
+Woodlake,California,7651
+Canfield,Ohio,7651
+Nibley,Utah,7651
+Collinsville,Virginia,7645
+Wellington,Kansas,7643
+Beacon Square,Florida,7643

@@ -1,0 +1,2501 @@
+name,city,state,population
+Western Governors University,Salt Lake City,Utah,154991
+Southern New Hampshire University,Manchester,New Hampshire,144645
+The Pennsylvania State University,University Park,Pennsylvania,112931
+Grand Canyon University,Phoenix,Arizona,110404
+Liberty University,Lynchburg,Virginia,100674
+University Of Phoenix-Arizona,Phoenix,Arizona,97248
+Ohio State University-Main Campus,Columbus,Ohio,96399
+Arizona State University Campus Immersion,Tempe,Arizona,87678
+Texas A & M University-College Station,College Station,Texas,81678
+Dallas College,Dallas,Texas,80335
+University Of Central Florida,Orlando,Florida,77982
+Lone Star College System,The Woodlands,Texas,77117
+New York University,New York,New York,76559
+University Of Michigan-Ann Arbor,Ann Arbor,Michigan,72512
+Ivy Tech Community College,Indianapolis,Indiana,70690
+University Of Minnesota-Twin Cities,Minneapolis,Minnesota,70641
+University Of California-Los Angeles,Los Angeles,California,69845
+Rutgers University-New Brunswick,New Brunswick,New Jersey,69755
+University Of Florida,Gainesville,Florida,69252
+University Of Washington-Seattle Campus,Seattle,Washington,68838
+The University Of Texas At Austin,Austin,Texas,67083
+Florida International University,Miami,Florida,65410
+University Of Illinois Urbana-Champaign,Champaign,Illinois,65110
+University Of Maryland Global Campus,Adelphi,Maryland,64103
+University Of Wisconsin-Madison,Madison,Wisconsin,63654
+University Of Southern California,Los Angeles,California,62935
+Michigan State University,East Lansing,Michigan,62325
+University Of South Florida,Tampa,Florida,59916
+University Of Arizona,Tucson,Arizona,58335
+Purdue University-Main Campus,West Lafayette,Indiana,58024
+Arizona State University Digital Immersion,Scottsdale,Arizona,55938
+Northern Virginia Community College,Annandale,Virginia,55897
+University Of California-San Diego,La Jolla,California,55842
+University Of California-Berkeley,Berkeley,California,54449
+Miami Dade College,Miami,Florida,54356
+Walden University,Minneapolis,Minnesota,54019
+Houston Community College,Houston,Texas,53508
+University Of California-Davis,Davis,California,52829
+University Of Houston,Houston,Texas,52610
+American Public University System,Charles Town,West Virginia,52455
+Indiana University-Bloomington,Bloomington,Indiana,52280
+The University Of Texas At Arlington,Arlington,Texas,52044
+Columbia University In The City Of New York,New York,New York,50996
+University Of Georgia,Athens,Georgia,50880
+Florida State University,Tallahassee,Florida,50842
+University Of Maryland-College Park,College Park,Maryland,50709
+Valencia College,Orlando,Florida,50078
+Harvard University,Cambridge,Massachusetts,49569
+University Of Cincinnati-Main Campus,Cincinnati,Ohio,48594
+Georgia Institute Of Technology-Main Campus,Atlanta,Georgia,48378
+Johns Hopkins University,Baltimore,Maryland,48359
+Brigham Young University-Idaho,Rexburg,Idaho,48110
+University Of Utah,Salt Lake City,Utah,47336
+University Of Illinois Chicago,Chicago,Illinois,47263
+University Of Colorado Boulder,Boulder,Colorado,46885
+Tarrant County College District,Fort Worth,Texas,46780
+Temple University,Philadelphia,Pennsylvania,46015
+University Of Pennsylvania,Philadelphia,Pennsylvania,46008
+Purdue University Global,West Lafayette,Indiana,45975
+North Carolina State University At Raleigh,Raleigh,North Carolina,45678
+California State University-Fullerton,Fullerton,California,45670
+University Of California-Irvine,Irvine,California,45633
+Virginia Polytechnic Institute And State University,Blacksburg,Virginia,45631
+Texas Tech University,Lubbock,Texas,45569
+University Of Pittsburgh-Pittsburgh Campus,Pittsburgh,Pennsylvania,45541
+Kennesaw State University,Kennesaw,Georgia,45452
+University Of North Texas,Denton,Texas,45026
+Utah Valley University,Orem,Utah,44797
+The University Of Alabama,Tuscaloosa,Alabama,44760
+University Of North Carolina At Chapel Hill,Chapel Hill,North Carolina,44496
+George Mason University,Fairfax,Virginia,44275
+California State University-Long Beach,Long Beach,California,44120
+California State University-Northridge,Northridge,California,44089
+University Of The People,Pasadena,California,43748
+Austin Community College District,Austin,Texas,43414
+University Of South Carolina-Columbia,Columbia,South Carolina,43203
+Boston University,Boston,Massachusetts,43124
+University Of Kentucky,Lexington,Kentucky,42216
+Georgia State University,Atlanta,Georgia,41786
+Texas State University,San Marcos,Texas,41737
+Brigham Young University,Provo,Utah,41705
+Eastern Gateway Community College,Steubenville,Ohio,41628
+University Of Iowa,Iowa City,Iowa,41273
+University Of Missouri-Columbia,Columbia,Missouri,41145
+Louisiana State University And Agricultural & Mechanical College,Baton Rouge,Louisiana,40896
+Capella University,Minneapolis,Minnesota,40828
+Colorado State University-Fort Collins,Fort Collins,Colorado,40148
+San Diego State University,San Diego,California,40053
+San Jose State University,San Jose,California,39794
+The University Of Tennessee-Knoxville,Knoxville,Tennessee,39517
+Indiana University-Purdue University-Indianapolis,Indianapolis,Indiana,38885
+Iowa State University,Ames,Iowa,38575
+Oregon State University,Corvallis,Oregon,38551
+The University Of Texas At San Antonio,San Antonio,Texas,38396
+Collin County Community College District,Mckinney,Texas,38157
+Washington State University,Pullman,Washington,37811
+University At Buffalo,Buffalo,New York,37642
+University Of Colorado Denver/Anschutz Medical Campus,Denver,Colorado,37536
+University Of Connecticut,Storrs,Connecticut,37449
+University Of Massachusetts-Amherst,Amherst,Massachusetts,37327
+Auburn University,Auburn,Alabama,37259
+The University Of Texas Rio Grande Valley,Edinburg,Texas,36826
+University Of Nevada-Las Vegas,Las Vegas,Nevada,36573
+Virginia Commonwealth University,Richmond,Virginia,36171
+Broward College,Fort Lauderdale,Florida,35889
+University Of Virginia-Main Campus,Charlottesville,Virginia,35689
+University Of Kansas,Lawrence,Kansas,35685
+California State University-Sacramento,Sacramento,California,35463
+Duke University,Durham,North Carolina,35280
+East Los Angeles College,Monterey Park,California,34752
+Cornell University,Ithaca,New York,34682
+East Carolina University,Greenville,North Carolina,34648
+University Of North Carolina At Charlotte,Charlotte,North Carolina,34319
+Florida Atlantic University,Boca Raton,Florida,34297
+University Of Mississippi,University,Mississippi,34161
+Ashford University,San Diego,California,33440
+San Jacinto Community College,Pasadena,Texas,33424
+University Of Oklahoma-Norman Campus,Norman,Oklahoma,33395
+George Washington University,Washington,Dc,33278
+Northern Arizona University,Flagstaff,Arizona,33051
+Northwestern University,Evanston,Illinois,33041
+University Of Arkansas,Fayetteville,Arkansas,32804
+The University Of Texas At Dallas,Richardson,Texas,32772
+University Of Alabama At Birmingham,Birmingham,Alabama,32656
+California State Polytechnic University-Pomona,Pomona,California,32636
+Stanford University,Stanford,California,32626
+West Virginia University,Morgantown,West Virginia,32612
+Wayne State University,Detroit,Michigan,32539
+College Of Southern Nevada,Las Vegas,Nevada,32365
+Washington University In St Louis,Saint Louis,Missouri,32351
+Stony Brook University,Stony Brook,New York,32161
+Clemson University,Clemson,South Carolina,31991
+Weber State University,Ogden,Utah,31688
+University Of Nebraska-Lincoln,Lincoln,Nebraska,31540
+Utah State University,Logan,Utah,31436
+University Of California-Santa Barbara,Santa Barbara,California,31335
+University Of California-Riverside,Riverside,California,30913
+Salt Lake Community College,Salt Lake City,Utah,30721
+Kent State University At Kent,Kent,Ohio,30612
+San Francisco State University,San Francisco,California,30596
+South Texas College,Mcallen,Texas,30440
+Colorado Technical University-Colorado Springs,Colorado Springs,Colorado,30267
+University Of Chicago,Chicago,Illinois,30198
+Mt San Antonio College,Walnut,California,30125
+Georgia Southern University,Statesboro,Georgia,30116
+Oklahoma State University-Main Campus,Stillwater,Oklahoma,30037
+University Of Miami,Coral Gables,Florida,29973
+Columbus State Community College,Columbus,Ohio,29945
+Chamberlain University-Illinois,Addison,Illinois,29481
+Ohio University-Main Campus,Athens,Ohio,29401
+California State University-Los Angeles,Los Angeles,California,29389
+University Of Louisville,Louisville,Kentucky,29210
+University Of New Mexico-Main Campus,Albuquerque,New Mexico,29086
+St Petersburg College,Clearwater,Florida,29046
+Yale University,New Haven,Connecticut,28878
+Palm Beach State College,Lake Worth,Florida,28781
+University Of Delaware,Newark,Delaware,28522
+Drexel University,Philadelphia,Pennsylvania,28508
+El Paso Community College,El Paso,Texas,28306
+Mississippi State University,Mississippi State,Mississippi,28202
+University Of Wisconsin-Milwaukee,Milwaukee,Wisconsin,28132
+California State University-Fresno,Fresno,California,27985
+Northeastern University,Boston,Massachusetts,27955
+The University Of Texas At El Paso,El Paso,Texas,27843
+Santa Monica College,Santa Monica,California,27716
+Old Dominion University,Norfolk,Virginia,27526
+Boise State University,Boise,Idaho,27272
+Cuny Hunter College,New York,New York,27203
+Emory University,Atlanta,Georgia,26950
+Syracuse University,Syracuse,New York,26900
+Full Sail University,Winter Park,Florida,26899
+Portland State University,Portland,Oregon,26783
+University Of Oregon,Eugene,Oregon,26681
+American River College,Sacramento,California,26654
+Pasadena City College,Pasadena,California,26551
+Missouri State University-Springfield,Springfield,Missouri,26289
+Grand Valley State University,Allendale,Michigan,26284
+Bakersfield College,Bakersfield,California,25966
+Georgetown University,Washington,Dc,25662
+Kansas State University,Manhattan,Kansas,25635
+Portland Community College,Portland,Oregon,25631
+University Of Memphis,Memphis,Tennessee,25467
+Nova Southeastern University,Fort Lauderdale,Florida,25444
+James Madison University,Harrisonburg,Virginia,25330
+Depaul University,Chicago,Illinois,25295
+Massachusetts Institute Of Technology,Cambridge,Massachusetts,25286
+Cuny Borough Of Manhattan Community College,New York,New York,25263
+California Polytechnic State University-San Luis Obispo,San Luis Obispo,California,25254
+Ball State University,Muncie,Indiana,25208
+Towson University,Towson,Maryland,25129
+University Of Nevada-Reno,Reno,Nevada,25000
+Long Beach City College,Long Beach,California,24729
+Suffolk County Community College,Selden,New York,24716
+Middle Tennessee State University,Murfreesboro,Tennessee,24652
+Des Moines Area Community College,Ankeny,Iowa,24575
+Florida State College At Jacksonville,Jacksonville,Florida,24422
+Sam Houston State University,Huntsville,Texas,24407
+Illinois State University,Normal,Illinois,24258
+Montclair State University,Montclair,New Jersey,24106
+Keiser University-Ft Lauderdale,Fort Lauderdale,Florida,23904
+Wake Technical Community College,Raleigh,North Carolina,23872
+Fresno City College,Fresno,California,23680
+Rowan University,Glassboro,New Jersey,23638
+Central New Mexico Community College,Albuquerque,New Mexico,23292
+Appalachian State University,Boone,North Carolina,23259
+College Of Dupage,Glen Ellyn,Illinois,23225
+University Of California-Santa Cruz,Santa Cruz,California,23091
+Excelsior College,Albany,New York,23067
+University Of North Carolina At Greensboro,Greensboro,North Carolina,22811
+Montgomery College,Rockville,Maryland,22779
+Baylor University,Waco,Texas,22706
+Fullerton College,Fullerton,California,22647
+Western Michigan University,Kalamazoo,Michigan,22608
+St. John'S University-New York,Queens,New York,22603
+Palomar College,San Marcos,California,22506
+University Of Hawaii At Manoa,Honolulu,Hawaii,22457
+Cuny Bernard M Baruch College,New York,New York,22122
+Miami University-Oxford,Oxford,Ohio,22122
+Devry University-Illinois,Chicago,Illinois,22110
+Cuny Queens College,Queens,New York,22053
+Cuyahoga Community College District,Cleveland,Ohio,22007
+University Of North Georgia,Dahlonega,Georgia,21923
+College Of The Canyons,Santa Clarita,California,21813
+California State University-San Bernardino,San Bernardino,California,21777
+Hillsborough Community College,Tampa,Florida,21688
+El Camino Community College District,Torrance,California,21680
+San Diego Mesa College,San Diego,California,21616
+University Of Toledo,Toledo,Ohio,21610
+Cerritos College,Norwalk,California,21584
+City College Of San Francisco,San Francisco,California,21493
+National University,La Jolla,California,21431
+Chaffey College,Rancho Cucamonga,California,21404
+University Of Rochester,Rochester,New York,21328
+Santa Ana College,Santa Ana,California,21321
+Riverside City College,Riverside,California,21112
+Metropolitan State University Of Denver,Denver,Colorado,21004
+Oakland University,Rochester Hills,Michigan,20986
+Sacramento City College,Sacramento,California,20974
+Binghamton University,Vestal,New York,20959
+Suny At Albany,Albany,New York,20764
+University Of Rhode Island,Kingston,Rhode Island,20758
+Sinclair Community College,Dayton,Ohio,20546
+California State University-Dominguez Hills,Carson,California,20426
+San Antonio College,San Antonio,Texas,20419
+University Of North Carolina Wilmington,Wilmington,North Carolina,20394
+Loyola University Chicago,Chicago,Illinois,20366
+University Of The Cumberlands,Williamsburg,Kentucky,20362
+Bowling Green State University-Main Campus,Bowling Green,Ohio,20322
+Front Range Community College,Westminster,Colorado,20282
+Saddleback College,Mission Viejo,California,20211
+Rochester Institute Of Technology,Rochester,New York,20200
+Community College Of Baltimore County,Baltimore,Maryland,20170
+Cuny Brooklyn College,Brooklyn,New York,20147
+University Of Massachusetts-Lowell,Lowell,Massachusetts,20126
+Western Kentucky University,Bowling Green,Kentucky,19864
+Central Michigan University,Mount Pleasant,Michigan,19811
+Northern Illinois University,Dekalb,Illinois,19732
+Diablo Valley College,Pleasant Hill,California,19715
+Fordham University,Bronx,New York,19631
+De Anza College,Cupertino,California,19622
+West Chester University Of Pennsylvania,West Chester,Pennsylvania,19588
+Montana State University,Bozeman,Montana,19554
+Columbia Southern University,Orange Beach,Alabama,19536
+Tulane University Of Louisiana,New Orleans,Louisiana,19524
+Blinn College,Brenham,Texas,19491
+Northwest Vista College,San Antonio,Texas,19448
+Vanderbilt University,Nashville,Tennessee,19417
+Carnegie Mellon University,Pittsburgh,Pennsylvania,19307
+Central Piedmont Community College,Charlotte,North Carolina,19271
+Orange Coast College,Costa Mesa,California,19219
+University Of Missouri-Kansas City,Kansas City,Missouri,19161
+Cuny Laguardia Community College,Long Island City,New York,19132
+Boston College,Chestnut Hill,Massachusetts,19123
+University Of North Florida,Jacksonville,Florida,19108
+San Joaquin Delta College,Stockton,California,19036
+University Of Notre Dame,Notre Dame,Indiana,19035
+Southwestern College,Chula Vista,California,18957
+Troy University,Troy,Alabama,18836
+Mesa Community College,Mesa,Arizona,18794
+Rio Salado College,Tempe,Arizona,18769
+California State University-Chico,Chico,California,18659
+Sierra College,Rocklin,California,18642
+University Of Louisiana At Lafayette,Lafayette,Louisiana,18627
+University Of Akron Main Campus,Akron,Ohio,18608
+Los Angeles Pierce College,Woodland Hills,California,18464
+Tidewater Community College,Norfolk,Virginia,18408
+University Of Massachusetts-Boston,Boston,Massachusetts,18381
+Eastern Michigan University,Ypsilanti,Michigan,18301
+Santa Rosa Junior College,Santa Rosa,California,18300
+Georgia State University-Perimeter College,Atlanta,Georgia,18294
+Northern Kentucky University,Highland Heights,Kentucky,18182
+Macomb Community College,Warren,Michigan,18177
+Texas Woman'S University,Denton,Texas,18115
+Lamar University,Beaumont,Texas,18057
+University Of New Hampshire-Main Campus,Durham,New Hampshire,18021
+California State University-San Marcos,San Marcos,California,18014
+California State University-East Bay,Hayward,California,18010
+University Of Nebraska At Omaha,Omaha,Nebraska,17931
+Pima Community College,Tucson,Arizona,17915
+Cuny City College,New York,New York,17805
+Cuny John Jay College Of Criminal Justice,New York,New York,17769
+Harrisburg Area Community College,Harrisburg,Pennsylvania,17705
+Vincennes University,Vincennes,Indiana,17687
+Cuny New York City College Of Technology,Brooklyn,New York,17642
+Seminole State College Of Florida,Sanford,Florida,17635
+Wichita State University,Wichita,Kansas,17612
+Cleveland State University,Cleveland,Ohio,17600
+American University,Washington,Dc,17561
+Saint Louis University,Saint Louis,Missouri,17516
+University Of Vermont,Burlington,Vermont,17417
+New Mexico State University-Main Campus,Las Cruces,New Mexico,17389
+Western Washington University,Bellingham,Washington,17351
+Tulsa Community College,Tulsa,Oklahoma,17348
+Saint Louis Community College,Bridgeton,Missouri,17233
+Modesto Junior College,Modesto,California,17222
+University Of Denver,Denver,Colorado,17194
+Tufts University,Medford,Massachusetts,17113
+University Of Southern Mississippi,Hattiesburg,Mississippi,17101
+Florida Gulf Coast University,Fort Myers,Florida,17084
+American Intercontinental University,Chandler,Arizona,17069
+Cuny Lehman College,Bronx,New York,16943
+University Of California-San Francisco,San Francisco,California,16914
+Wilmington University,New Castle,Delaware,16867
+Eastern Kentucky University,Richmond,Kentucky,16828
+Los Angeles Valley College,Valley Glen,California,16790
+University Of Wisconsin-Oshkosh,Oshkosh,Wisconsin,16731
+Cuny Kingsborough Community College,Brooklyn,New York,16728
+Long Island University,Brookville,New York,16703
+University Of South Alabama,Mobile,Alabama,16692
+Indian River State College,Fort Pierce,Florida,16681
+University Of Houston-Downtown,Houston,Texas,16610
+Rio Hondo College,Whittier,California,16576
+Florida Southwestern State College,Fort Myers,Florida,16502
+University Of North Dakota,Grand Forks,North Dakota,16446
+Fort Hays State University,Hays,Kansas,16425
+The University Of Texas Health Science Center At Houston,Houston,Texas,16413
+Grossmont College,El Cajon,California,16406
+Minnesota State University-Mankato,Mankato,Minnesota,16365
+East Tennessee State University,Johnson City,Tennessee,16253
+Cypress College,Cypress,California,16203
+Wake Forest University,Winston-Salem,North Carolina,16188
+Southern Illinois University-Carbondale,Carbondale,Illinois,16170
+Ecpi University,Virginia Beach,Virginia,16127
+Savannah College Of Art And Design,Savannah,Georgia,16051
+Johnson County Community College,Overland Park,Kansas,16048
+Case Western Reserve University,Cleveland,Ohio,16040
+Pace University,New York,New York,16030
+Metropolitan Community College-Kansas City,Kansas City,Missouri,15983
+University Of Central Oklahoma,Edmond,Oklahoma,15970
+Kean University,Union,New Jersey,15950
+Southeastern Louisiana University,Hammond,Louisiana,15949
+Glendale Community College,Glendale,Arizona,15926
+University Of Maryland-Baltimore County,Baltimore,Maryland,15909
+Nassau Community College,Garden City,New York,15664
+Oakland Community College,Bloomfield Hills,Michigan,15662
+Los Angeles City College,Los Angeles,California,15605
+Post University,Waterbury,Connecticut,15603
+San Diego City College,San Diego,California,15561
+University Of Missouri-St Louis,Saint Louis,Missouri,15528
+Mt San Jacinto Community College District,San Jacinto,California,15396
+Eastern Florida State College,Cocoa,Florida,15391
+North Dakota State University-Main Campus,Fargo,North Dakota,15380
+Southern Illinois University-Edwardsville,Edwardsville,Illinois,15303
+Tarleton State University,Stephenville,Texas,15301
+Cosumnes River College,Sacramento,California,15287
+Foothill College,Los Altos Hills,California,15286
+Southern Methodist University,Dallas,Texas,15204
+Rutgers University-Newark,Newark,New Jersey,15191
+University Of West Georgia,Carrollton,Georgia,15073
+Arkansas State University,Jonesboro,Arkansas,15053
+Metropolitan Community College Area,Omaha,Nebraska,15025
+Madison Area Technical College,Madison,Wisconsin,15018
+Moorpark College,Moorpark,California,15005
+Princeton University,Princeton,New Jersey,14959
+Community College Of Allegheny County,Pittsburgh,Pennsylvania,14888
+Community College Of Philadelphia,Philadelphia,Pennsylvania,14837
+Community College Of Rhode Island,Warwick,Rhode Island,14821
+The University Of West Florida,Pensacola,Florida,14804
+Embry-Riddle Aeronautical University-Worldwide,Daytona Beach,Florida,14797
+North Carolina A & T State University,Greensboro,North Carolina,14746
+University Of Wyoming,Laramie,Wyoming,14737
+University Of Dayton,Dayton,Ohio,14723
+Augusta University,Augusta,Georgia,14608
+Milwaukee Area Technical College,Milwaukee,Wisconsin,14607
+Brown University,Providence,Rhode Island,14602
+College Of Staten Island Cuny,Staten Island,New York,14598
+Bellevue University,Bellevue,Nebraska,14569
+Delgado Community College,New Orleans,Louisiana,14531
+Delaware Technical Community College-Terry,Dover,Delaware,14512
+Chandler-Gilbert Community College,Chandler,Arizona,14479
+University Of Maryland,Baltimore,Maryland,14456
+Marquette University,Milwaukee,Wisconsin,14361
+Stephen F Austin State University,Nacogdoches,Texas,14301
+University Of Maine,Orono,Maine,14221
+Icahn School Of Medicine At Mount Sinai,New York,New York,14219
+Touro College,New York,New York,14139
+Daytona State College,Daytona Beach,Florida,14124
+Texas Christian University,Fort Worth,Texas,14068
+Western Carolina University,Cullowhee,North Carolina,14067
+Glendale Community College,Glendale,California,14045
+San Diego Miramar College,San Diego,California,14026
+Cuny Queensborough Community College,Bayside,New York,13996
+University Of Colorado Colorado Springs,Colorado Springs,Colorado,13971
+Villanova University,Villanova,Pennsylvania,13968
+Thomas Jefferson University,Philadelphia,Pennsylvania,13939
+University Of Alaska Anchorage,Anchorage,Alaska,13923
+Marshall University,Huntington,West Virginia,13921
+Campbellsville University,Campbellsville,Kentucky,13821
+Southern Utah University,Cedar City,Utah,13780
+The University Of Tennessee-Chattanooga,Chattanooga,Tennessee,13754
+Santa Fe College,Gainesville,Florida,13753
+Miracosta College,Oceanside,California,13753
+Eastern Washington University,Cheney,Washington,13716
+Kirkwood Community College,Cedar Rapids,Iowa,13689
+Idaho State University,Pocatello,Idaho,13645
+Howard University,Washington,Dc,13635
+William Rainey Harper College,Palatine,Illinois,13604
+Valdosta State University,Valdosta,Georgia,13567
+Pikes Peak Community College,Colorado Springs,Colorado,13558
+Anne Arundel Community College,Arnold,Maryland,13538
+St Philip'S College,San Antonio,Texas,13532
+Texas A & M University-Commerce,Commerce,Texas,13510
+New Jersey Institute Of Technology,Newark,New Jersey,13482
+Santa Barbara City College,Santa Barbara,California,13444
+Bellevue College,Bellevue,Washington,13400
+College Of The Sequoias,Visalia,California,13379
+Colorado State University-Global Campus,Aurora,Colorado,13341
+Youngstown State University,Youngstown,Ohio,13335
+Dixie State University,Saint George,Utah,13327
+South Dakota State University,Brookings,South Dakota,13288
+College Of Lake County,Grayslake,Illinois,13288
+University Of Wisconsin-Whitewater,Whitewater,Wisconsin,13246
+San Bernardino Valley College,San Bernardino,California,13244
+Antelope Valley College,Lancaster,California,13223
+Grand Rapids Community College,Grand Rapids,Michigan,13191
+University Of Idaho,Moscow,Idaho,13185
+Northcentral University,La Jolla,California,13097
+Saint Cloud State University,Saint Cloud,Minnesota,13081
+Fox Valley Technical College,Appleton,Wisconsin,13060
+Tyler Junior College,Tyler,Texas,13048
+California State University-Bakersfield,Bakersfield,California,13040
+University Of Northern Colorado,Greeley,Colorado,12990
+Prince George'S Community College,Largo,Maryland,12968
+Irvine Valley College,Irvine,California,12968
+Oklahoma City Community College,Oklahoma City,Oklahoma,12935
+Jefferson Community And Technical College,Louisville,Kentucky,12931
+Ozarks Technical Community College,Springfield,Missouri,12883
+Wright State University-Main Campus,Dayton,Ohio,12881
+Hofstra University,Hempstead,New York,12873
+Oregon Health & Science University,Portland,Oregon,12791
+California Baptist University,Riverside,California,12757
+Ferris State University,Big Rapids,Michigan,12733
+Arapahoe Community College,Littleton,Colorado,12727
+Hinds Community College,Raymond,Mississippi,12718
+Central Washington University,Ellensburg,Washington,12717
+Tallahassee Community College,Tallahassee,Florida,12688
+Trident Technical College,Charleston,South Carolina,12684
+Georgia Gwinnett College,Lawrenceville,Georgia,12641
+Chabot College,Hayward,California,12626
+Citrus College,Glendora,California,12619
+Indiana State University,Terre Haute,Indiana,12614
+Independence University,Salt Lake City,Utah,12602
+Northeastern University Lifelong Learning Network,Boston,Massachusetts,12592
+Bergen Community College,Paramus,New Jersey,12569
+Northwestern State University Of Louisiana,Natchitoches,Louisiana,12460
+California State University-Stanislaus,Turlock,California,12452
+Louisiana Tech University,Ruston,Louisiana,12449
+Maryville University Of Saint Louis,Saint Louis,Missouri,12436
+Radford University,Radford,Virginia,12399
+Brandman University,Irvine,California,12399
+Ventura College,Ventura,California,12365
+Washtenaw Community College,Ann Arbor,Michigan,12355
+University Of Wisconsin-Eau Claire,Eau Claire,Wisconsin,12300
+Texas A & M University-Corpus Christi,Corpus Christi,Texas,12293
+Henry Ford College,Dearborn,Michigan,12290
+Fayetteville Technical Community College,Fayetteville,North Carolina,12266
+College Of Charleston,Charleston,South Carolina,12242
+Lansing Community College,Lansing,Michigan,12207
+Central Connecticut State University,New Britain,Connecticut,12196
+Moraine Valley Community College,Palos Hills,Illinois,12182
+Texas State Technical College,Waco,Texas,12178
+Bridgewater State University,Bridgewater,Massachusetts,12164
+Del Mar College,Corpus Christi,Texas,12096
+University Of San Francisco,San Francisco,California,12077
+The New School,New York,New York,12064
+West Los Angeles College,Culver City,California,12061
+Golden West College,Huntington Beach,California,12031
+Guilford Technical Community College,Jamestown,North Carolina,12017
+The University Of Montana,Missoula,Montana,12017
+Los Angeles Trade Technical College,Los Angeles,California,12014
+Arkansas Tech University,Russellville,Arkansas,11954
+Chapman University,Orange,California,11951
+Suny Empire State College,Saratoga Springs,New York,11890
+University Of Central Arkansas,Conway,Arkansas,11890
+Loyola Marymount University,Los Angeles,California,11878
+University Of Minnesota-Duluth,Duluth,Minnesota,11858
+Northeast Wisconsin Technical College,Green Bay,Wisconsin,11851
+Wayne County Community College District,Detroit,Michigan,11826
+University Of Wisconsin-La Crosse,La Crosse,Wisconsin,11808
+Greenville Technical College,Greenville,South Carolina,11796
+Palo Alto College,San Antonio,Texas,11760
+William & Mary,Williamsburg,Virginia,11750
+College Of The Desert,Palm Desert,California,11741
+Angelo State University,San Angelo,Texas,11732
+Joliet Junior College,Joliet,Illinois,11692
+Central Texas College,Killeen,Texas,11681
+College Of Western Idaho,Nampa,Idaho,11643
+Pepperdine University,Malibu,California,11626
+Austin Peay State University,Clarksville,Tennessee,11626
+Coastal Carolina University,Conway,South Carolina,11621
+Seton Hall University,South Orange,New Jersey,11614
+Stark State College,North Canton,Ohio,11594
+University Of Alabama In Huntsville,Huntsville,Alabama,11591
+Victor Valley College,Victorville,California,11577
+University Of St Thomas,Saint Paul,Minnesota,11572
+Quinnipiac University,Hamden,Connecticut,11564
+Tennessee Technological University,Cookeville,Tennessee,11533
+William Paterson University Of New Jersey,Wayne,New Jersey,11518
+Park University,Parkville,Missouri,11508
+Farmingdale State College,Farmingdale,New York,11492
+Monroe Community College,Rochester,New York,11482
+University Of Southern Indiana,Evansville,Indiana,11480
+Indiana University Of Pennsylvania-Main Campus,Indiana,Pennsylvania,11480
+Stockton University,Galloway,New Jersey,11479
+Merced College,Merced,California,11476
+Saint Leo University,Saint Leo,Florida,11331
+Suny Westchester Community College,Valhalla,New York,11296
+Brookdale Community College,Lincroft,New Jersey,11294
+Middlesex County College,Edison,New Jersey,11266
+University Of Northern Iowa,Cedar Falls,Iowa,11264
+University Of Central Missouri,Warrensburg,Missouri,11236
+University Of San Diego,San Diego,California,11226
+Bluegrass Community And Technical College,Lexington,Kentucky,11216
+Lorain County Community College,Elyria,Ohio,11208
+Southeast Missouri State University,Cape Girardeau,Missouri,11205
+Rice University,Houston,Texas,11186
+Truckee Meadows Community College,Reno,Nevada,11172
+Regent University,Virginia Beach,Virginia,11143
+Allan Hancock College,Santa Maria,California,11085
+The University Of Texas At Tyler,Tyler,Texas,11071
+Southern Connecticut State University,New Haven,Connecticut,11055
+Mercy College,Dobbs Ferry,New York,11039
+University Of South Dakota,Vermillion,South Dakota,11026
+Cuny Graduate School And University Center,New York,New York,11015
+Florida Agricultural And Mechanical University,Tallahassee,Florida,11014
+Creighton University,Omaha,Nebraska,11004
+Azusa Pacific University,Azusa,California,10969
+Mercer University,Macon,Georgia,10965
+West Texas A & M University,Canyon,Texas,10964
+Delaware County Community College,Media,Pennsylvania,10961
+The University Of Tampa,Tampa,Florida,10960
+Indiana Wesleyan University-National & Global,Marion,Indiana,10944
+Duquesne University,Pittsburgh,Pennsylvania,10939
+Montgomery County Community College,Blue Bell,Pennsylvania,10900
+Sacred Heart University,Fairfield,Connecticut,10896
+Polk State College,Winter Haven,Florida,10892
+Bunker Hill Community College,Boston,Massachusetts,10853
+Phoenix College,Phoenix,Arizona,10841
+Thomas Edison State University,Trenton,New Jersey,10804
+University Of California-Merced,Merced,California,10802
+Cuesta College,San Luis Obispo,California,10780
+Northampton County Area Community College,Bethlehem,Pennsylvania,10770
+Howard Community College,Columbia,Maryland,10755
+Norco College,Norco,California,10748
+Murray State University,Murray,Kentucky,10745
+Pasco-Hernando State College,New Port Richey,Florida,10631
+Cabrillo College,Aptos,California,10545
+Rasmussen University-Florida,Ocala,Florida,10519
+Prairie View A & M University,Prairie View,Texas,10518
+Purdue University Northwest,Hammond,Indiana,10505
+Academy Of Art University,San Francisco,California,10505
+Baylor College Of Medicine,Houston,Texas,10496
+University Of Texas Southwestern Medical Center,Dallas,Texas,10487
+Santa Clara University,Santa Clara,California,10459
+Strayer University-Global Region,Washington,Dc,10457
+Southeast Community College Area,Lincoln,Nebraska,10433
+Louisiana State University-Shreveport,Shreveport,Louisiana,10422
+Southeastern University,Lakeland,Florida,10410
+Embry-Riddle Aeronautical University-Daytona Beach,Daytona Beach,Florida,10365
+Jacksonville State University,Jacksonville,Alabama,10356
+Morehead State University,Morehead,Kentucky,10349
+Butte College,Oroville,California,10345
+Pellissippi State Community College,Knoxville,Tennessee,10318
+University Of Arkansas At Little Rock,Little Rock,Arkansas,10287
+Dartmouth College,Hanover,New Hampshire,10253
+Cape Fear Community College,Wilmington,North Carolina,10231
+Chattahoochee Technical College,Marietta,Georgia,10229
+Texas Tech University Health Sciences Center,Lubbock,Texas,10184
+Laredo College,Laredo,Texas,10149
+Colorado Mesa University,Grand Junction,Colorado,10137
+Aspen University,Denver,Colorado,10113
+Erie Community College,Buffalo,New York,10082
+John Tyler Community College,Chester,Virginia,10070
+Amarillo College,Amarillo,Texas,10034
+Normandale Community College,Bloomington,Minnesota,10027
+State College Of Florida-Manatee-Sarasota,Bradenton,Florida,10026
+Pensacola State College,Pensacola,Florida,10002
+Folsom Lake College,Folsom,California,9978
+Los Angeles Mission College,Sylmar,California,9947
+Suny Buffalo State,Buffalo,New York,9915
+University Of Louisiana At Monroe,Monroe,Louisiana,9908
+University Of Houston-Clear Lake,Houston,Texas,9873
+Triton College,River Grove,Illinois,9862
+Eastern Illinois University,Charleston,Illinois,9861
+Hudson Valley Community College,Troy,New York,9843
+Fashion Institute Of Technology,New York,New York,9843
+Slippery Rock University Of Pennsylvania,Slippery Rock,Pennsylvania,9801
+Midlands Technical College,West Columbia,South Carolina,9800
+University Of Michigan-Dearborn,Dearborn,Michigan,9796
+Solano Community College,Fairfield,California,9772
+University Of Wisconsin-Green Bay,Green Bay,Wisconsin,9769
+Moreno Valley College,Moreno Valley,California,9754
+Onondaga Community College,Syracuse,New York,9744
+South Plains College,Levelland,Texas,9724
+Cuny Bronx Community College,Bronx,New York,9718
+Salisbury University,Salisbury,Maryland,9718
+Belmont University,Nashville,Tennessee,9699
+Webster University,Saint Louis,Missouri,9692
+Santiago Canyon College,Orange,California,9673
+Ohlone College,Fremont,California,9668
+University Of Southern Maine,Portland,Maine,9663
+Laney College,Oakland,California,9658
+Volunteer State Community College,Gallatin,Tennessee,9629
+Mississippi Gulf Coast Community College,Perkinston,Mississippi,9591
+Estrella Mountain Community College,Avondale,Arizona,9589
+Gwinnett Technical College,Lawrenceville,Georgia,9585
+University Of The Incarnate Word,San Antonio,Texas,9512
+North Carolina Central University,Durham,North Carolina,9482
+Columbus State University,Columbus,Georgia,9481
+The University Of Texas Health Science Center At San Antonio,San Antonio,Texas,9476
+Bloomsburg University Of Pennsylvania,Bloomsburg,Pennsylvania,9466
+North Central Texas College,Gainesville,Texas,9449
+University Of New Orleans,New Orleans,Louisiana,9447
+The College Of New Jersey,Ewing,New Jersey,9439
+University Of Wisconsin-Stevens Point,Stevens Point,Wisconsin,9429
+Morgan State University,Baltimore,Maryland,9402
+Purdue University Fort Wayne,Fort Wayne,Indiana,9389
+Columbia College,Columbia,Missouri,9384
+Texas A & M International University,Laredo,Texas,9351
+Texas Southmost College,Brownsville,Texas,9341
+Adelphi University,Garden City,New York,9312
+Coastline Community College,Fountain Valley,California,9284
+University Of North Carolina At Pembroke,Pembroke,North Carolina,9277
+Union County College,Cranford,New Jersey,9265
+Middle Georgia State University,Macon,Georgia,9261
+Sonoma State University,Rohnert Park,California,9259
+Cuyamaca College,El Cajon,California,9249
+Skyline College,San Bruno,California,9240
+Clovis Community College,Fresno,California,9237
+Jefferson State Community College,Birmingham,Alabama,9228
+Chemeketa Community College,Salem,Oregon,9226
+University Of Oklahoma-Health Sciences Center,Oklahoma City,Oklahoma,9216
+Hartnell College,Salinas,California,9212
+Ultimate Medical Academy,Clearwater,Florida,9206
+Rensselaer Polytechnic Institute,Troy,New York,9174
+Evergreen Valley College,San Jose,California,9156
+Pierce College District,Lakewood,Washington,9084
+Forsyth Technical Community College,Winston-Salem,North Carolina,9084
+University Of Massachusetts-Dartmouth,North Dartmouth,Massachusetts,9075
+Saginaw Valley State University,University Center,Michigan,9073
+Camden County College,Blackwood,New Jersey,9065
+University Of Wisconsin-Stout,Menomonie,Wisconsin,9046
+Central Georgia Technical College,Warner Robins,Georgia,9038
+John C Calhoun State Community College,Tanner,Alabama,9032
+Weill Medical College Of Cornell University,New York,New York,9025
+University Of Alaska Fairbanks,Fairbanks,Alaska,9015
+Los Medanos College,Pittsburg,California,8995
+University Of North Alabama,Florence,Alabama,8986
+Tennessee State University,Nashville,Tennessee,8978
+Anoka-Ramsey Community College,Coon Rapids,Minnesota,8964
+Mcphs University,Boston,Massachusetts,8938
+Schoolcraft College,Livonia,Michigan,8930
+Lehigh University,Bethlehem,Pennsylvania,8928
+Gonzaga University,Spokane,Washington,8902
+Colorado Christian University,Lakewood,Colorado,8900
+Missouri University Of Science And Technology,Rolla,Missouri,8898
+Elgin Community College,Elgin,Illinois,8894
+Clark College,Vancouver,Washington,8888
+Suny Brockport,Brockport,New York,8887
+Pitt Community College,Winterville,North Carolina,8887
+Suny College At Oswego,Oswego,New York,8877
+New Jersey City University,Jersey City,New Jersey,8871
+San Jose City College,San Jose,California,8855
+Century College,White Bear Lake,Minnesota,8824
+Cuny York College,Jamaica,New York,8801
+Kutztown University Of Pennsylvania,Kutztown,Pennsylvania,8799
+State University Of New York At New Paltz,New Paltz,New York,8794
+Shasta College,Redding,California,8774
+Western Illinois University,Macomb,Illinois,8770
+Barry University,Miami,Florida,8728
+Dutchess Community College,Poughkeepsie,New York,8726
+University Of Nebraska Medical Center,Omaha,Nebraska,8723
+Elon University,Elon,North Carolina,8707
+Lindenwood University,Saint Charles,Missouri,8698
+Georgia Military College,Milledgeville,Georgia,8678
+Gateway Technical College,Kenosha,Wisconsin,8626
+Illinois Central College,East Peoria,Illinois,8598
+Seattle University,Seattle,Washington,8581
+Los Angeles Harbor College,Wilmington,California,8570
+Waubonsee Community College,Sugar Grove,Illinois,8569
+Metropolitan State University,Saint Paul,Minnesota,8566
+University Of Wisconsin-Platteville,Platteville,Wisconsin,8557
+Ocean County College,Toms River,New Jersey,8540
+Mclennan Community College,Waco,Texas,8536
+J Sargeant Reynolds Community College,Richmond,Virginia,8524
+City Colleges Of Chicago-Wilbur Wright College,Chicago,Illinois,8521
+Salem State University,Salem,Massachusetts,8518
+American College Of Education,Indianapolis,Indiana,8517
+Lane Community College,Eugene,Oregon,8508
+University Of New England,Biddeford,Maine,8505
+Las Positas College,Livermore,California,8488
+National Louis University,Chicago,Illinois,8486
+Owens Community College,Perrysburg,Ohio,8485
+Scottsdale Community College,Scottsdale,Arizona,8478
+Xavier University,Cincinnati,Ohio,8455
+Millersville University Of Pennsylvania,Millersville,Pennsylvania,8421
+California State University-Monterey Bay,Seaside,California,8415
+Stevens Institute Of Technology,Hoboken,New Jersey,8411
+New York Institute Of Technology,Old Westbury,New York,8409
+California State University-Channel Islands,Camarillo,California,8392
+Michigan Technological University,Houghton,Michigan,8392
+Northern Michigan University,Marquette,Michigan,8388
+Everett Community College,Everett,Washington,8378
+Chattanooga State Community College,Chattanooga,Tennessee,8378
+Fairleigh Dickinson University-Metropolitan Campus,Teaneck,New Jersey,8376
+Texas Southern University,Houston,Texas,8357
+Mchenry County College,Crystal Lake,Illinois,8348
+Rutgers University-Camden,Camden,New Jersey,8332
+Northeastern Illinois University,Chicago,Illinois,8323
+Northeastern State University,Tahlequah,Oklahoma,8322
+Southwest Tennessee Community College,Memphis,Tennessee,8293
+Oakton Community College,Des Plaines,Illinois,8290
+Community College Of Aurora,Aurora,Colorado,8281
+The University Of Tennessee Health Science Center,Memphis,Tennessee,8256
+Germanna Community College,Locust Grove,Virginia,8244
+Green River College,Auburn,Washington,8227
+Rowan College At Burlington County,Mount Laurel,New Jersey,8226
+University Of The Pacific,Stockton,California,8214
+Spokane Community College,Spokane,Washington,8209
+Berklee College Of Music,Boston,Massachusetts,8208
+Worcester Polytechnic Institute,Worcester,Massachusetts,8203
+Rhode Island College,Providence,Rhode Island,8190
+Northwest Arkansas Community College,Bentonville,Arkansas,8174
+Columbia College Chicago,Chicago,Illinois,8166
+Lee College,Baytown,Texas,8162
+Colorado School Of Mines,Golden,Colorado,8161
+College Of Southern Idaho,Twin Falls,Idaho,8143
+Suffolk University,Boston,Massachusetts,8115
+Chippewa Valley Technical College,Eau Claire,Wisconsin,8098
+University Of New Haven,West Haven,Connecticut,8096
+Jackson State University,Jackson,Mississippi,8089
+Winona State University,Winona,Minnesota,8084
+The University Of Tennessee-Martin,Martin,Tennessee,8082
+Suny Cortland,Cortland,New York,8078
+Southern University And A & M College,Baton Rouge,Louisiana,8076
+Rowan-Cabarrus Community College,Salisbury,North Carolina,8053
+Northwest Missouri State University,Maryville,Missouri,8049
+Mcneese State University,Lake Charles,Louisiana,8043
+Bucks County Community College,Newtown,Pennsylvania,8027
+West Valley College,Saratoga,California,8023
+College Of San Mateo,San Mateo,California,7987
+University Of Hartford,West Hartford,Connecticut,7965
+University Of La Verne,La Verne,California,7953
+University Of Arkansas For Medical Sciences,Little Rock,Arkansas,7949
+Waukesha County Technical College,Pewaukee,Wisconsin,7944
+Saint Joseph'S University,Philadelphia,Pennsylvania,7940
+Hudson County Community College,Jersey City,New Jersey,7938
+Georgia College & State University,Milledgeville,Georgia,7935
+Quinsigamond Community College,Worcester,Massachusetts,7929
+Auguste Escoffier School Of Culinary Arts-Boulder,Boulder,Colorado,7920
+Baton Rouge Community College,Baton Rouge,Louisiana,7918
+City Colleges Of Chicago-Malcolm X College,Chicago,Illinois,7915
+Nevada State College,Henderson,Nevada,7908
+Texas A & M University-Kingsville,Kingsville,Texas,7900
+University Of Cincinnati-Clermont College,Batavia,Ohio,7896
+Butler Community College,El Dorado,Kansas,7877
+Clayton State University,Morrow,Georgia,7863
+Community College Of Denver,Denver,Colorado,7843
+Raritan Valley Community College,Branchburg,New Jersey,7839
+Florida Institute Of Technology,Melbourne,Florida,7838
+Northwest Mississippi Community College,Senatobia,Mississippi,7815
+Southwestern Illinois College,Belleville,Illinois,7807
+Marist College,Poughkeepsie,New York,7797
+University Of Michigan-Flint,Flint,Michigan,7793
+Navarro College,Corsicana,Texas,7781
+Cincinnati State Technical And Community College,Cincinnati,Ohio,7780
+Delta College,University Center,Michigan,7773
+Suny Oneonta,Oneonta,New York,7770
+Eastern Iowa Community College District,Davenport,Iowa,7766
+Humboldt State University,Arcata,California,7705
+Kalamazoo Valley Community College,Kalamazoo,Michigan,7704
+Southwest Minnesota State University,Marshall,Minnesota,7698
+University Of Cincinnati-Blue Ash College,Blue Ash,Ohio,7691
+Monterey Peninsula College,Monterey,California,7685
+Odessa College,Odessa,Texas,7684
+Nashville State Community College,Nashville,Tennessee,7675
+New Mexico State University-Dona Ana,Las Cruces,New Mexico,7671
+Middlesex Community College,Bedford,Massachusetts,7641
+California University Of Pennsylvania,California,Pennsylvania,7640
+Illinois Institute Of Technology,Chicago,Illinois,7629
+Medical College Of Wisconsin,Milwaukee,Wisconsin,7616
+Asheville-Buncombe Technical Community College,Asheville,North Carolina,7594
+Imperial Valley College,Imperial,California,7590
+Fayetteville State University,Fayetteville,North Carolina,7590
+Regis University,Denver,Colorado,7538
+Baker College,Owosso,Michigan,7519
+Nicholls State University,Thibodaux,Louisiana,7509
+Fitchburg State University,Fitchburg,Massachusetts,7506
+Simmons University,Boston,Massachusetts,7499
+Saint Johns River State College,Palatka,Florida,7492
+Texas A&M University-San Antonio,San Antonio,Texas,7479
+Beth Medrash Govoha,Lakewood,New Jersey,7460
+Mt Hood Community College,Gresham,Oregon,7459
+County College Of Morris,Randolph,New Jersey,7445
+Widener University,Chester,Pennsylvania,7444
+Strayer University-Georgia,Atlanta,Georgia,7441
+Paradise Valley Community College,Phoenix,Arizona,7431
+Brandeis University,Waltham,Massachusetts,7425
+Rose State College,Midwest City,Oklahoma,7420
+Monroe College,Bronx,New York,7410
+Coastal Alabama Community College,Bay Minette,Alabama,7395
+Reedley College,Reedley,California,7365
+Pittsburg State University,Pittsburg,Kansas,7361
+Lewis University,Romeoville,Illinois,7352
+Edmonds College,Lynnwood,Washington,7345
+Oxnard College,Oxnard,California,7342
+Arizona Western College,Yuma,Arizona,7317
+Campbell University,Buies Creek,North Carolina,7300
+Columbia Basin College,Pasco,Washington,7296
+Franklin University,Columbus,Ohio,7272
+Albany State University,Albany,Georgia,7260
+Georgia Northwestern Technical College,Rome,Georgia,7200
+Cuny Hostos Community College,Bronx,New York,7194
+Bristol Community College,Fall River,Massachusetts,7190
+The Catholic University Of America,Washington,Dc,7186
+Bowie State University,Bowie,Maryland,7183
+Concordia University-Chicago,River Forest,Illinois,7174
+Mercer County Community College,West Windsor,New Jersey,7166
+Davenport University,Grand Rapids,Michigan,7148
+University Of Nebraska At Kearney,Kearney,Nebraska,7139
+Aurora University,Aurora,Illinois,7131
+Motlow State Community College,Tullahoma,Tennessee,7109
+Monmouth University,West Long Branch,New Jersey,7096
+City Colleges Of Chicago-Harold Washington College,Chicago,Illinois,7092
+Yeshiva University,New York,New York,7063
+West Georgia Technical College,Waco,Georgia,7057
+Essex County College,Newark,New Jersey,7043
+Norfolk State University,Norfolk,Virginia,7038
+University Of Washington-Bothell Campus,Bothell,Washington,7023
+College Of Southern Maryland,La Plata,Maryland,7002
+Northeast Lakeview College,Universal City,Texas,6990
+Grantham University,Lenexa,Kansas,6988
+Rowan College Of South Jersey Gloucester Campus,Sewell,New Jersey,6971
+Horry-Georgetown Technical College,Conway,South Carolina,6966
+Ramapo College Of New Jersey,Mahwah,New Jersey,6947
+Mission College,Santa Clara,California,6946
+Southwest Texas Junior College,Uvalde,Texas,6939
+Minneapolis Community And Technical College,Minneapolis,Minnesota,6927
+Shippensburg University Of Pennsylvania,Shippensburg,Pennsylvania,6921
+University Of South Carolina-Upstate,Spartanburg,South Carolina,6908
+Samford University,Birmingham,Alabama,6898
+Alabama A & M University,Normal,Alabama,6895
+Lord Fairfax Community College,Middletown,Virginia,6894
+Orange County Community College,Middletown,New York,6881
+Kapiolani Community College,Honolulu,Hawaii,6879
+Bradley University,Peoria,Illinois,6869
+Johnson & Wales University-Providence,Providence,Rhode Island,6862
+Thomas Nelson Community College,Hampton,Virginia,6834
+Washburn University,Topeka,Kansas,6833
+Lehigh Carbon Community College,Schnecksville,Pennsylvania,6831
+College Of Central Florida,Ocala,Florida,6829
+Biola University,La Mirada,California,6819
+Butler University,Indianapolis,Indiana,6816
+Aims Community College,Greeley,Colorado,6798
+Leeward Community College,Pearl City,Hawaii,6798
+Tacoma Community College,Tacoma,Washington,6787
+Central Community College,Grand Island,Nebraska,6772
+Ithaca College,Ithaca,New York,6727
+Red Rocks Community College,Lakewood,Colorado,6723
+St Charles Community College,Cottleville,Missouri,6721
+Colorado State University Pueblo,Pueblo,Colorado,6718
+Frederick Community College,Frederick,Maryland,6718
+Fairfield University,Fairfield,Connecticut,6685
+Rockland Community College,Suffern,New York,6669
+Wharton County Junior College,Wharton,Texas,6659
+Seattle Central College,Seattle,Washington,6656
+Massasoit Community College,Brockton,Massachusetts,6647
+University Of Indianapolis,Indianapolis,Indiana,6647
+Contra Costa College,San Pablo,California,6645
+Yavapai College,Prescott,Arizona,6633
+Gateway Community College,New Haven,Connecticut,6631
+Midwestern State University,Wichita Falls,Texas,6622
+Mott Community College,Flint,Michigan,6619
+Winthrop University,Rock Hill,South Carolina,6610
+University Of Wisconsin-River Falls,River Falls,Wisconsin,6602
+Iowa Western Community College,Council Bluffs,Iowa,6601
+Worcester State University,Worcester,Massachusetts,6599
+High Point University,High Point,North Carolina,6596
+Emporia State University,Emporia,Kansas,6575
+Merritt College,Oakland,California,6562
+St. Thomas University,Miami Gardens,Florida,6558
+Concordia University-Wisconsin,Mequon,Wisconsin,6549
+Crafton Hills College,Yucaipa,California,6540
+The University Of Texas Permian Basin,Odessa,Texas,6536
+University Of Arkansas-Fort Smith,Fort Smith,Arkansas,6533
+Bossier Parish Community College,Bossier City,Louisiana,6511
+Alvin Community College,Alvin,Texas,6493
+University Of Massachusetts Medical School Worcester,Worcester,Massachusetts,6492
+East Stroudsburg University Of Pennsylvania,East Stroudsburg,Pennsylvania,6488
+Highline College,Des Moines,Washington,6486
+Rock Valley College,Rockford,Illinois,6476
+Northcentral Technical College,Wausau,Wisconsin,6476
+South University-Savannah Online,Savannah,Georgia,6463
+United States Military Academy,West Point,New York,6454
+Snow College,Ephraim,Utah,6441
+Parkland College,Champaign,Illinois,6422
+Columbia State Community College,Columbia,Tennessee,6421
+Westfield State University,Westfield,Massachusetts,6420
+Loyola University Maryland,Baltimore,Maryland,6416
+Southern Maine Community College,South Portland,Maine,6388
+Medical University Of South Carolina,Charleston,South Carolina,6371
+Berkeley City College,Berkeley,California,6368
+South Louisiana Community College,Lafayette,Louisiana,6366
+Passaic County Community College,Paterson,New Jersey,6359
+Mohawk Valley Community College,Utica,New York,6357
+Walters State Community College,Morristown,Tennessee,6347
+Abilene Christian University,Abilene,Texas,6335
+Emerson College,Boston,Massachusetts,6324
+University Of West Alabama,Livingston,Alabama,6322
+Clackamas Community College,Oregon City,Oregon,6318
+Molloy College,Rockville Centre,New York,6297
+Merrimack College,North Andover,Massachusetts,6291
+Elizabethtown Community And Technical College,Elizabethtown,Kentucky,6275
+Edward Via College Of Osteopathic Medicine,Blacksburg,Virginia,6272
+South College,Knoxville,Tennessee,6267
+Bryant & Stratton College-Online,Orchard Park,New York,6266
+Saint Paul College,Saint Paul,Minnesota,6259
+Tri-County Technical College,Pendleton,South Carolina,6250
+Virginia Western Community College,Roanoke,Virginia,6245
+William Carey University,Hattiesburg,Mississippi,6244
+Colorado Mountain College,Glenwood Springs,Colorado,6230
+Western Connecticut State University,Danbury,Connecticut,6225
+Minnesota State University Moorhead,Moorhead,Minnesota,6222
+Bentley University,Waltham,Massachusetts,6212
+University Of Detroit Mercy,Detroit,Michigan,6207
+San Juan College,Farmington,New Mexico,6203
+Georgia Highlands College,Rome,Georgia,6195
+Trinity Valley Community College,Athens,Texas,6188
+Olympic College,Bremerton,Washington,6182
+Lee University,Cleveland,Tennessee,6180
+Lincoln Memorial University,Harrogate,Tennessee,6171
+Los Angeles Film School,Hollywood,California,6169
+Concordia University-Saint Paul,Saint Paul,Minnesota,6166
+Southeastern Oklahoma State University,Durant,Oklahoma,6164
+Minnesota State Community And Technical College,Fergus Falls,Minnesota,6164
+North Hennepin Community College,Brooklyn Park,Minnesota,6141
+Winston-Salem State University,Winston-Salem,North Carolina,6120
+Finger Lakes Community College,Canandaigua,New York,6116
+Western Iowa Tech Community College,Sioux City,Iowa,6080
+Gaston College,Dallas,North Carolina,6080
+Pueblo Community College,Pueblo,Colorado,6072
+Lakeland Community College,Kirtland,Ohio,6071
+Harford Community College,Bel Air,Maryland,6070
+Holmes Community College,Goodman,Mississippi,6064
+Cuny Medgar Evers College,Brooklyn,New York,6059
+University Of Washington-Tacoma Campus,Tacoma,Washington,6056
+Christopher Newport University,Newport News,Virginia,6051
+St. Joseph'S College-New York,Brooklyn,New York,6051
+Weatherford College,Weatherford,Texas,6045
+Suny Broome Community College,Binghamton,New York,6031
+Suny College At Plattsburgh,Plattsburgh,New York,6024
+University Of Scranton,Scranton,Pennsylvania,6017
+Saint Mary'S University Of Minnesota,Winona,Minnesota,6015
+Central Carolina Community College,Sanford,North Carolina,6013
+Lipscomb University,Nashville,Tennessee,6007
+Pratt Institute-Main,Brooklyn,New York,5990
+Auburn University At Montgomery,Montgomery,Alabama,5986
+American College Of Financial Services,King Of Prussia,Pennsylvania,5969
+Shoreline Community College,Shoreline,Washington,5965
+Loma Linda University,Loma Linda,California,5959
+Drake University,Des Moines,Iowa,5952
+University Of Richmond,University Of Richmond,Virginia,5945
+Northeast State Community College,Blountville,Tennessee,5938
+Providence College,Providence,Rhode Island,5923
+Teachers College At Columbia University,New York,New York,5922
+Clark State Community College,Springfield,Ohio,5913
+Oregon Institute Of Technology,Klamath Falls,Oregon,5904
+Hawkeye Community College,Waterloo,Iowa,5901
+Grambling State University,Grambling,Louisiana,5883
+Roger Williams University,Bristol,Rhode Island,5862
+Kansas City Kansas Community College,Kansas City,Kansas,5857
+Eastern New Mexico University-Main Campus,Portales,New Mexico,5825
+Southern Oregon University,Ashland,Oregon,5813
+University Of Redlands,Redlands,California,5788
+City Colleges Of Chicago-Harry S Truman College,Chicago,Illinois,5784
+Suny College At Geneseo,Geneseo,New York,5782
+Naugatuck Valley Community College,Waterbury,Connecticut,5779
+South Seattle College,Seattle,Washington,5771
+Rider University,Lawrenceville,New Jersey,5766
+The University Of Texas Medical Branch At Galveston,Galveston,Texas,5759
+Belhaven University,Jackson,Mississippi,5756
+Linn-Benton Community College,Albany,Oregon,5755
+Pennsylvania College Of Technology,Williamsport,Pennsylvania,5754
+North Seattle College,Seattle,Washington,5745
+Roane State Community College,Harriman,Tennessee,5742
+Wilkes University,Wilkes-Barre,Pennsylvania,5729
+Roosevelt University,Chicago,Illinois,5724
+Frostburg State University,Frostburg,Maryland,5719
+Suny College At Old Westbury,Old Westbury,New York,5716
+University Of St. Augustine For Health Sciences,San Marcos,California,5713
+Missouri Southern State University,Joplin,Missouri,5711
+Kilgore College,Kilgore,Texas,5699
+Governors State University,University Park,Illinois,5685
+North Idaho College,Coeur D'Alene,Idaho,5673
+Longwood University,Farmville,Virginia,5666
+Southern Crescent Technical College,Griffin,Georgia,5666
+Delaware State University,Dover,Delaware,5657
+Northwest Florida State College,Niceville,Florida,5654
+Community College Of Vermont,Montpelier,Vermont,5651
+Northeast Community College,Norfolk,Nebraska,5648
+Indiana University-South Bend,South Bend,Indiana,5635
+North Shore Community College,Danvers,Massachusetts,5619
+Los Angeles Southwest College,Los Angeles,California,5618
+Lanier Technical College,Gainesville,Georgia,5615
+Harding University,Searcy,Arkansas,5598
+Eastern Connecticut State University,Willimantic,Connecticut,5587
+Ashland University,Ashland,Ohio,5568
+Pearl River Community College,Poplarville,Mississippi,5565
+The University Of Findlay,Findlay,Ohio,5548
+Canada College,Redwood City,California,5542
+Framingham State University,Framingham,Massachusetts,5540
+Hutchinson Community College,Hutchinson,Kansas,5530
+Lincoln Land Community College,Springfield,Illinois,5528
+Rochester Community And Technical College,Rochester,Minnesota,5525
+Southwestern Oklahoma State University,Weatherford,Oklahoma,5523
+United States Naval Academy,Annapolis,Maryland,5517
+California Institute Of Technology,Pasadena,California,5508
+Point Loma Nazarene University,San Diego,California,5491
+Yuba College,Marysville,California,5477
+Stetson University,Deland,Florida,5475
+Durham Technical Community College,Durham,North Carolina,5474
+Midland College,Midland,Texas,5459
+Napa Valley College,Napa,California,5456
+Missouri Western State University,Saint Joseph,Missouri,5448
+Strayer University-North Carolina,Morrisville,North Carolina,5441
+La Salle University,Philadelphia,Pennsylvania,5440
+A T Still University Of Health Sciences,Kirksville,Missouri,5433
+Cerro Coso Community College,Ridgecrest,California,5425
+City Colleges Of Chicago-Richard J Daley College,Chicago,Illinois,5423
+University Of Houston-Victoria,Victoria,Texas,5416
+Mississippi College,Clinton,Mississippi,5403
+Gateway Community College,Phoenix,Arizona,5394
+West Kentucky Community And Technical College,Paducah,Kentucky,5377
+Somerset Community College,Somerset,Kentucky,5370
+Temple College,Temple,Texas,5369
+Moberly Area Community College,Moberly,Missouri,5367
+Loyola University New Orleans,New Orleans,Louisiana,5365
+Rush University,Chicago,Illinois,5365
+Missouri Baptist University,Saint Louis,Missouri,5365
+University Of Arkansas-Pulaski Technical College,North Little Rock,Arkansas,5361
+Western Oregon University,Monmouth,Oregon,5358
+Utica College,Utica,New York,5353
+Oklahoma State University-Oklahoma City,Oklahoma City,Oklahoma,5353
+Iowa Central Community College,Fort Dodge,Iowa,5345
+Truman State University,Kirksville,Missouri,5339
+College Of Alameda,Alameda,California,5329
+New England College,Henniker,New Hampshire,5327
+Western University Of Health Sciences,Pomona,California,5325
+Piedmont Virginia Community College,Charlottesville,Virginia,5321
+Kent State University At Stark,Canton,Ohio,5307
+Endicott College,Beverly,Massachusetts,5294
+Indiana University-Southeast,New Albany,Indiana,5293
+Northern Essex Community College,Haverhill,Massachusetts,5282
+George C Wallace State Community College-Hanceville,Hanceville,Alabama,5254
+Western Technical College,La Crosse,Wisconsin,5252
+Itawamba Community College,Fulton,Mississippi,5251
+Emily Griffith Technical College,Denver,Colorado,5249
+School Of Visual Arts,New York,New York,5247
+Indiana Wesleyan University-Marion,Marion,Indiana,5235
+Plymouth State University,Plymouth,New Hampshire,5215
+Lewis And Clark Community College,Godfrey,Illinois,5215
+Wentworth Institute Of Technology,Boston,Massachusetts,5206
+Dalton State College,Dalton,Georgia,5197
+Catawba Valley Community College,Hickory,North Carolina,5195
+Piedmont Technical College,Greenwood,South Carolina,5183
+University Of Mary Washington,Fredericksburg,Virginia,5166
+Cedarville University,Cedarville,Ohio,5166
+St Catherine University,Saint Paul,Minnesota,5163
+Wichita State University-Campus Of Applied Sciences And Technology,Wichita,Kansas,5156
+Tompkins Cortland Community College,Dryden,New York,5154
+Genesee Community College,Batavia,New York,5153
+Lake-Sumter State College,Leesburg,Florida,5145
+Lake Erie College Of Osteopathic Medicine,Erie,Pennsylvania,5145
+Bemidji State University,Bemidji,Minnesota,5137
+Oral Roberts University,Tulsa,Oklahoma,5137
+Clarion University Of Pennsylvania,Clarion,Pennsylvania,5131
+Lesley University,Cambridge,Massachusetts,5128
+George Fox University,Newberg,Oregon,5128
+South Puget Sound Community College,Olympia,Washington,5123
+University Of Tulsa,Tulsa,Oklahoma,5118
+Gannon University,Erie,Pennsylvania,5108
+Lake Superior College,Duluth,Minnesota,5104
+Shenandoah University,Winchester,Virginia,5076
+Compton College,Compton,California,5054
+Bucknell University,Lewisburg,Pennsylvania,5046
+Fresno Pacific University,Fresno,California,5038
+Springfield Technical Community College,Springfield,Massachusetts,5038
+University Of Portland,Portland,Oregon,5027
+Louisiana State University Health Sciences Center-New Orleans,New Orleans,Louisiana,5025
+Virginia State University,Petersburg,Virginia,5023
+Luzerne County Community College,Nanticoke,Pennsylvania,5019
+University Of Illinois Springfield,Springfield,Illinois,5004
+University Of Wisconsin-Parkside,Kenosha,Wisconsin,4999
+Eastern Arizona College,Thatcher,Arizona,4996
+College Of Marin,Kentfield,California,4992
+Alabama State University,Montgomery,Alabama,4991
+Johnston Community College,Smithfield,North Carolina,4991
+Niagara County Community College,Sanborn,New York,4974
+Manchester Community College,Manchester,Connecticut,4969
+Holyoke Community College,Holyoke,Massachusetts,4969
+Heartland Community College,Normal,Illinois,4961
+The Southern Baptist Theological Seminary,Louisville,Kentucky,4949
+California Lutheran University,Thousand Oaks,California,4942
+University Of Baltimore,Baltimore,Maryland,4930
+Gulf Coast State College,Panama City,Florida,4921
+Jones County Junior College,Ellisville,Mississippi,4916
+Atlantic Cape Community College,Mays Landing,New Jersey,4911
+Westmoreland County Community College,Youngwood,Pennsylvania,4909
+Northeast Iowa Community College,Calmar,Iowa,4905
+Edinboro University Of Pennsylvania,Edinboro,Pennsylvania,4904
+Midwestern University-Glendale,Glendale,Arizona,4895
+Southern Arkansas University Main Campus,Magnolia,Arkansas,4894
+Gavilan College,Gilroy,California,4892
+Clarkson University,Potsdam,New York,4891
+Suny At Fredonia,Fredonia,New York,4883
+York College Of Pennsylvania,York,Pennsylvania,4870
+Tulsa Technology Center,Tulsa,Oklahoma,4868
+Robert Morris University,Moon Township,Pennsylvania,4867
+University Of The District Of Columbia,Washington,Dc,4864
+Manhattan College,Riverdale,New York,4863
+College Of The Mainland,Texas City,Texas,4854
+Hawaii Pacific University,Honolulu,Hawaii,4842
+Norwalk Community College,Norwalk,Connecticut,4818
+Norwich University,Northfield,Vermont,4817
+University Of Bridgeport,Bridgeport,Connecticut,4811
+Woodland Community College,Woodland,California,4807
+Champlain College,Burlington,Vermont,4801
+Central Oregon Community College,Bend,Oregon,4801
+Athens Technical College,Athens,Georgia,4800
+Strayer University-Virginia,Arlington,Virginia,4797
+Crowder College,Neosho,Missouri,4789
+Baltimore City Community College,Baltimore,Maryland,4785
+Central Lakes College-Brainerd,Brainerd,Minnesota,4772
+Francis Marion University,Florence,South Carolina,4764
+Anderson University,Anderson,South Carolina,4760
+Spokane Falls Community College,Spokane,Washington,4746
+Paris Junior College,Paris,Texas,4740
+Jacksonville University,Jacksonville,Florida,4740
+West Coast University-Orange County,Anaheim,California,4734
+Lamar Institute Of Technology,Beaumont,Texas,4733
+Pacific University,Forest Grove,Oregon,4731
+Dallas Baptist University,Dallas,Texas,4730
+Wayland Baptist University,Plainview,Texas,4728
+Skagit Valley College,Mount Vernon,Washington,4717
+University Of North Texas At Dallas,Dallas,Texas,4714
+Central Arizona College,Coolidge,Arizona,4701
+Sandhills Community College,Pinehurst,North Carolina,4700
+Alamance Community College,Graham,North Carolina,4699
+Angelina College,Lufkin,Texas,4695
+Gateway Community And Technical College,Florence,Kentucky,4695
+Bethel University,Saint Paul,Minnesota,4693
+Wayne State College,Wayne,Nebraska,4676
+United States Air Force Academy,Usaf Academy,Colorado,4673
+Southern Regional Technical College,Thomasville,Georgia,4668
+University Of Florida-Online,Gainesville,Florida,4667
+University Of Maine At Augusta,Augusta,Maine,4665
+Spartanburg Community College,Spartanburg,South Carolina,4662
+Suny At Purchase College,Purchase,New York,4657
+Saint Mary'S College Of California,Moraga,California,4655
+Concordia University-Irvine,Irvine,California,4639
+York Technical College,Rock Hill,South Carolina,4636
+Bethel University,Mckenzie,Tennessee,4623
+Jackson State Community College,Jackson,Tennessee,4580
+Grayson College,Denison,Texas,4566
+Florida National University-Main Campus,Hialeah,Florida,4562
+Barton County Community College,Great Bend,Kansas,4548
+Olivet Nazarene University,Bourbonnais,Illinois,4542
+University Of Mary Hardin-Baylor,Belton,Texas,4537
+Gadsden State Community College,Gadsden,Alabama,4531
+The College Of Saint Rose,Albany,New York,4522
+Houston Baptist University,Houston,Texas,4508
+Southcentral Kentucky Community And Technical College,Bowling Green,Kentucky,4506
+Rasmussen University-Minnesota,St. Cloud,Minnesota,4500
+Montana State University Billings,Billings,Montana,4499
+Edison State Community College,Piqua,Ohio,4498
+Central State University,Wilberforce,Ohio,4493
+Hennepin Technical College,Brooklyn Park,Minnesota,4486
+Citadel Military College Of South Carolina,Charleston,South Carolina,4484
+Bryant University,Smithfield,Rhode Island,4476
+Abraham Baldwin Agricultural College,Tifton,Georgia,4473
+Brazosport College,Lake Jackson,Texas,4470
+Laramie County Community College,Cheyenne,Wyoming,4470
+Clark Atlanta University,Atlanta,Georgia,4465
+Western New England University,Springfield,Massachusetts,4461
+University Of South Carolina Aiken,Aiken,South Carolina,4461
+Caldwell Community College And Technical Institute,Hudson,North Carolina,4460
+Harrisburg University Of Science And Technology,Harrisburg,Pennsylvania,4460
+Yakima Valley College,Yakima,Washington,4456
+Coastal Bend College,Beeville,Texas,4453
+Lake Land College,Mattoon,Illinois,4452
+Seattle Pacific University,Seattle,Washington,4452
+Benedictine University,Lisle,Illinois,4446
+Trevecca Nazarene University,Nashville,Tennessee,4441
+The College Of Saint Scholastica,Duluth,Minnesota,4428
+Fairmont State University,Fairmont,West Virginia,4426
+Point Park University,Pittsburgh,Pennsylvania,4423
+Marian University,Indianapolis,Indiana,4419
+Saint John Fisher College,Rochester,New York,4418
+New River Community College,Dublin,Virginia,4412
+Saint Xavier University,Chicago,Illinois,4411
+West Hills College-Coalinga,Coalinga,California,4409
+Jackson College,Jackson,Michigan,4404
+Wingate University,Wingate,North Carolina,4400
+Southern Union State Community College,Wadley,Alabama,4399
+State Fair Community College,Sedalia,Missouri,4398
+Hill College,Hillsboro,Texas,4384
+Inver Hills Community College,Inver Grove Heights,Minnesota,4379
+Schenectady County Community College,Schenectady,New York,4378
+Indiana University-Northwest,Gary,Indiana,4370
+Suny Corning Community College,Corning,New York,4370
+Reading Area Community College,Reading,Pennsylvania,4369
+University Of Mary,Bismarck,North Dakota,4355
+College Of The Redwoods,Eureka,California,4331
+Niagara University,Niagara University,New York,4324
+Massachusetts Bay Community College,Wellesley Hills,Massachusetts,4320
+Rogue Community College,Grants Pass,Oregon,4319
+University Of St Thomas,Houston,Texas,4319
+Lewis-Clark State College,Lewiston,Idaho,4315
+Palm Beach Atlantic University,West Palm Beach,Florida,4315
+Davidson County Community College,Thomasville,North Carolina,4314
+Iona College,New Rochelle,New York,4310
+Clark University,Worcester,Massachusetts,4304
+Suny College Of Technology At Alfred,Alfred,New York,4303
+Saint Edward'S University,Austin,Texas,4300
+Baldwin Wallace University,Berea,Ohio,4293
+Stevenson University,Stevenson,Maryland,4290
+Hampton University,Hampton,Virginia,4283
+Upper Iowa University,Fayette,Iowa,4275
+Owensboro Community And Technical College,Owensboro,Kentucky,4268
+Davis Technical College,Kaysville,Utah,4266
+Cameron University,Lawton,Oklahoma,4263
+Arcadia University,Glenside,Pennsylvania,4257
+Augusta Technical College,Augusta,Georgia,4256
+Siena College,Loudonville,New York,4252
+St Cloud Technical And Community College,Saint Cloud,Minnesota,4240
+Messiah University,Mechanicsburg,Pennsylvania,4234
+Porterville College,Porterville,California,4234
+Husson University,Bangor,Maine,4229
+Babson College,Wellesley,Massachusetts,4222
+Mountainland Technical College,Lehi,Utah,4219
+Housatonic Community College,Bridgeport,Connecticut,4216
+Great Basin College,Elko,Nevada,4215
+Blue Ridge Community And Technical College,Martinsburg,West Virginia,4214
+Bismarck State College,Bismarck,North Dakota,4210
+Louisiana Delta Community College,Monroe,Louisiana,4208
+Carroll University,Waukesha,Wisconsin,4205
+University Of Northwestern-St Paul,Saint Paul,Minnesota,4204
+Relay Graduate School Of Education,New York,New York,4199
+Lander University,Greenwood,South Carolina,4193
+Black Hawk College,Moline,Illinois,4191
+Jefferson College,Hillsboro,Missouri,4185
+Northern Wyoming Community College District,Sheridan,Wyoming,4184
+School Of The Art Institute Of Chicago,Chicago,Illinois,4179
+West Hills College-Lemoore,Lemoore,California,4177
+St. Mary'S University,San Antonio,Texas,4170
+Florida Southern College,Lakeland,Florida,4169
+Eastern University,Saint Davids,Pennsylvania,4167
+Gardner-Webb University,Boiling Springs,North Carolina,4166
+Coastal Carolina Community College,Jacksonville,North Carolina,4160
+Rockhurst University,Kansas City,Missouri,4159
+Trine University,Angola,Indiana,4155
+Shelton State Community College,Tuscaloosa,Alabama,4153
+Xavier University Of Louisiana,New Orleans,Louisiana,4152
+Texarkana College,Texarkana,Texas,4149
+Casper College,Casper,Wyoming,4137
+Kellogg Community College,Battle Creek,Michigan,4135
+Mount Wachusett Community College,Gardner,Massachusetts,4124
+Elmhurst University,Elmhurst,Illinois,4120
+Colgate University,Hamilton,New York,4120
+University Of North Carolina At Asheville,Asheville,North Carolina,4117
+George C Wallace Community College-Dothan,Dothan,Alabama,4117
+Mohave Community College,Kingman,Arizona,4110
+East Central University,Ada,Oklahoma,4109
+Howard College,Big Spring,Texas,4108
+Strayer University-Tennessee,Memphis,Tennessee,4102
+Bellarmine University,Louisville,Kentucky,4087
+Fort Lewis College,Durango,Colorado,4085
+Savannah Technical College,Savannah,Georgia,4085
+Shawnee State University,Portsmouth,Ohio,4081
+Black Hills State University,Spearfish,South Dakota,4072
+Wiregrass Georgia Technical College,Valdosta,Georgia,4068
+Wesleyan University,Middletown,Connecticut,4068
+Chamberlain University-Administrative Office,Chicago,Illinois,4066
+Calvin University,Grand Rapids,Michigan,4066
+Le Moyne College,Syracuse,New York,4066
+University Of St Francis,Joliet,Illinois,4062
+College Of The Holy Cross,Worcester,Massachusetts,4053
+Regis College,Weston,Massachusetts,4044
+Palo Verde College,Blythe,California,4035
+Augsburg University,Minneapolis,Minnesota,4025
+Alliant International University-San Diego,San Diego,California,4023
+Morton College,Cicero,Illinois,4022
+Lewis & Clark College,Portland,Oregon,4020
+Fairleigh Dickinson University-Florham Campus,Madison,New Jersey,4013
+Louisiana State University-Alexandria,Alexandria,Louisiana,4011
+Savannah State University,Savannah,Georgia,4001
+Desales University,Center Valley,Pennsylvania,3985
+West Virginia State University,Institute,West Virginia,3980
+John Carroll University,University Heights,Ohio,3973
+Santa Fe Community College,Santa Fe,New Mexico,3973
+Victoria College,Victoria,Texas,3968
+Andrews University,Berrien Springs,Michigan,3967
+Western Nevada College,Carson City,Nevada,3965
+South Mountain Community College,Phoenix,Arizona,3963
+Northwest State Community College,Archbold,Ohio,3948
+Hope College,Holland,Michigan,3947
+East Mississippi Community College,Scooba,Mississippi,3944
+Lynn University,Boca Raton,Florida,3941
+Bay Path University,Longmeadow,Massachusetts,3937
+Charleston Southern University,Charleston,South Carolina,3935
+Keene State College,Keene,New Hampshire,3934
+Indian Hills Community College,Ottumwa,Iowa,3934
+Alcorn State University,Alcorn State,Mississippi,3934
+Valparaiso University,Valparaiso,Indiana,3919
+Northwestern Michigan College,Traverse City,Michigan,3915
+Clover Park Technical College,Lakewood,Washington,3909
+Jamestown Community College,Jamestown,New York,3906
+Coastal Pines Technical College,Waycross,Georgia,3905
+Muskegon Community College,Muskegon,Michigan,3900
+Dominican University,River Forest,Illinois,3900
+Sullivan University,Louisville,Kentucky,3897
+Indiana University-East,Richmond,Indiana,3882
+Hagerstown Community College,Hagerstown,Maryland,3881
+Marymount University,Arlington,Virginia,3876
+Suny Downstate Health Sciences University,Brooklyn,New York,3868
+Taft College,Taft,California,3865
+Jersey College,Teterboro,New Jersey,3860
+Cochise County Community College District,Sierra Vista,Arizona,3860
+Middlebury College,Middlebury,Vermont,3859
+Wheaton College,Wheaton,Illinois,3852
+South Suburban College,South Holland,Illinois,3846
+Indiana Institute Of Technology-College Of Professional Studies,Fort Wayne,Indiana,3846
+Bevill State Community College,Jasper,Alabama,3844
+Culinary Institute Of America,Hyde Park,New York,3830
+Bob Jones University,Greenville,South Carolina,3830
+Franciscan University Of Steubenville,Steubenville,Ohio,3822
+Mitchell Community College,Statesville,North Carolina,3821
+Springfield College,Springfield,Massachusetts,3820
+Mcdaniel College,Westminster,Maryland,3815
+Northwest-Shoals Community College,Muscle Shoals,Alabama,3812
+Goodwin University,East Hartford,Connecticut,3811
+Northern State University,Aberdeen,South Dakota,3810
+Rogers State University,Claremore,Oklahoma,3809
+Northshore Technical Community College,Lacombe,Louisiana,3807
+Suny College At Potsdam,Potsdam,New York,3799
+Asa College,Brooklyn,New York,3795
+Southeastern Baptist Theological Seminary,Wake Forest,North Carolina,3790
+Naval Postgraduate School,Monterey,California,3784
+Unitek College,Fremont,California,3782
+College Of Coastal Georgia,Brunswick,Georgia,3781
+Smith College,Northampton,Massachusetts,3780
+Blue Ridge Community College,Weyers Cave,Virginia,3773
+St Olaf College,Northfield,Minnesota,3772
+Midwestern Baptist Theological Seminary,Kansas City,Missouri,3770
+Tunxis Community College,Farmington,Connecticut,3764
+Rollins College,Winter Park,Florida,3747
+Riverland Community College,Austin,Minnesota,3741
+Maysville Community And Technical College,Maysville,Kentucky,3735
+John A Logan College,Carterville,Illinois,3735
+Lake Washington Institute Of Technology,Kirkland,Washington,3732
+Honolulu Community College,Honolulu,Hawaii,3731
+University Of Hawaii At Hilo,Hilo,Hawaii,3729
+Central Virginia Community College,Lynchburg,Virginia,3728
+Brigham Young University-Hawaii,Laie,Hawaii,3728
+Hamline University,Saint Paul,Minnesota,3724
+Union University,Jackson,Tennessee,3713
+Saint Peter'S University,Jersey City,New Jersey,3707
+Wisconsin Indianhead Technical College,Shell Lake,Wisconsin,3702
+Northern Oklahoma College,Tonkawa,Oklahoma,3697
+Barnard College,New York,New York,3696
+Fort Valley State University,Fort Valley,Georgia,3692
+Pacific Lutheran University,Tacoma,Washington,3692
+Westcliff University,Irvine,California,3679
+Oberlin College,Oberlin,Ohio,3669
+Shepherd University,Shepherdstown,West Virginia,3665
+Adams State University,Alamosa,Colorado,3664
+Lock Haven University,Lock Haven,Pennsylvania,3661
+Holy Family University,Philadelphia,Pennsylvania,3660
+University Of North Texas Health Science Center,Fort Worth,Texas,3657
+Mendocino College,Ukiah,California,3654
+Midwestern University-Downers Grove,Downers Grove,Illinois,3647
+Bates Technical College,Tacoma,Washington,3634
+Delta State University,Cleveland,Mississippi,3631
+Florence-Darlington Technical College,Florence,South Carolina,3630
+Letourneau University,Longview,Texas,3630
+Spring Arbor University,Spring Arbor,Michigan,3628
+Indiana University-Kokomo,Kokomo,Indiana,3627
+Capital University,Columbus,Ohio,3625
+Central Methodist University-College Of Graduate And Extended Studies,Fayette,Missouri,3623
+James A Rhodes State College,Lima,Ohio,3623
+Northeast Mississippi Community College,Booneville,Mississippi,3622
+Concordia University-Nebraska,Seward,Nebraska,3620
+St Clair County Community College,Port Huron,Michigan,3618
+Suny College Of Technology At Canton,Canton,New York,3614
+Philadelphia College Of Osteopathic Medicine,Philadelphia,Pennsylvania,3610
+Henderson State University,Arkadelphia,Arkansas,3607
+Suny College Of Technology At Delhi,Delhi,New York,3605
+Vassar College,Poughkeepsie,New York,3598
+Skidmore College,Saratoga Springs,New York,3596
+Western Colorado University,Gunnison,Colorado,3590
+North Park University,Chicago,Illinois,3583
+Carroll Community College,Westminster,Maryland,3582
+Trinity University,San Antonio,Texas,3581
+Renton Technical College,Renton,Washington,3579
+Surry Community College,Dobson,North Carolina,3578
+Coconino Community College,Flagstaff,Arizona,3572
+Nhti-Concord'S Community College,Concord,New Hampshire,3566
+Saint Ambrose University,Davenport,Iowa,3558
+Dakota State University,Madison,South Dakota,3551
+Georgia Southwestern State University,Americus,Georgia,3548
+Southwest Baptist University,Bolivar,Missouri,3548
+Gordon State College,Barnesville,Georgia,3547
+Cisco College,Cisco,Texas,3535
+Suny Polytechnic Institute,Utica,New York,3533
+Mid Michigan College,Harrison,Michigan,3531
+Nazareth College,Rochester,New York,3529
+Furman University,Greenville,South Carolina,3527
+University Of Hawaii-West Oahu,Kapolei,Hawaii,3526
+Embry-Riddle Aeronautical University-Prescott,Prescott,Arizona,3522
+Tuskegee University,Tuskegee,Alabama,3514
+Butler County Community College,Butler,Pennsylvania,3509
+Vista College,El Paso,Texas,3496
+Three Rivers Community College,Norwich,Connecticut,3493
+Atlanta Technical College,Atlanta,Georgia,3491
+Minnesota West Community And Technical College,Granite Falls,Minnesota,3490
+Ridgewater College,Willmar,Minnesota,3487
+North Central College,Naperville,Illinois,3481
+Mount Saint Mary'S University,Los Angeles,California,3458
+Wellesley College,Wellesley,Massachusetts,3457
+Meridian Community College,Meridian,Mississippi,3441
+Albany Technical College,Albany,Georgia,3436
+Cambridge College,Boston,Massachusetts,3436
+Lawrence Technological University,Southfield,Michigan,3432
+University Of Lynchburg,Lynchburg,Virginia,3430
+Rhode Island School Of Design,Providence,Rhode Island,3428
+University Of Charleston,Charleston,West Virginia,3427
+University Of Northwestern Ohio,Lima,Ohio,3424
+South Piedmont Community College,Polkton,North Carolina,3421
+American International College,Springfield,Massachusetts,3419
+Moody Bible Institute,Chicago,Illinois,3417
+Ulster County Community College,Stone Ridge,New York,3417
+Faulkner University,Montgomery,Alabama,3415
+Wenatchee Valley College,Wenatchee,Washington,3414
+University Of Maryland Eastern Shore,Princess Anne,Maryland,3411
+Lafayette College,Easton,Pennsylvania,3407
+Cleveland State Community College,Cleveland,Tennessee,3404
+Canisius College,Buffalo,New York,3403
+Minot State University,Minot,North Dakota,3403
+Madisonville Community College,Madisonville,Kentucky,3401
+Strayer University-Texas,Austin,Texas,3401
+Western New Mexico University,Silver City,New Mexico,3398
+Southside Virginia Community College,Alberta,Virginia,3396
+Suny Adirondack,Queensbury,New York,3395
+Ohio Northern University,Ada,Ohio,3392
+Quincy College,Quincy,Massachusetts,3390
+Whitworth University,Spokane,Washington,3385
+Bard College,Annandale-On-Hudson,New York,3385
+Waldorf University,Forest City,Iowa,3384
+Tiffin University,Tiffin,Ohio,3375
+Central Maine Community College,Auburn,Maine,3372
+Wayne Community College,Goldsboro,North Carolina,3371
+Carson-Newman University,Jefferson City,Tennessee,3369
+United Talmudical Seminary,Brooklyn,New York,3361
+Louisiana State University-Eunice,Eunice,Louisiana,3360
+Gwynedd Mercy University,Gwynedd Valley,Pennsylvania,3357
+Gettysburg College,Gettysburg,Pennsylvania,3357
+Florida Gateway College,Lake City,Florida,3356
+Arkansas State University-Beebe,Beebe,Arkansas,3354
+Walla Walla Community College,Walla Walla,Washington,3353
+Southern University At Shreveport,Shreveport,Louisiana,3351
+Warren County Community College,Washington,New Jersey,3350
+Vance-Granville Community College,Henderson,North Carolina,3350
+Our Lady Of The Lake University,San Antonio,Texas,3344
+Columbus Technical College,Columbus,Georgia,3341
+New Mexico Highlands University,Las Vegas,New Mexico,3337
+Central Ohio Technical College,Newark,Ohio,3337
+St Francis College,Brooklyn Heights,New York,3332
+Salve Regina University,Newport,Rhode Island,3331
+Saint Francis University,Loretto,Pennsylvania,3330
+University Of Arkansas At Pine Bluff,Pine Bluff,Arkansas,3327
+Bethune-Cookman University,Daytona Beach,Florida,3317
+Brenau University,Gainesville,Georgia,3316
+Western Wyoming Community College,Rock Springs,Wyoming,3315
+Moravian College,Bethlehem,Pennsylvania,3311
+Chicago State University,Chicago,Illinois,3303
+Life University,Marietta,Georgia,3301
+Williams College,Williamstown,Massachusetts,3295
+Eastern Oregon University,La Grande,Oregon,3285
+Mercyhurst University,Erie,Pennsylvania,3281
+Carthage College,Kenosha,Wisconsin,3277
+Madonna University,Livonia,Michigan,3276
+North Dakota State College Of Science,Wahpeton,North Dakota,3274
+Marywood University,Scranton,Pennsylvania,3274
+Upstate Medical University,Syracuse,New York,3269
+Oklahoma City University,Oklahoma City,Oklahoma,3263
+University Of Hawaii Maui College,Kahului,Hawaii,3248
+Indiana Institute Of Technology,Fort Wayne,Indiana,3246
+Otterbein University,Westerville,Ohio,3244
+D'Youville College,Buffalo,New York,3231
+Cayuga County Community College,Auburn,New York,3230
+Athens State University,Athens,Alabama,3229
+Copiah-Lincoln Community College,Wesson,Mississippi,3228
+Truett Mcconnell University,Cleveland,Georgia,3226
+Central Carolina Technical College,Sumter,South Carolina,3224
+College Of Mount Saint Vincent,Bronx,New York,3222
+Northwood University,Midland,Michigan,3222
+Galen College Of Nursing-Louisville,Louisville,Kentucky,3220
+Stonehill College,Easton,Massachusetts,3217
+Lindsey Wilson College,Columbia,Kentucky,3216
+Sowela Technical Community College,Lake Charles,Louisiana,3216
+Southern Adventist University,Collegedale,Tennessee,3212
+Whatcom Community College,Bellingham,Washington,3208
+Washington And Lee University,Lexington,Virginia,3205
+Cape Cod Community College,West Barnstable,Massachusetts,3204
+Flagler College,Saint Augustine,Florida,3204
+Northland Community And Technical College,Thief River Falls,Minnesota,3198
+Milwaukee School Of Engineering,Milwaukee,Wisconsin,3196
+The Chicago School Of Professional Psychology At Los Angeles,Los Angeles,California,3186
+Mycomputercareer.Edu-Columbus,Westerville,Ohio,3181
+University Of Phoenix-California,Ontario,California,3179
+Prairie State College,Chicago Heights,Illinois,3177
+Nash Community College,Rocky Mount,North Carolina,3176
+Lawson State Community College,Birmingham,Alabama,3174
+Franklin And Marshall College,Lancaster,Pennsylvania,3173
+Georgia Piedmont Technical College,Clarkston,Georgia,3169
+Mount St. Mary'S University,Emmitsburg,Maryland,3169
+Moraine Park Technical College,Fond Du Lac,Wisconsin,3162
+St Bonaventure University,Saint Bonaventure,New York,3160
+Lenoir-Rhyne University,Hickory,North Carolina,3159
+Lakeland University,Plymouth,Wisconsin,3154
+University Of Montevallo,Montevallo,Alabama,3153
+Strayer University-District Of Columbia,Washington,Dc,3148
+Craven Community College,New Bern,North Carolina,3143
+Northeast Texas Community College,Mount Pleasant,Texas,3138
+Berkeley College-Woodland Park,Woodland Park,New Jersey,3136
+South Florida State College,Avon Park,Florida,3132
+Randolph Community College,Asheboro,North Carolina,3129
+Walsh University,North Canton,Ohio,3121
+Mississippi University For Women,Columbus,Mississippi,3117
+Ohio State University-Newark Campus,Newark,Ohio,3115
+Mount Aloysius College,Cresson,Pennsylvania,3111
+Wilkes Community College,Wilkesboro,North Carolina,3106
+Wor-Wic Community College,Salisbury,Maryland,3106
+Albany Medical College,Albany,New York,3103
+Herzing University-Madison,Madison,Wisconsin,3097
+Cumberland University,Lebanon,Tennessee,3095
+St Lawrence University,Canton,New York,3086
+Northland Pioneer College,Holbrook,Arizona,3085
+Kaskaskia College,Centralia,Illinois,3084
+Denison University,Granville,Ohio,3082
+Daemen College,Amherst,New York,3075
+Three Rivers College,Poplar Bluff,Missouri,3064
+Atlantic Technical College,Coconut Creek,Florida,3062
+Vernon College,Vernon,Texas,3061
+University Of Arkansas At Monticello,Monticello,Arkansas,3059
+North Iowa Area Community College,Mason City,Iowa,3051
+Highland Community College,Highland,Kansas,3050
+Felician University,Lodi,New Jersey,3050
+Augustana College,Rock Island,Illinois,3047
+The College Of Health Care Professions-Northwest,Houston,Texas,3041
+Capital Community College,Hartford,Connecticut,3034
+University Of Saint Joseph,West Hartford,Connecticut,3027
+College Of The Albemarle,Elizabeth City,North Carolina,3022
+Suny Morrisville,Morrisville,New York,3021
+North Central State College,Mansfield,Ohio,3013
+Viterbo University,La Crosse,Wisconsin,3012
+Cumberland County College,Vineland,New Jersey,3009
+Allegany College Of Maryland,Cumberland,Maryland,2992
+Immaculata University,Immaculata,Pennsylvania,2992
+Albert Einstein College Of Medicine,Bronx,New York,2990
+Curry College,Milton,Massachusetts,2989
+Mid-State Technical College,Wisconsin Rapids,Wisconsin,2989
+Maryland Institute College Of Art,Baltimore,Maryland,2988
+University Of The Sciences,Philadelphia,Pennsylvania,2987
+Manhattanville College,Purchase,New York,2987
+Southwestern Baptist Theological Seminary,Fort Worth,Texas,2986
+Alvernia University,Reading,Pennsylvania,2984
+Art Center College Of Design,Pasadena,California,2981
+Assumption University,Worcester,Massachusetts,2978
+Colby College,Waterville,Maine,2976
+American Sentinel University,Denver,Colorado,2973
+Colorado College,Colorado Springs,Colorado,2964
+University Of Dallas,Irving,Texas,2962
+Chatham University,Pittsburgh,Pennsylvania,2959
+River Parishes Community College,Gonzales,Louisiana,2957
+Misericordia University,Dallas,Pennsylvania,2955
+Rosalind Franklin University Of Medicine And Science,North Chicago,Illinois,2952
+Kishwaukee College,Malta,Illinois,2950
+Ogden-Weber Technical College,Ogden,Utah,2949
+South Central College,North Mankato,Minnesota,2946
+Jefferson Community College,Watertown,New York,2946
+University Of Wisconsin-Superior,Superior,Wisconsin,2945
+Dyersburg State Community College,Dyersburg,Tennessee,2943
+The Evergreen State College,Olympia,Washington,2941
+Golden Gate University-San Francisco,San Francisco,California,2940
+East Central College,Union,Missouri,2934
+University Of Puget Sound,Tacoma,Washington,2925
+Hazard Community And Technical College,Hazard,Kentucky,2921
+Trinity College,Hartford,Connecticut,2921
+South Dakota School Of Mines And Technology,Rapid City,South Dakota,2920
+Gurnick Academy Of Medical Arts,San Mateo,California,2916
+King'S College,Wilkes-Barre,Pennsylvania,2912
+Davidson College,Davidson,North Carolina,2910
+Rappahannock Community College,Glenns,Virginia,2909
+Coppin State University,Baltimore,Maryland,2908
+South Carolina State University,Orangeburg,South Carolina,2908
+Union College,Schenectady,New York,2907
+University Of Evansville,Evansville,Indiana,2905
+West Liberty University,West Liberty,West Virginia,2897
+Gustavus Adolphus College,Saint Peter,Minnesota,2892
+Stanly Community College,Albemarle,North Carolina,2892
+Neumann University,Aston,Pennsylvania,2891
+West Virginia University At Parkersburg,Parkersburg,West Virginia,2891
+North Georgia Technical College,Clarkesville,Georgia,2887
+Piedmont University,Demorest,Georgia,2883
+Mount Holyoke College,South Hadley,Massachusetts,2883
+Queens University Of Charlotte,Charlotte,North Carolina,2881
+University Of Mount Olive,Mount Olive,North Carolina,2880
+The Master'S University And Seminary,Santa Clarita,California,2878
+Muhlenberg College,Allentown,Pennsylvania,2870
+Morningside College,Sioux City,Iowa,2863
+Sonoran Desert Institute,Tempe,Arizona,2857
+Southwest Wisconsin Technical College,Fennimore,Wisconsin,2851
+Northeast Alabama Community College,Rainsville,Alabama,2846
+Lake Michigan College,Benton Harbor,Michigan,2844
+Cascadia College,Bothell,Washington,2842
+Lenoir Community College,Kinston,North Carolina,2839
+Spelman College,Atlanta,Georgia,2834
+Southwestern Community College,Sylva,North Carolina,2831
+Galen College Of Nursing-San Antonio,San Antonio,Texas,2831
+Blue Ridge Community College,Flat Rock,North Carolina,2826
+New Orleans Baptist Theological Seminary,New Orleans,Louisiana,2818
+Wagner College,Staten Island,New York,2814
+Mount Vernon Nazarene University,Mount Vernon,Ohio,2810
+Doane University,Crete,Nebraska,2810
+Strayer University-South Carolina,Greenville,South Carolina,2806
+Kentucky State University,Frankfort,Kentucky,2805
+Panola College,Carthage,Texas,2802
+University Of Saint Francis-Fort Wayne,Fort Wayne,Indiana,2800
+University Of Minnesota-Crookston,Crookston,Minnesota,2799
+Bowdoin College,Brunswick,Maine,2794
+Susquehanna University,Selinsgrove,Pennsylvania,2785
+Cowley County Community College,Arkansas City,Kansas,2781
+Carleton College,Northfield,Minnesota,2780
+Southeast Kentucky Community,Cumberland,Kentucky,2779
+Alfred University,Alfred,New York,2776
+Delaware Valley University,Doylestown,Pennsylvania,2775
+Hocking College,Nelsonville,Ohio,2774
+Dickinson College,Carlisle,Pennsylvania,2772
+Mineral Area College,Park Hills,Missouri,2771
+Texas Wesleyan University,Fort Worth,Texas,2769
+Sul Ross State University,Alpine,Texas,2769
+Amherst College,Amherst,Massachusetts,2767
+North Greenville University,Tigerville,South Carolina,2767
+West Coast University-Ontario,Ontario,California,2765
+Platt College-Miller-Motte-Wilmington,Wilmington,North Carolina,2761
+John Brown University,Siloam Springs,Arkansas,2761
+Blackhawk Technical College,Janesville,Wisconsin,2760
+Strayer University-Maryland,Suitland,Maryland,2760
+Baker University,Baldwin City,Kansas,2760
+Big Sandy Community And Technical College,Prestonsburg,Kentucky,2759
+Miami University-Hamilton,Hamilton,Ohio,2755
+Russell Sage College,Troy,New York,2752
+Bates College,Lewiston,Maine,2752
+Macalester College,Saint Paul,Minnesota,2751
+Lower Columbia College,Longview,Washington,2744
+Lakeshore Technical College,Cleveland,Wisconsin,2743
+Dallas Theological Seminary,Dallas,Texas,2739
+Hamilton College,Clinton,New York,2738
+Alexandria Technical & Community College,Alexandria,Minnesota,2733
+Illinois Valley Community College,Oglesby,Illinois,2731
+East Central Community College,Decatur,Mississippi,2729
+Caldwell University,Caldwell,New Jersey,2728
+University Of California-System Administration Central Office,Oakland,California,2727
+West Coast University-Los Angeles,North Hollywood,California,2725
+Frontier Nursing University,Versailles,Kentucky,2723
+Mary Baldwin University,Staunton,Virginia,2722
+Rasmussen University-Illinois,Rockford,Illinois,2722
+Barstow Community College,Barstow,California,2720
+Cleveland Community College,Shelby,North Carolina,2719
+Vanguard University Of Southern California,Costa Mesa,California,2717
+University Of Mount Union,Alliance,Ohio,2716
+Hawaii Community College,Hilo,Hawaii,2712
+University Of Dubuque,Dubuque,Iowa,2711
+Drew University,Madison,New Jersey,2707
+Southeast Technical College,Sioux Falls,South Dakota,2703
+Oklahoma State University Institute Of Technology,Okmulgee,Oklahoma,2702
+Mid-Plains Community College,North Platte,Nebraska,2698
+Berry College,Mount Berry,Georgia,2693
+Everglades University,Boca Raton,Florida,2692
+Saint Anselm College,Manchester,New Hampshire,2690
+Georgian Court University,Lakewood,New Jersey,2688
+Lamar State College-Port Arthur,Port Arthur,Texas,2686
+East Georgia State College,Swainsboro,Georgia,2675
+Ashland Community And Technical College,Ashland,Kentucky,2670
+Texas A&M University-Central Texas,Killeen,Texas,2670
+Chadron State College,Chadron,Nebraska,2664
+Sussex County Community College,Newton,New Jersey,2659
+Berkeley College-New York,New York,New York,2657
+University Of Pikeville,Pikeville,Kentucky,2651
+The College Of Wooster,Wooster,Ohio,2651
+Kankakee Community College,Kankakee,Illinois,2650
+Southern Nazarene University,Bethany,Oklahoma,2647
+Concordia University Texas,Austin,Texas,2644
+Danville Community College,Danville,Virginia,2644
+Concordia College At Moorhead,Moorhead,Minnesota,2644
+Pennsylvania Highlands Community College,Johnstown,Pennsylvania,2642
+University Of Pittsburgh-Johnstown,Johnstown,Pennsylvania,2641
+Ohio University-Southern Campus,Ironton,Ohio,2639
+Iowa Lakes Community College,Estherville,Iowa,2636
+Mount Saint Mary College,Newburgh,New York,2634
+Kent State University At Geauga,Burton,Ohio,2629
+Benedictine College,Atchison,Kansas,2628
+Muskingum University,New Concord,Ohio,2622
+Ohio University-Lancaster Campus,Lancaster,Ohio,2621
+Palmer College Of Chiropractic,Davenport,Iowa,2615
+Castleton University,Castleton,Vermont,2613
+Taylor University,Upland,Indiana,2610
+Southwest Virginia Community College,Cedar Bluff,Virginia,2609
+Notre Dame Of Maryland University,Baltimore,Maryland,2606
+Westminster College,Salt Lake City,Utah,2605
+Southern University At New Orleans,New Orleans,Louisiana,2601
+New England Institute Of Technology,East Greenwich,Rhode Island,2600
+Chaminade University Of Honolulu,Honolulu,Hawaii,2598
+Lake Tahoe Community College,South Lake Tahoe,California,2595
+Saint Norbert College,De Pere,Wisconsin,2594
+New York Medical College,Valhalla,New York,2593
+The University Of The South,Sewanee,Tennessee,2593
+Mckendree University,Lebanon,Illinois,2588
+Suny College Of Environmental Science And Forestry,Syracuse,New York,2585
+Centralia College,Centralia,Washington,2585
+Manchester Community College,Manchester,New Hampshire,2584
+Mississippi Valley State University,Itta Bena,Mississippi,2580
+Lancaster Bible College,Lancaster,Pennsylvania,2580
+Fuller Theological Seminary,Pasadena,California,2578
+Freed-Hardeman University,Henderson,Tennessee,2578
+Dakota County Technical College,Rosemount,Minnesota,2576
+Morehouse College,Atlanta,Georgia,2573
+Mid-America Christian University,Oklahoma City,Oklahoma,2569
+Samuel Merritt University,Oakland,California,2569
+Richmond Community College,Hamlet,North Carolina,2569
+Monroe County Community College,Monroe,Michigan,2566
+Suny College Of Agriculture And Technology At Cobleskill,Cobleskill,New York,2563
+Lamar State College-Orange,Orange,Texas,2562
+Ohio Christian University,Circleville,Ohio,2560
+Occidental College,Los Angeles,California,2556
+Aveda Arts & Sciences Institute-Covington,Covington,Louisiana,2554
+Clovis Community College,Clovis,New Mexico,2554
+Rivier University,Nashua,New Hampshire,2552
+Rose-Hulman Institute Of Technology,Terre Haute,Indiana,2552
+Texas Tech University Health Sciences Center-El Paso,El Paso,Texas,2547
+City University Of Seattle,Seattle,Washington,2545
+Mount Saint Joseph University,Cincinnati,Ohio,2535
+Medaille College,Buffalo,New York,2530
+Orangeburg Calhoun Technical College,Orangeburg,South Carolina,2528
+Southeastern Community College,West Burlington,Iowa,2528
+Goucher College,Baltimore,Maryland,2520
+Johnson & Wales University-Online,Providence,Rhode Island,2519
+New Mexico Institute Of Mining And Technology,Socorro,New Mexico,2517
+Hardin-Simmons University,Abilene,Texas,2515
+Lincoln University,Lincoln University,Pennsylvania,2514
+Windward Community College,Kaneohe,Hawaii,2512
+Willamette University,Salem,Oregon,2511
+Edward Waters College,Jacksonville,Florida,2511
+Columbia International University,Columbia,South Carolina,2509
+Texas A&M University-Texarkana,Texarkana,Texas,2506
+Mountain Empire Community College,Big Stone Gap,Virginia,2501
+Franklin Pierce University,Rindge,New Hampshire,2498
+William Woods University,Fulton,Missouri,2498
+Cecil College,North East,Maryland,2496
+Connecticut College,New London,Connecticut,2493
+Northwest Nazarene University,Nampa,Idaho,2490
+Claflin University,Orangeburg,South Carolina,2489
+Uta Mesivta Of Kiryas Joel,Monroe,New York,2486
+Eastern Virginia Medical School,Norfolk,Virginia,2486
+Richland Community College,Decatur,Illinois,2485
+Kennebec Valley Community College,Fairfield,Maine,2480
+Herkimer County Community College,Herkimer,New York,2478
+Lincoln University,Jefferson City,Missouri,2476
+Augustana University,Sioux Falls,South Dakota,2476
+Galen College Of Nursing-Tampa Bay,Saint Petersburg,Florida,2476
+Oklahoma Christian University,Edmond,Oklahoma,2470
+Northern Vermont University,Johnson,Vermont,2468
+Charter College,Vancouver,Washington,2468
+Carlow University,Pittsburgh,Pennsylvania,2467
+Swarthmore College,Swarthmore,Pennsylvania,2466
+Bishop State Community College,Mobile,Alabama,2466
+Lake Area Technical College,Watertown,South Dakota,2461
+Danville Area Community College,Danville,Illinois,2460
+Mayo Clinic College Of Medicine And Science,Rochester,Minnesota,2458
+Edgewood College,Madison,Wisconsin,2455
+Umpqua Community College,Roseburg,Oregon,2454
+Ohio University-Chillicothe Campus,Chillicothe,Ohio,2453
+Roanoke College,Salem,Virginia,2452
+Kent State University At Tuscarawas,New Philadelphia,Ohio,2451
+Lackawanna College,Scranton,Pennsylvania,2449
+Gordon College,Wenham,Massachusetts,2446
+Cabrini University,Radnor,Pennsylvania,2445
+Massachusetts College Of Art And Design,Boston,Massachusetts,2441
+Lebanon Valley College,Annville,Pennsylvania,2441
+Ogeechee Technical College,Statesboro,Georgia,2437
+Siena Heights University,Adrian,Michigan,2437
+Hood College,Frederick,Maryland,2435
+Saint Joseph'S College Of Maine,Standish,Maine,2434
+Wytheville Community College,Wytheville,Virginia,2432
+Ranger College,Ranger,Texas,2431
+Murray State College,Tishomingo,Oklahoma,2429
+Isothermal Community College,Spindale,North Carolina,2427
+Lasell University,Newton,Massachusetts,2420
+Elizabethtown College,Elizabethtown,Pennsylvania,2419
+Orange Technical College-Mid Florida Campus,Orlando,Florida,2419
+Newman University,Wichita,Kansas,2416
+Kettering University,Flint,Michigan,2415
+Millikin University,Decatur,Illinois,2414
+University Of Alaska Southeast,Juneau,Alaska,2413
+Rhodes College,Memphis,Tennessee,2411
+Kent State University At Trumbull,Warren,Ohio,2410
+Hobart William Smith Colleges,Geneva,New York,2410
+Hondros College Of Nursing,Westerville,Ohio,2409
+Francis Tuttle Technology Center,Oklahoma City,Oklahoma,2409
+Richard Bland College,South Prince George,Virginia,2403
+Depauw University,Greencastle,Indiana,2399
+Point University,West Point,Georgia,2397
+La Sierra University,Riverside,California,2397
+Zane State College,Zanesville,Ohio,2395
+Terra State Community College,Fremont,Ohio,2395
+Elizabeth City State University,Elizabeth City,North Carolina,2390
+Bryn Mawr College,Bryn Mawr,Pennsylvania,2389
+Mississippi Delta Community College,Moorhead,Mississippi,2388
+Evangel University,Springfield,Missouri,2387
+Maharishi International University,Fairfield,Iowa,2382
+Central Louisiana Technical Community College,Alexandria,Louisiana,2379
+Universal Technical Institute-Auto Motorcycle & Marine Mechanics Institute Division-Orlando,Orlando,Florida,2379
+Langston University,Langston,Oklahoma,2374
+Nebraska Wesleyan University,Lincoln,Nebraska,2374
+Berea College,Berea,Kentucky,2371
+Dominican University Of California,San Rafael,California,2369
+Seton Hill University,Greensburg,Pennsylvania,2366
+Nyack College,New York,New York,2365
+Marion Technical College,Marion,Ohio,2362
+Claremont Graduate University,Claremont,California,2355
+Virginia Military Institute,Lexington,Virginia,2355
+Buena Vista University,Storm Lake,Iowa,2355
+University Of Connecticut-Stamford,Stamford,Connecticut,2354
+Technical College Of The Lowcountry,Beaufort,South Carolina,2354
+Emmanuel College,Boston,Massachusetts,2351
+Thomas More University,Crestview Hills,Kentucky,2351
+Patrick Henry Community College,Martinsville,Virginia,2350
+Christian Brothers University,Memphis,Tennessee,2347
+University Of South Carolina Beaufort,Bluffton,South Carolina,2346
+Wabash Valley College,Mount Carmel,Illinois,2346
+Meredith College,Raleigh,North Carolina,2340
+Flathead Valley Community College,Kalispell,Montana,2340
+Luther College,Decorah,Iowa,2337
+Nunez Community College,Chalmette,Louisiana,2332
+Middlesex Community College,Middletown,Connecticut,2332
+Columbia College,Sonora,California,2330
+Allen County Community College,Iola,Kansas,2329
+Fidm-Fashion Institute Of Design & Merchandising-Los Angeles,Los Angeles,California,2327
+Hillsdale College,Hillsdale,Michigan,2327
+City Colleges Of Chicago-Kennedy-King College,Chicago,Illinois,2326
+Galveston College,Galveston,Texas,2323
+College Of Eastern Idaho,Idaho Falls,Idaho,2323
+Cornerstone University,Grand Rapids,Michigan,2322
+University Of New Mexico-Gallup Campus,Gallup,New Mexico,2321
+Alverno College,Milwaukee,Wisconsin,2319
+City Colleges Of Chicago-Olive-Harvey College,Chicago,Illinois,2318
+Fletcher Technical Community College,Schriever,Louisiana,2318
+Grinnell College,Grinnell,Iowa,2313
+California College Of The Arts,San Francisco,California,2311
+Marymount Manhattan College,New York,New York,2311
+Virginia Highlands Community College,Abingdon,Virginia,2301
+University Of Mobile,Mobile,Alabama,2299
+Pomona College,Claremont,California,2296
+Lake Superior State University,Sault Ste Marie,Michigan,2291
+Touro University Worldwide,Los Alamitos,California,2290
+Hopkinsville Community College,Hopkinsville,Kentucky,2286
+United States University,San Diego,California,2286
+Adrian College,Adrian,Michigan,2285
+Stratford University,Alexandria,Virginia,2277
+Grove City College,Grove City,Pennsylvania,2277
+Los Angeles Pacific University,San Dimas,California,2277
+Methodist University,Fayetteville,North Carolina,2276
+Kenyon College,Gambier,Ohio,2276
+William Jessup University,Rocklin,California,2275
+Southwestern Assemblies Of God University,Waxahachie,Texas,2273
+The University Of Virginia'S College At Wise,Wise,Virginia,2269
+Rockingham Community College,Wentworth,North Carolina,2264
+University Of Maine At Farmington,Farmington,Maine,2260
+South Georgia State College,Douglas,Georgia,2259
+Adventhealth University,Orlando,Florida,2259
+Chesapeake College,Wye Mills,Maryland,2257
+Snead State Community College,Boaz,Alabama,2256
+Pima Medical Institute-Tucson,Tucson,Arizona,2253
+Connors State College,Warner,Oklahoma,2249
+Bowling Green State University-Firelands,Huron,Ohio,2246
+Grand View University,Des Moines,Iowa,2243
+Mycomputercareer.Edu-Raleigh,Raleigh,North Carolina,2240
+Devry University-California,Ontario,California,2239
+Eastern Maine Community College,Bangor,Maine,2237
+Wofford College,Spartanburg,South Carolina,2237
+Limestone University,Gaffney,South Carolina,2229
+Eckerd College,Saint Petersburg,Florida,2228
+Robeson Community College,Lumberton,North Carolina,2215
+Southern State Community College,Hillsboro,Ohio,2212
+Arkansas State University-Newport,Newport,Arkansas,2210
+Grace College And Theological Seminary,Winona Lake,Indiana,2208
+Kent State University At Ashtabula,Ashtabula,Ohio,2207
+Chipola College,Marianna,Florida,2205
+Garden City Community College,Garden City,Kansas,2204
+Aiken Technical College,Graniteville,South Carolina,2202
+John Wood Community College,Quincy,Illinois,2194
+Strayer University-Pennsylvania,Trevose,Pennsylvania,2190
+Ohio University-Zanesville Campus,Zanesville,Ohio,2185
+Pennsylvania College Of Health Sciences,Lancaster,Pennsylvania,2183
+Trinity Washington University,Washington,Dc,2179
+Wheaton College,Norton,Massachusetts,2179
+Asbury University,Wilmore,Kentucky,2175
+Gallaudet University,Washington,Dc,2174
+American Musical And Dramatic Academy,New York,New York,2172
+National Park College,Hot Springs,Arkansas,2171
+Missouri State University-West Plains,West Plains,Missouri,2167
+Western Piedmont Community College,Morganton,North Carolina,2165
+Wilson Community College,Wilson,North Carolina,2162
+Big Bend Community College,Moses Lake,Washington,2162
+Carl Albert State College,Poteau,Oklahoma,2160
+Midland University,Fremont,Nebraska,2158
+Midamerica Nazarene University,Olathe,Kansas,2156
+Northwestern Oklahoma State University,Alva,Oklahoma,2151
+New York Film Academy,Burbank,California,2149
+Saint Michael'S College,Colchester,Vermont,2143
+Allegheny College,Meadville,Pennsylvania,2143
+Mansfield University Of Pennsylvania,Mansfield,Pennsylvania,2142
+Ensign College,Salt Lake City,Utah,2142
+Redlands Community College,El Reno,Oklahoma,2140
+Granite State College,Concord,New Hampshire,2135
+Saint Johns University,Collegeville,Minnesota,2134
+Peru State College,Peru,Nebraska,2134
+Oconee Fall Line Technical College,Sandersville,Georgia,2126
+Dominican College Of Blauvelt,Orangeburg,New York,2126
+Logan University,Chesterfield,Missouri,2125
+Louisiana State University Health Sciences Center-Shreveport,Shreveport,Louisiana,2123
+Montana Technological University,Butte,Montana,2122
+Strayer University-Florida,Tampa,Florida,2122
+San Joaquin Valley College-Visalia,Visalia,California,2121
+Fulton-Montgomery Community College,Johnstown,New York,2119
+Illinois Wesleyan University,Bloomington,Illinois,2118
+Southwest Mississippi Community College,Summit,Mississippi,2117
+St. Thomas Aquinas College,Sparkill,New York,2116
+Indian Capital Technology Center-Muskogee,Muskogee,Oklahoma,2116
+Carl Sandburg College,Galesburg,Illinois,2115
+College Of Saint Benedict,Saint Joseph,Minnesota,2110
+Bellingham Technical College,Bellingham,Washington,2110
+North Carolina Wesleyan College,Rocky Mount,North Carolina,2102
+Rend Lake College,Ina,Illinois,2101
+Bay De Noc Community College,Escanaba,Michigan,2100
+Oklahoma Baptist University,Shawnee,Oklahoma,2097
+Hult International Business School,Cambridge,Massachusetts,2091
+Saint Vincent College,Latrobe,Pennsylvania,2088
+Walla Walla University,College Place,Washington,2087
+Ouachita Baptist University,Arkadelphia,Arkansas,2083
+Porter And Chester Institute Of Stratford,Stratford,Connecticut,2081
+Concord University,Athens,West Virginia,2080
+Becker College,Worcester,Massachusetts,2078
+Brunswick Community College,Bolivia,North Carolina,2077
+Ranken Technical College,Saint Louis,Missouri,2077
+The University Of The Arts,Philadelphia,Pennsylvania,2074
+Mount Mercy University,Cedar Rapids,Iowa,2074
+Washington State Community College,Marietta,Ohio,2066
+Lubbock Christian University,Lubbock,Texas,2056
+Minnesota State College Southeast,Winona,Minnesota,2055
+Benedict College,Columbia,South Carolina,2055
+Ringling College Of Art And Design,Sarasota,Florida,2055
+Saint Mary'S College,Notre Dame,Indiana,2054
+University Of Sioux Falls,Sioux Falls,South Dakota,2053
+Central Wyoming College,Riverton,Wyoming,2052
+Friends University,Wichita,Kansas,2046
+College For Creative Studies,Detroit,Michigan,2046
+Rocky Mountain College Of Art And Design,Lakewood,Colorado,2046
+Roseman University Of Health Sciences,Henderson,Nevada,2044
+King University,Bristol,Tennessee,2043
+Feather River Community College District,Quincy,California,2038
+South Georgia Technical College,Americus,Georgia,2038
+Sarah Lawrence College,Bronxville,New York,2037
+Southwestern Michigan College,Dowagiac,Michigan,2034
+Lim College,New York,New York,2033
+Randolph-Macon College,Ashland,Virginia,2032
+University Of Arkansas Community College-Morrilton,Morrilton,Arkansas,2032
+Southeastern Technical College,Vidalia,Georgia,2032
+Drury University,Springfield,Missouri,2032
+East Texas Baptist University,Marshall,Texas,2031
+Stanbridge University,Irvine,California,2027
+Cardinal Stritch University,Milwaukee,Wisconsin,2026
+Peninsula College,Port Angeles,Washington,2026
+Enterprise State Community College,Enterprise,Alabama,2017
+Marshalltown Community College,Marshalltown,Iowa,2016
+Albright College,Reading,Pennsylvania,2016
+Saint Martin'S University,Lacey,Washington,2014
+Neosho County Community College,Chanute,Kansas,2014
+Parker University,Dallas,Texas,2012
+Lassen Community College,Susanville,California,2012
+Suny Maritime College,Throggs Neck,New York,2009
+Albion College,Albion,Michigan,2005
+State Technical College Of Missouri,Linn,Missouri,1997
+Roberts Wesleyan College,Rochester,New York,1995
+Asbury Theological Seminary,Wilmore,Kentucky,1991
+St. Mary'S College Of Maryland,St. Mary'S City,Maryland,1990
+Massachusetts Maritime Academy,Buzzards Bay,Massachusetts,1988
+University Of South Carolina-Lancaster,Lancaster,South Carolina,1988
+Touro University Nevada,Henderson,Nevada,1986
+Walsh College,Troy,Michigan,1985
+Waynesburg University,Waynesburg,Pennsylvania,1983
+Dordt University,Sioux Center,Iowa,1979
+Lake Forest College,Lake Forest,Illinois,1979
+Northeastern Oklahoma A&M College,Miami,Oklahoma,1970
+Wartburg College,Waverly,Iowa,1966
+Charter Oak State College,New Britain,Connecticut,1962
+Lawrence University,Appleton,Wisconsin,1960
+Haverford College,Haverford,Pennsylvania,1959
+Bridgewater College,Bridgewater,Virginia,1957
+Reed College,Portland,Oregon,1956
+Western Nebraska Community College,Scottsbluff,Nebraska,1954
+Centenary University,Hackettstown,New Jersey,1951
+Eastern New Mexico University-Roswell Campus,Roswell,New Mexico,1948
+Universal Technical Institute Of Arizona Inc,Avondale,Arizona,1946
+Missouri Valley College,Marshall,Missouri,1946
+Adler University,Chicago,Illinois,1944
+Toccoa Falls College,Toccoa Falls,Georgia,1943
+Southwestern University,Georgetown,Texas,1942
+Notre Dame College,Cleveland,Ohio,1942
+Tusculum University,Greeneville,Tennessee,1940
+Valley City State University,Valley City,North Dakota,1930
+Community College Of Beaver County,Monaca,Pennsylvania,1929
+Ursinus College,Collegeville,Pennsylvania,1928
+Marian University,Fond Du Lac,Wisconsin,1919
+Trinity International University-Illinois,Deerfield,Illinois,1918
+Whittier College,Whittier,California,1914
+North Arkansas College,Harrison,Arkansas,1914
+Linfield University-Mcminnville Campus,Mcminnville,Oregon,1913
+Aquinas College,Grand Rapids,Michigan,1913
+Thomas College,Waterville,Maine,1912
+Southwestern Oregon Community College,Coos Bay,Oregon,1910
+Bloomfield College,Bloomfield,New Jersey,1907
+West Virginia University Institute Of Technology,Beckley,West Virginia,1906
+Northwest Iowa Community College,Sheldon,Iowa,1906
+Spalding University,Louisville,Kentucky,1902
+Vermont Technical College,Randolph,Vermont,1901
+Des Moines University-Osteopathic Medical Center,Des Moines,Iowa,1901
+Frank Phillips College,Borger,Texas,1896
+Ohio Wesleyan University,Delaware,Ohio,1892
+Bridgevalley Community & Technical College,South Charleston,West Virginia,1889
+Lake Region State College,Devils Lake,North Dakota,1886
+Northwest Career College,Las Vegas,Nevada,1884
+College Of The Ozarks,Point Lookout,Missouri,1882
+University Of Rio Grande,Rio Grande,Ohio,1881
+Sullivan County Community College,Loch Sheldrake,New York,1877
+Southern Technical College,Orlando,Florida,1875
+Virginia Union University,Richmond,Virginia,1875
+Georgetown College,Georgetown,Kentucky,1875
+Whitman College,Walla Walla,Washington,1873
+Canadian Valley Technology Center,El Reno,Oklahoma,1872
+California Institute Of Integral Studies,San Francisco,California,1871
+Florida Institute Of Technology-Online,Melbourne,Florida,1870
+Kalamazoo College,Kalamazoo,Michigan,1869
+Wittenberg University,Springfield,Ohio,1869
+Greenfield Community College,Greenfield,Massachusetts,1867
+Northwestern College,Orange City,Iowa,1866
+Mercy College Of Ohio,Toledo,Ohio,1865
+Kent State University At Salem,Salem,Ohio,1863
+American Career College-Los Angeles,Los Angeles,California,1862
+Glenville State College,Glenville,West Virginia,1861
+Atlanta Metropolitan State College,Atlanta,Georgia,1860
+North Central Michigan College,Petoskey,Michigan,1856
+Coahoma Community College,Clarksdale,Mississippi,1855
+Oklahoma State University Center For Health Sciences,Tulsa,Oklahoma,1854
+South Florida Institute Of Technology,Miami,Florida,1851
+Keuka College,Keuka Park,New York,1851
+Pittsburgh Technical College,Oakdale,Pennsylvania,1844
+Lurleen B Wallace Community College,Andalusia,Alabama,1842
+Seward County Community College,Liberal,Kansas,1841
+Bryant & Stratton College-Virginia Beach,Virginia Beach,Virginia,1841
+Graceland University-Lamoni,Lamoni,Iowa,1841
+Chestnut Hill College,Philadelphia,Pennsylvania,1839
+Anoka Technical College,Anoka,Minnesota,1837
+Cloud County Community College,Concordia,Kansas,1835
+Fort Scott Community College,Fort Scott,Kansas,1834
+Pine Technical & Community College,Pine City,Minnesota,1833
+Texas Lutheran University,Seguin,Texas,1832
+Universal Technical Institute-Dallas Fort Worth,Irving,Texas,1824
+Martinsburg College,Martinsburg,West Virginia,1822
+Nichols College,Dudley,Massachusetts,1822
+Berkshire Community College,Pittsfield,Massachusetts,1820
+Haywood Community College,Clyde,North Carolina,1818
+Carrington College-Sacramento,Sacramento,California,1817
+Great Bay Community College,Portsmouth,New Hampshire,1817
+Miami University-Middletown,Middletown,Ohio,1815
+Pierpont Community And Technical College,Fairmont,West Virginia,1811
+Meharry Medical College,Nashville,Tennessee,1808
+Anna Maria College,Paxton,Massachusetts,1806
+Harris-Stowe State University,Saint Louis,Missouri,1803
+Vaughn College Of Aeronautics And Technology,Flushing,New York,1801
+University Of Akron Wayne College,Orrville,Ohio,1799
+Morehouse School Of Medicine,Atlanta,Georgia,1798
+Beaufort County Community College,Washington,North Carolina,1798
+Sampson Community College,Clinton,North Carolina,1797
+Bridgerland Technical College,Logan,Utah,1797
+Eastern Mennonite University,Harrisonburg,Virginia,1794
+Bryan College-Dayton,Dayton,Tennessee,1793
+University Of Maine At Fort Kent,Fort Kent,Maine,1790
+National American University-Rapid City,Rapid City,South Dakota,1788
+Unity College,Unity,Maine,1784
+Anderson University,Anderson,Indiana,1782
+North Country Community College,Saranac Lake,New York,1781
+Lincoln College Of Technology-Nashville,Nashville,Tennessee,1781
+Southwest University At El Paso,El Paso,Texas,1781
+Alma College,Alma,Michigan,1781
+Cedar Crest College,Allentown,Pennsylvania,1780
+Rocky Vista University,Parker,Colorado,1778
+Wilson College,Chambersburg,Pennsylvania,1776
+Malone University,Canton,Ohio,1772
+Carteret Community College,Morehead City,North Carolina,1772
+Belmont Abbey College,Belmont,North Carolina,1771
+Claremont Mckenna College,Claremont,California,1771
+Central Alabama Community College,Alexander City,Alabama,1771
+North Central Missouri College,Trenton,Missouri,1770
+Juniata College,Huntingdon,Pennsylvania,1768
+Grays Harbor College,Aberdeen,Washington,1767
+Coe College,Cedar Rapids,Iowa,1766
+Manchester University,North Manchester,Indiana,1762
+Fond Du Lac Tribal And Community College,Cloquet,Minnesota,1762
+Treasure Valley Community College,Ontario,Oregon,1761
+Avila University,Kansas City,Missouri,1761
+Klamath Community College,Klamath Falls,Oregon,1760
+Centre College,Danville,Kentucky,1759
+Miat College Of Technology,Canton,Michigan,1757
+Guilford College,Greensboro,North Carolina,1754
+New Mexico Junior College,Hobbs,New Mexico,1751
+Wright State University-Lake Campus,Celina,Ohio,1749
+Edgecombe Community College,Tarboro,North Carolina,1746
+Copper Mountain Community College,Joshua Tree,California,1745
+Southwestern College,Winfield,Kansas,1744
+Southwestern Community College,Creston,Iowa,1743
+Kansas City University Of Medicine And Biosciences,Kansas City,Missouri,1742
+Loras College,Dubuque,Iowa,1741
+Bryant & Stratton College-Wauwatosa,Wauwatosa,Wisconsin,1741
+Otis College Of Art And Design,Los Angeles,California,1738
+Strayer University-Alabama,Birmingham,Alabama,1738
+Sheridan Technical College,Hollywood,Florida,1737
+Oakwood University,Huntsville,Alabama,1733
+Albertus Magnus College,New Haven,Connecticut,1730
+Dodge City Community College,Dodge City,Kansas,1730
+University Of Minnesota-Morris,Morris,Minnesota,1729
+Miles College,Fairfield,Alabama,1726
+Rockefeller University,New York,New York,1721
+Mitchell Hamline School Of Law,Saint Paul,Minnesota,1720
+Touro University California,Vallejo,California,1719
+Bethel University,Mishawaka,Indiana,1716
+Tulsa Welding School-Houston,Houston,Texas,1716
+H Councill Trenholm State Community College,Montgomery,Alabama,1714
+Keystone College,La Plume,Pennsylvania,1710
+Fisher College,Boston,Massachusetts,1710
+Geneva College,Beaver Falls,Pennsylvania,1705
+Orange Technical College-Westside Campus,Winter Garden,Florida,1705
+Reinhardt University,Waleska,Georgia,1704
+York County Community College,Wells,Maine,1704
+Dickinson State University,Dickinson,North Dakota,1699
+Crown College,Saint Bonifacius,Minnesota,1699
+Huntington University,Huntington,Indiana,1695
+Southeastern Community College,Whiteville,North Carolina,1693
+Universal Technical Institute Of Texas Inc.,Houston,Texas,1691
+Navajo Technical University,Crownpoint,New Mexico,1686
+Oglethorpe University,Atlanta,Georgia,1683
+University Of Connecticut-Hartford Campus,Hartford,Connecticut,1683
+Dine College,Tsaile,Arizona,1679
+Florida Polytechnic University,Lakeland,Florida,1679
+Labette Community College,Parsons,Kansas,1678
+Catawba College,Salisbury,North Carolina,1678
+Brookline College-Phoenix,Phoenix,Arizona,1677
+Northwest College,Powell,Wyoming,1676
+Western Texas College,Snyder,Texas,1675
+Trinidad State Junior College,Trinidad,Colorado,1673
+Young Harris College,Young Harris,Georgia,1673
+Ohio Dominican University,Columbus,Ohio,1671
+Shorter University,Rome,Georgia,1670
+Nashua Community College,Nashua,New Hampshire,1670
+Johnson C Smith University,Charlotte,North Carolina,1668
+College Of Our Lady Of The Elms,Chicopee,Massachusetts,1666
+The Juilliard School,New York,New York,1663
+Marietta College,Marietta,Ohio,1663
+West Coast University-Dallas,Dallas,Texas,1661
+La Roche University,Pittsburgh,Pennsylvania,1660
+Virginia Wesleyan University,Virginia Beach,Virginia,1660
+Southern West Virginia Community And Technical College,Mount Gay,West Virginia,1652
+Seminole State College,Seminole,Oklahoma,1652
+Gordon-Conwell Theological Seminary,South Hamilton,Massachusetts,1651
+Ameritech College-Draper,Draper,Utah,1651
+University Of Maine At Presque Isle,Presque Isle,Maine,1650
+Kauai Community College,Lihue,Hawaii,1649
+Milligan University,Milligan,Tennessee,1646
+Presbyterian College,Clinton,South Carolina,1644
+Eastern Wyoming College,Torrington,Wyoming,1641
+California Institute Of The Arts,Valencia,California,1634
+Moore Norman Technology Center,Norman,Oklahoma,1633
+Oakland City University,Oakland City,Indiana,1630
+Northeastern Technical College,Cheraw,South Carolina,1630
+Trocaire College,Buffalo,New York,1629
+Lincoln College Of Technology-Denver,Denver,Colorado,1627
+Austin College,Sherman,Texas,1625
+Salus University,Elkins Park,Pennsylvania,1624
+Westmont College,Santa Barbara,California,1623
+Johnson & Wales University-Charlotte,Charlotte,North Carolina,1621
+Alpena Community College,Alpena,Michigan,1618
+Columbia-Greene Community College,Hudson,New York,1618
+Montcalm Community College,Sidney,Michigan,1617
+Southern Wesleyan University,Central,South Carolina,1614
+Piedmont Community College,Roxboro,North Carolina,1614
+James Sprunt Community College,Kenansville,North Carolina,1610
+Shaw University,Raleigh,North Carolina,1609
+Emory & Henry College,Emory,Virginia,1607
+Midway University,Midway,Kentucky,1606
+Simpson College,Indianola,Iowa,1605
+William Penn University,Oskaloosa,Iowa,1605
+Converse College,Spartanburg,South Carolina,1602
+Knox College,Galesburg,Illinois,1597
+University Of Pittsburgh-Greensburg,Greensburg,Pennsylvania,1595
+Nightingale College,Salt Lake City,Utah,1593
+University Of North Carolina School Of The Arts,Winston Salem,North Carolina,1586
+Northwest University,Kirkland,Washington,1585
+Chattahoochee Valley Community College,Phenix City,Alabama,1583
+Sofia University,Palo Alto,California,1582
+Hartwick College,Oneonta,New York,1581
+Arkansas Northeastern College,Blytheville,Arkansas,1580
+Saint Elizabeth University,Morristown,New Jersey,1580
+Hope International University,Fullerton,California,1580
+Lincoln Technical Institute-Union,Union,New Jersey,1578
+Sauk Valley Community College,Dixon,Illinois,1578
+Massachusetts College Of Liberal Arts,North Adams,Massachusetts,1575
+Lincoln College Of Technology-Grand Prairie,Grand Prairie,Texas,1571
+American Intercontinental University-Atlanta,Atlanta,Georgia,1570
+Eastern Oklahoma State College,Wilburton,Oklahoma,1569
+Rockford University,Rockford,Illinois,1563
+The University Of Montana-Western,Dillon,Montana,1563
+Cossatot Community College Of The University Of Arkansas,De Queen,Arkansas,1563
+United States Coast Guard Academy,New London,Connecticut,1562
+Western Oklahoma State College,Altus,Oklahoma,1562
+Institute Of Technology,Clovis,California,1561
+Pacific Oaks College,Pasadena,California,1561
+Chamberlain University-Texas,Houston,Texas,1558
+Blue Mountain Community College,Pendleton,Oregon,1558
+University Of New Mexico-Valencia County Campus,Los Lunas,New Mexico,1556
+Washington & Jefferson College,Washington,Pennsylvania,1553
+Central College,Pella,Iowa,1549
+Franciscan Missionaries Of Our Lady University,Baton Rouge,Louisiana,1548
+Harcum College,Bryn Mawr,Pennsylvania,1546
+Bryan University,Tempe,Arizona,1545
+George C Wallace State Community College-Selma,Selma,Alabama,1544
+Roxbury Community College,Roxbury Crossing,Massachusetts,1543
+Mgh Institute Of Health Professions,Boston,Massachusetts,1542
+Coffeyville Community College,Coffeyville,Kansas,1539
+Northeast Technology Center,Pryor,Oklahoma,1538
+Black River Technical College,Pocahontas,Arkansas,1538
+Westminster College,New Wilmington,Pennsylvania,1536
+Judson University,Elgin,Illinois,1536
+University Of South Carolina-Sumter,Sumter,South Carolina,1536
+American Career College-Ontario,Ontario,California,1535
+Otero Junior College,La Junta,Colorado,1529
+Morgan Community College,Fort Morgan,Colorado,1528
+Mount Mary University,Milwaukee,Wisconsin,1525
+Dunwoody College Of Technology,Minneapolis,Minnesota,1524
+Tennessee College Of Applied Technology-Memphis,Memphis,Tennessee,1524
+University Of Western States,Portland,Oregon,1516
+University Of Texas Health Science Center At Tyler,Tyler,Texas,1515
+Asnuntuck Community College,Enfield,Connecticut,1514
+Concorde Career College-Memphis,Memphis,Tennessee,1513
+Oklahoma Panhandle State University,Goodwell,Oklahoma,1512
+University Of Pittsburgh-Bradford,Bradford,Pennsylvania,1511
+Dean College,Franklin,Massachusetts,1511
+Lourdes University,Sylvania,Ohio,1508
+Heidelberg University,Tiffin,Ohio,1507
+University Of Saint Mary,Leavenworth,Kansas,1504
+Highland Community College,Freeport,Illinois,1503
+Thomas University,Thomasville,Georgia,1502
+Schreiner University,Kerrville,Texas,1502
+Dillard University,New Orleans,Louisiana,1501
+College Of The Siskiyous,Weed,California,1499
+Quincy University,Quincy,Illinois,1498
+Washington College,Chestertown,Maryland,1497
+Northeastern Junior College,Sterling,Colorado,1493
+Newberry College,Newberry,South Carolina,1492
+Hendrix College,Conway,Arkansas,1492
+Charles R Drew University Of Medicine And Science,Los Angeles,California,1490
+Orange Technical College-Winter Park Campus,Winter Park,Florida,1489
+Western Technical College,El Paso,Texas,1489
+Southern California University Of Health Sciences,Whittier,California,1481
+Northern New Mexico College,Espanola,New Mexico,1481
+Columbia College,Columbia,South Carolina,1480
+Clarendon College,Clarendon,Texas,1477
+Western Dakota Technical College,Rapid City,South Dakota,1474
+Spring Hill College,Mobile,Alabama,1474
+Rochester University,Rochester Hills,Michigan,1471
+Agnes Scott College,Decatur,Georgia,1468
+Mountwest Community And Technical College,Huntington,West Virginia,1468
+Cairn University-Langhorne,Langhorne,Pennsylvania,1467
+Concordia University-Ann Arbor,Ann Arbor,Michigan,1466
+Concordia College,Bronxville,New York,1462
+Nicolet Area Technical College,Rhinelander,Wisconsin,1458
+Colby Community College,Colby,Kansas,1457
+Birmingham-Southern College,Birmingham,Alabama,1457
+Helena College University Of Montana,Helena,Montana,1456
+Oglala Lakota College,Kyle,South Dakota,1455
+Arkansas State University-Mountain Home,Mountain Home,Arkansas,1451
+Southern Careers Institute-Austin,Austin,Texas,1451
+Albany College Of Pharmacy And Health Sciences,Albany,New York,1450
+Henderson Community College,Henderson,Kentucky,1447
+Kirtland Community College,Grayling,Michigan,1446
+Barton College,Wilson,North Carolina,1445
+West Virginia Northern Community College,Wheeling,West Virginia,1440
+South Arkansas Community College,El Dorado,Arkansas,1439
+Suncoast Technical College,Sarasota,Florida,1439
+Bluefield State College,Bluefield,West Virginia,1438
+Illinois College,Jacksonville,Illinois,1438
+Metro Technology Centers,Oklahoma City,Oklahoma,1436
+Woodbury University,Burbank,California,1431
+Thaddeus Stevens College Of Technology,Lancaster,Pennsylvania,1426
+Wilmington College,Wilmington,Ohio,1420
+Universal Technical Institute Of Northern California Inc,Sacramento,California,1419
+Northeast Ohio Medical University,Rootstown,Ohio,1418
+Union College,Barbourville,Kentucky,1416
+Mills College,Oakland,California,1415
+The College Of Idaho,Caldwell,Idaho,1414
+Pfeiffer University,Misenheimer,North Carolina,1411
+Corban University,Salem,Oregon,1411
+Brooklyn Law School,Brooklyn,New York,1411
+Arkansas State University Mid-South,West Memphis,Arkansas,1411
+Central Methodist University-College Of Liberal Arts And Sciences,Fayette,Missouri,1407
+Saint Mary-Of-The-Woods College,Saint Mary Of The Woods,Indiana,1407
+Spoon River College,Canton,Illinois,1406
+Saint Augustine'S University,Raleigh,North Carolina,1405
+Southeastern Illinois College,Harrisburg,Illinois,1404
+Heritage University,Toppenish,Washington,1403
+University Of Jamestown,Jamestown,North Dakota,1402
+Maryville College,Maryville,Tennessee,1402
+Wisconsin Lutheran College,Milwaukee,Wisconsin,1401
+Lycoming College,Williamsport,Pennsylvania,1400
+Arkansas State University Three Rivers,Malvern,Arkansas,1397
+Laboure College,Milton,Massachusetts,1397
+Louisiana College,Pineville,Louisiana,1396
+Northwestern Health Sciences University,Bloomington,Minnesota,1393
+University Of Arkansas Hope-Texarkana,Hope,Arkansas,1392
+Manhattan School Of Music,New York,New York,1391
+Trinity Christian College,Palos Heights,Illinois,1390
+Paul D Camp Community College,Franklin,Virginia,1389
+Rocky Mountain University Of Health Professions,Provo,Utah,1388
+Fontbonne University,Saint Louis,Missouri,1386
+The Chicago School Of Professional Psychology At Chicago,Chicago,Illinois,1386
+Mayville State University,Mayville,North Dakota,1384
+West Coast University-Miami,Doral,Florida,1383
+Northwestern Connecticut Community College,Winsted,Connecticut,1382
+Universal Technical Institute Of California Inc,Rancho Cucamonga,California,1382
+Southern Virginia University,Buena Vista,Virginia,1382
+Potomac State College Of West Virginia University,Keyser,West Virginia,1375
+Carroll College,Helena,Montana,1375
+University Of California-Hastings College Of Law,San Francisco,California,1374
+Oregon State University-Cascades Campus,Bend,Oregon,1374
+Frontier Community College,Fairfield,Illinois,1373
+University Of Arkansas Community College-Batesville,Batesville,Arkansas,1373
+United Education Institute-Morrow,Morrow,Georgia,1372
+Ursuline College,Pepper Pike,Ohio,1372
+Digipen Institute Of Technology,Redmond,Washington,1370
+Holy Names University,Oakland,California,1368
+American Career College-Anaheim,Anaheim,California,1368
+University Of Holy Cross,New Orleans,Louisiana,1365
+Mcmurry University,Abilene,Texas,1364
+Nebraska Methodist College Of Nursing & Allied Health,Omaha,Nebraska,1364
+West Virginia Wesleyan College,Buckhannon,West Virginia,1364
+Mount Marty University,Yankton,South Dakota,1364
+Mars Hill University,Mars Hill,North Carolina,1361
+Goldey-Beacom College,Wilmington,Delaware,1360
+Central Technology Center,Drumright,Oklahoma,1355
+Greenville University,Greenville,Illinois,1354
+Talladega College,Talladega,Alabama,1349
+Scripps College,Claremont,California,1344
+Hiram College,Hiram,Ohio,1343
+Shawnee Community College,Ullin,Illinois,1343
+Palo Alto University,Palo Alto,California,1343
+Northwest University-College Of Adult And Professional Studies,Kirkland,Washington,1339
+Clarkson College,Omaha,Nebraska,1338
+United States Merchant Marine Academy,Kings Point,New York,1336
+Ave Maria University,Ave Maria,Florida,1334
+United Education Institute - Uei College - Phoenix,Phoenix,Arizona,1333
+Flint Hills Technical College,Emporia,Kansas,1331
+Chamberlain University-Georgia,Atlanta,Georgia,1330
+New York Law School,New York,New York,1329
+Quinebaug Valley Community College,Danielson,Connecticut,1325
+New Mexico State University-Carlsbad,Carlsbad,New Mexico,1325
+Cooper Union For The Advancement Of Science And Art,New York,New York,1323
+North Florida College,Madison,Florida,1323
+Ohio State University-Marion Campus,Marion,Ohio,1322
+Coker University,Hartsville,South Carolina,1322
+Devry College Of New York,New York,New York,1318
+Fielding Graduate University,Santa Barbara,California,1315
+Howard Payne University,Brownwood,Texas,1315
+College Of Saint Mary,Omaha,Nebraska,1313
+Tennessee College Of Applied Technology-Livingston,Livingston,Tennessee,1311
+Phillips Community College Of The University Of Arkansas,Helena,Arkansas,1309
+Briar Cliff University,Sioux City,Iowa,1308
+Beloit College,Beloit,Wisconsin,1307
+Hanover College,Hanover,Indiana,1304
+Johnson University,Knoxville,Tennessee,1301
+Halifax Community College,Weldon,North Carolina,1298
+Peirce College,Philadelphia,Pennsylvania,1298
+Long Island Business Institute,Flushing,New York,1297
+Western Michigan University-Thomas M. Cooley Law School,Lansing,Michigan,1297
+North Central University,Minneapolis,Minnesota,1297
+Southern Technical College,Fort Myers,Florida,1297
+Lincoln College,Lincoln,Illinois,1297
+Southeast Arkansas College,Pine Bluff,Arkansas,1296
+The New England Conservatory Of Music,Boston,Massachusetts,1296
+Franklin College,Franklin,Indiana,1294
+Pratt Community College,Pratt,Kansas,1292
+Lane College,Jackson,Tennessee,1290
+Apex Technical School,Long Island City,New York,1288
+Ferrum College,Ferrum,Virginia,1288
+Uei College-Bakersfield,Bakersfield,California,1287
+Cornell College,Mount Vernon,Iowa,1286
+Bastyr University,Kenmore,Washington,1285
+Prescott College,Prescott,Arizona,1285
+Columbus College Of Art And Design,Columbus,Ohio,1284
+Chowan University,Murfreesboro,North Carolina,1284
+Wichita Technical Institute,Wichita,Kansas,1283
+Mitchell Technical College,Mitchell,South Dakota,1281
+Tennessee Wesleyan University,Athens,Tennessee,1278
+Mildred Elley-New York Campus,New York,New York,1276
+Lively Technical College,Tallahassee,Florida,1275
+Transylvania University,Lexington,Kentucky,1275
+Rocky Mountain College,Billings,Montana,1273
+Wesley College,Dover,Delaware,1273
+University Of Health Sciences And Pharmacy In St. Louis,Saint Louis,Missouri,1273
+Nascar Technical Institute,Mooresville,North Carolina,1271
+Grace Christian University,Wyoming,Michigan,1267
+Montreat College,Montreat,North Carolina,1265
+California State University Maritime Academy,Vallejo,California,1264
+Spartanburg Methodist College,Spartanburg,South Carolina,1264
+Uintah Basin Technical College,Roosevelt,Utah,1263
+Cuny Stella And Charles Guttman Community College,New York,New York,1255
+United Education Institute-Chula Vista,Chula Vista,California,1251
+South Texas College Of Law Houston,Houston,Texas,1250
+Bladen Community College,Dublin,North Carolina,1245
+Maine Maritime Academy,Castine,Maine,1245
+Washburn Institute Of Technology,Topeka,Kansas,1245
+Great Falls College Montana State University,Great Falls,Montana,1243
+Universal Technical Institute Of Illinois Inc,Lisle,Illinois,1242
+Mcdowell Technical Community College,Marion,North Carolina,1240
+Universal Technical Institute-Southern California,Long Beach,California,1238
+Kent State University At East Liverpool,East Liverpool,Ohio,1237
+Huston-Tillotson University,Austin,Texas,1232
+Pitzer College,Claremont,California,1231
+Washington Adventist University,Takoma Park,Maryland,1231
+Florida Memorial University,Miami Gardens,Florida,1230
+Denver College Of Nursing,Denver,Colorado,1230
+Montana State University-Northern,Havre,Montana,1229
+Olivet College,Olivet,Michigan,1229
+Tri-County Community College,Murphy,North Carolina,1228
+Florida Career College-Houston,Houston,Texas,1225
+Hampden-Sydney College,Hampden-Sydney,Virginia,1225
+Hunter Business School,Levittown,New York,1225
+National Holistic Institute,Emeryville,California,1224
+Uei College-Gardena,Gardena,California,1223
+Culver-Stockton College,Canton,Missouri,1221
+Dabney S Lancaster Community College,Clifton Forge,Virginia,1218
+Naropa University,Boulder,Colorado,1215
+Colby-Sawyer College,New London,New Hampshire,1215
+Lake Erie College,Painesville,Ohio,1214
+University Of Providence,Great Falls,Montana,1212
+Dakota College At Bottineau,Bottineau,North Dakota,1207
+Goshen College,Goshen,Indiana,1205
+Warner University,Lake Wales,Florida,1205
+Downey Adult School,Downey,California,1204
+West Shore Community College,Scottville,Michigan,1199
+Itasca Community College,Grand Rapids,Minnesota,1196
